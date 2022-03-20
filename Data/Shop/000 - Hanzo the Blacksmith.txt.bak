@@ -1,0 +1,29 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   ExcOp	SetOp	JoH	OEx	Socket1	Socket2	Socket3	Socket4	Socket5
+0	0	0	21	0	1	0	0	0	0	0	0	0	0	0	0	// kriss
+0	1	0	22	0	1	0	0	0	0	0	0	0	0	0	0	// short sword
+0	2	0	23	1	1	0	0	0	0	0	0	0	0	0	0	// rapier
+0	3	0	27	1	1	0	0	0	0	0	0	0	0	0	0	// katana
+0	4	0	30	1	1	0	0	0	0	0	0	0	0	0	0	// Sword of Assassin
+0	5	0	32	1	1	0	0	0	0	0	0	0	0	0	0	// blade
+0	6	0	34	1	1	0	0	0	0	0	0	0	0	0	0	// gladius
+0	7	0	36	1	1	0	0	0	0	0	0	0	0	0	0	// falchion
+14	1	0	20	0	0	0	0	0	0	0	0	0	0	0	0	// pocion minima de vida
+11	5	0	30	0	1	0	0	0	0	0	0	0	0	0	0	// leather boots
+11	0	0	34	0	1	0	0	0	0	0	0	0	0	0	0	//	bronze Boots
+11	6	0	40	0	1	0	0	0	0	0	0	0	0	0	0	// scale boots
+11	8	0	44	0	1	0	0	0	0	0	0	0	0	0	0	//	Brass Boots
+10	5	0	30	0	1	0	0	0	0	0	0	0	0	0	0	//	leather gloves
+10	0	0	34	0	1	0	0	0	0	0	0	0	0	0	0	//	 bronze gloves
+10	6	0	40	0	1	0	0	0	0	0	0	0	0	0	0	//	 scale gloves
+10	8	0	44	0	1	0	0	0	0	0	0	0	0	0	0	//	brass boots
+9	5	0	30	0	1	0	0	0	0	0	0	0	0	0	0	//	leather pants
+9	0	0	34	0	1	0	0	0	0	0	0	0	0	0	0	//	bronze pants
+9	6	0	40	0	1	0	0	0	0	0	0	0	0	0	0	//	scale pants
+9	8	0	44	0	1	0	0	0	0	0	0	0	0	0	0	//	brass pants
+8	5	0	30	0	1	0	0	0	0	0	0	0	0	0	0	//	leather armor
+8	0	0	34	0	1	0	0	0	0	0	0	0	0	0	0	//	bronze armor
+8	6	0	40	0	1	0	0	0	0	0	0	0	0	0	0	//	scale armor
+8	8	0	44	0	1	0	0	0	0	0	0	0	0	0	0	//	brass armor
+
+end
+

@@ -1,0 +1,305 @@
+00:01:28 [Obj][11001] LogOutCharacter (Erika)
+00:01:28 [Obj][11001] DelAccount (erika107)
+00:01:28 [Obj][11001] DelClient (186.39.206.33)
+00:01:28 [Obj][11005] LogOutCharacter (ArViGx)
+00:01:28 [Obj][11005] DelAccount (alberto107)
+00:01:28 [Obj][11005] DelClient (186.39.206.33)
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 101 Y: 73)
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 153 Y: 89)
+00:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 85 Y: 127)
+01:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 134 Y: 164)
+04:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 126 Y: 218)
+04:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 139 Y: 132)
+04:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 206 Y: 65)
+05:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 50 Y: 112)
+06:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 110 Y: 91)
+08:03:09 [Obj][11003] LogOutCharacter (SmInvictus)
+08:03:09 [Obj][11003] DelAccount (franqito)
+08:03:09 [Obj][11003] DelClient (186.22.19.90)
+08:04:00 [Obj][11004] LogOutCharacter (Zyra420)
+08:04:00 [Obj][11004] DelAccount (92nato)
+08:04:00 [Obj][11004] DelClient (200.5.101.170)
+08:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 203 Y: 71)
+08:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 203 Y: 58)
+08:18:54 [ServerInfo] Item loaded successfully
+08:19:00 [ServerInfo] Monster loaded successfully
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 34 Y: 115)
+08:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 206 Y: 65)
+09:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 129 Y: 168)
+09:03:06 [ServerInfo] Monster loaded successfully
+09:03:15 [Set Invasion Start] Index 2 At  9: 5:00
+09:05:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 147 Y: 94)
+09:05:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 132 Y: 81)
+09:05:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 67 Y: 134)
+09:24:22 [ServerInfo] Monster loaded successfully
+09:42:27 [Obj][11010] AddClient (186.22.19.90)
+09:42:47 [Obj][11010] AddAccount (eliansito)
+09:43:44 [Obj][11010] LogInCharacter (espattano)
+10:15:15 [Obj][11002] AddClient (186.39.206.33)
+10:15:23 [Obj][11002] AddAccount (alberto107)
+10:15:33 [Obj][11002] LogInCharacter (ArViGx)
+10:16:24 [Obj][11009] AddClient (186.39.206.33)
+10:16:31 [Obj][11009] AddAccount (erika107)
+10:16:33 [Obj][11009] LogInCharacter (Erika)
+11:01:30 [Obj][11006] LogOutCharacter (test10)
+11:03:23 [Obj][11006] LogInCharacter (test10)
+11:11:05 [ServerInfo] Monster loaded successfully
+11:20:13 [ServerInfo] CashShop loaded successfully
+11:20:13 [ServerInfo] ChaosMix loaded successfully
+11:20:14 [ServerInfo] Character loaded successfully
+11:20:14 [ServerInfo] Custom loaded successfully
+11:20:14 [ServerInfo] Command loaded successfully
+11:20:15 [ServerInfo] Common loaded successfully
+11:20:15 [ServerInfo] Event loaded successfully
+11:20:17 [ServerInfo] EventItemBag loaded successfully
+11:20:17 [ServerInfo] Hack loaded successfully
+11:20:17 [ServerInfo] Item loaded successfully
+11:20:18 [ServerInfo] Monster loaded successfully
+11:20:18 [ServerInfo] Move loaded successfully
+11:20:18 [ServerInfo] Quest loaded successfully
+11:20:18 [ServerInfo] Shop loaded successfully
+11:20:18 [ServerInfo] Skill loaded successfully
+11:20:18 [ServerInfo] Util loaded successfully
+11:20:19 [ReadBotInfo] BotSystem loaded successfully
+11:20:24 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+11:20:26 [Obj][11000] AddClient (181.46.166.152)
+11:20:26 [Obj][11001] AddClient (190.17.22.8)
+11:20:27 [Obj][11002] AddClient (181.191.143.9)
+11:20:28 [Obj][11003] AddClient (186.39.206.33)
+11:20:29 [Obj][11004] AddClient (186.39.206.33)
+11:20:29 [Obj][11005] AddClient (181.46.166.152)
+11:20:30 [Obj][11006] AddClient (186.22.19.90)
+11:20:36 [Obj][11000] AddAccount (carolina)
+11:20:36 [Obj][11000] LogInCharacter (Meylin)
+11:20:36 [Obj][11001] AddAccount (braian90)
+11:20:37 [Obj][11002] AddAccount (xXManiacXx)
+11:20:37 [Obj][11001] LogInCharacter (test10)
+11:20:37 [Obj][11002] LogInCharacter (Maniac)
+11:20:38 [Obj][11003] AddAccount (alberto107)
+11:20:39 [Obj][11003] LogInCharacter (ArViGx)
+11:20:39 [Obj][11004] AddAccount (erika107)
+11:20:39 [Obj][11005] AddAccount (javier89)
+11:20:40 [Obj][11006] AddAccount (eliansito)
+11:20:40 [Obj][11005] LogInCharacter (Meilin)
+11:20:40 [Obj][11004] LogInCharacter (Erika)
+11:20:40 [Obj][11006] LogInCharacter (espattano)
+11:20:59 [ServerInfo] Monster loaded successfully
+11:27:04 [ServerInfo] Item loaded successfully
+11:34:45 [Obj][11006] LogOutCharacter (espattano)
+11:34:45 [Obj][11006] DelAccount (eliansito)
+11:34:45 [Obj][11006] DelClient (186.22.19.90)
+11:59:51 [ServerInfo] Monster loaded successfully
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 203 Y: 72)
+12:05:10 [ServerInfo] Monster loaded successfully
+12:09:53 [ServerInfo] Monster loaded successfully
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 212 Y: 152)
+12:16:43 [ServerInfo] Monster loaded successfully
+12:18:28 [ServerInfo] Monster loaded successfully
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 124 Y: 23)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 63 Y: 226)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 205 Y: 168)
+12:28:40 [ServerInfo] Monster loaded successfully
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 115 Y: 188)
+15:32:37 [Obj][11004] LogOutCharacter (Erika)
+15:32:37 [Obj][11004] DelAccount (erika107)
+15:32:37 [Obj][11004] DelClient (186.39.206.33)
+15:33:01 [Obj][11006] AddClient (186.39.206.33)
+15:33:14 [Obj][11006] AddAccount (erika107)
+15:33:18 [Obj][11006] LogInCharacter (Erika)
+15:33:22 [Obj][11006] LogOutCharacter (Erika)
+15:33:22 [Obj][11006] DelAccount (erika107)
+15:33:22 [Obj][11006] DelClient (186.39.206.33)
+15:33:54 [Obj][11004] AddClient (186.39.206.33)
+15:34:01 [Obj][11004] AddAccount (erika107)
+15:34:03 [Obj][11004] LogInCharacter (Erika)
+15:59:01 [Obj][11006] AddClient (200.5.101.170)
+15:59:04 [Obj][11006] AddAccount (92nato)
+15:59:19 [Obj][11006] LogInCharacter (Zyra420)
+16:08:34 [ServerInfo] Monster loaded successfully
+16:15:30 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (360000)
+16:19:36 [ServerInfo] Monster loaded successfully
+16:20:03 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (240000)
+16:22:45 [ServerInfo] Monster loaded successfully
+16:23:38 [ServerInfo] Monster loaded successfully
+16:24:19 [ServerInfo] Monster loaded successfully
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 185 Y: 21)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 145 Y: 100)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 181 Y: 106)
+16:26:46 [ServerInfo] Monster loaded successfully
+16:32:15 [ServerInfo] Monster loaded successfully
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 85 Y: 127)
+16:54:06 [ServerInfo] Common loaded successfully
+16:59:24 [ServerInfo] Common loaded successfully
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 54 Y: 104)
+17:01:02 [ServerInfo] Common loaded successfully
+17:05:50 [Obj][11007] AddClient (200.5.101.170)
+17:05:53 [Obj][11007] AddAccount (92nato2)
+17:05:58 [Obj][11007] LogInCharacter (Ricardo4)
+17:12:25 [Obj][11002] LogOutCharacter (Maniac)
+17:12:25 [Obj][11002] DelAccount (xXManiacXx)
+17:12:25 [Obj][11002] DelClient (181.191.143.9)
+17:12:57 [Obj][11002] AddClient (181.191.143.9)
+17:13:07 [Obj][11002] AddAccount (xXManiacXx)
+17:13:08 [Obj][11002] LogInCharacter (Maniac)
+17:31:23 [ServerInfo] Event loaded successfully
+17:31:26 [ServerInfo] EventItemBag loaded successfully
+17:31:29 [ServerInfo] Move loaded successfully
+17:31:32 [ServerInfo] Monster loaded successfully
+17:31:57 [ServerInfo] Monster loaded successfully
+17:32:21 [ServerInfo] Monster loaded successfully
+17:32:56 [ServerInfo] EventItemBag loaded successfully
+17:32:58 [ServerInfo] Monster loaded successfully
+17:33:47 [ServerInfo] EventItemBag loaded successfully
+17:33:50 [ServerInfo] Monster loaded successfully
+17:34:19 [ServerInfo] EventItemBag loaded successfully
+17:34:21 [ServerInfo] Monster loaded successfully
+17:34:51 [ServerInfo] EventItemBag loaded successfully
+17:34:54 [ServerInfo] Monster loaded successfully
+17:35:24 [ServerInfo] EventItemBag loaded successfully
+17:35:26 [ServerInfo] Monster loaded successfully
+17:35:49 [ServerInfo] EventItemBag loaded successfully
+17:35:51 [ServerInfo] Monster loaded successfully
+17:38:46 [ServerInfo] Item loaded successfully
+17:41:14 [ServerInfo] Monster loaded successfully
+18:29:13 [Obj][11008] AddClient (201.190.251.252)
+18:29:20 [Obj][11008] AddAccount (sislive)
+18:29:29 [Obj][11008] LogInCharacter (MOTORPSICO)
+18:37:05 [Obj][11008] LogOutCharacter (MOTORPSICO)
+18:37:05 [Obj][11008] DelAccount (sislive)
+18:37:05 [Obj][11008] DelClient (201.190.251.252)
+18:37:09 [Obj][11009] AddClient (201.190.251.252)
+18:37:09 [Obj][11010] AddClient (201.190.251.252)
+18:37:14 [Obj][11009] AddAccount (sislive1)
+18:37:17 [Obj][11009] LogInCharacter (HANUMAN)
+18:37:40 [Obj][11010] DelClient (201.190.251.252)
+18:37:40 Response error after connection causes conclusion [11010][][][201.190.251.252]
+18:39:46 [braian90][test10] Kill [92nato][Zyra420]
+18:55:34 [Obj][11001] LogOutCharacter (test10)
+18:55:36 [Obj][11001] LogInCharacter (test10)
+18:55:54 [Obj][11001] LogOutCharacter (test10)
+18:55:56 [Obj][11001] LogInCharacter (Fafnir)
+18:57:09 [Obj][11006] LogOutCharacter (Zyra420)
+18:57:09 [Obj][11006] DelAccount (92nato)
+18:57:09 [Obj][11006] DelClient (200.5.101.170)
+18:57:31 [Obj][11001] LogOutCharacter (Fafnir)
+18:57:33 [Obj][11001] LogInCharacter (test10)
+18:57:44 [Obj][11001] LogOutCharacter (test10)
+18:57:46 [Obj][11001] LogInCharacter (Fafnir)
+19:00:18 [Obj][11001] LogOutCharacter (Fafnir)
+19:00:20 [Obj][11001] LogInCharacter (test10)
+19:01:22 [Obj][11001] LogOutCharacter (test10)
+19:01:24 [Obj][11001] LogInCharacter (Fafnir)
+19:02:26 [Obj][11001] LogOutCharacter (Fafnir)
+19:02:30 [Obj][11001] LogInCharacter (test10)
+19:02:39 [Obj][11001] LogOutCharacter (test10)
+19:02:43 [Obj][11001] LogInCharacter (Fafnir)
+19:03:43 [Obj][11001] LogOutCharacter (Fafnir)
+19:03:45 [Obj][11001] LogInCharacter (test10)
+19:04:10 [Obj][11001] LogOutCharacter (test10)
+19:04:13 [Obj][11001] LogInCharacter (Fafnir)
+19:04:35 [Obj][11008] AddClient (200.5.101.170)
+19:04:35 [Obj][11008] AddAccount (92nato)
+19:04:35 [Obj][11008] LogInCharacter (Zyra420)
+19:05:26 [Obj][11001] LogOutCharacter (Fafnir)
+19:05:28 [Obj][11001] LogInCharacter (test10)
+19:06:15 [Obj][11009] LogOutCharacter (HANUMAN)
+19:06:15 [Obj][11009] DelAccount (sislive1)
+19:06:15 [Obj][11009] DelClient (201.190.251.252)
+19:11:41 [Obj][11001] LogOutCharacter (test10)
+19:11:43 [Obj][11001] LogInCharacter (Fafnir)
+19:11:46 [Obj][11001] LogOutCharacter (Fafnir)
+19:11:48 [Obj][11001] LogInCharacter (test10)
+19:11:55 [Obj][11001] LogOutCharacter (test10)
+19:11:57 [Obj][11001] LogInCharacter (Fafnir)
+19:12:21 [Obj][11002] LogOutCharacter (Maniac)
+19:12:21 [Obj][11002] DelAccount (xXManiacXx)
+19:12:21 [Obj][11002] DelClient (181.191.143.9)
+19:13:26 [Obj][11010] AddClient (181.191.143.9)
+19:13:36 [Obj][11010] AddAccount (xXManiacXx)
+19:13:37 [Obj][11010] LogInCharacter (Maniac)
+19:15:47 [ServerInfo] Monster loaded successfully
+19:15:55 [Obj][11001] LogOutCharacter (Fafnir)
+19:15:57 [Obj][11001] LogInCharacter (test10)
+19:17:12 [Obj][11006] AddClient (201.190.251.252)
+19:17:20 [Obj][11006] AddAccount (sislive1)
+19:17:22 [Obj][11006] LogInCharacter (HANUMAN)
+19:17:38 [ServerInfo] Monster loaded successfully
+19:18:19 [braian90][test10] Kill [sislive1][HANUMAN]
+19:18:50 [braian90][test10] Kill [sislive1][HANUMAN]
+19:19:26 [BotBuffer] CharName: HANUMAN - ADD_GREATER_DAMAGE Time: 5
+19:19:29 [BotBuffer] CharName: HANUMAN - ADD_SKILL_MANA Time: 5
+19:26:07 [Obj][11006] LogOutCharacter (HANUMAN)
+19:26:07 [Obj][11006] DelAccount (sislive1)
+19:26:07 [Obj][11006] DelClient (201.190.251.252)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 189 Y: 140)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 53 Y: 92)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 116 Y: 157)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 181 Y: 229)
+20:42:29 [ServerInfo] Common loaded successfully
+20:42:54 [Obj][11009] AddClient (200.5.101.170)
+20:43:00 [Obj][11009] AddAccount (yinco)
+20:43:06 [Obj][11009] LogInCharacter (Yinco)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 85 Y: 127)
+20:51:38 [ServerInfo] Common loaded successfully
+20:51:51 [ServerInfo] Monster loaded successfully
+20:54:13 [Obj][11000] LogOutCharacter (Meylin)
+20:54:13 [Obj][11000] DelAccount (carolina)
+20:54:13 [Obj][11000] DelClient (181.46.166.152)
+20:54:16 [Obj][11005] LogOutCharacter (Meilin)
+20:54:16 [Obj][11005] DelAccount (javier89)
+20:54:16 [Obj][11005] DelClient (181.46.166.152)
+21:00:04 [ServerInfo] Monster loaded successfully
+21:18:17 [Obj][11009] LogOutCharacter (Yinco)
+21:18:17 [Obj][11009] DelAccount (yinco)
+21:18:17 [Obj][11009] DelClient (200.5.101.170)
+21:20:32 [Obj][11002] AddClient (200.5.101.170)
+21:20:37 [Obj][11002] AddAccount (yinco)
+21:20:46 [Obj][11002] LogInCharacter (Yinco)
+21:20:52 [Obj][11007] LogOutCharacter (Ricardo4)
+21:20:53 [Obj][11007] DelAccount (92nato2)
+21:20:53 [Obj][11007] DelClient (200.5.101.170)
+21:24:30 [Obj][11008] LogOutCharacter (Zyra420)
+21:24:31 [Obj][11008] DelAccount (92nato)
+21:24:31 [Obj][11008] DelClient (200.5.101.170)
+21:25:11 [Obj][11002] LogOutCharacter (Yinco)
+21:25:11 [Obj][11002] DelAccount (yinco)
+21:25:11 [Obj][11002] DelClient (200.5.101.170)
+21:42:14 [Obj][11006] AddClient (200.5.101.170)
+21:42:14 [Obj][11006] AddAccount (92nato)
+21:42:14 [Obj][11006] LogInCharacter (Zyra420)
+21:51:19 [Obj][11000] AddClient (200.5.101.170)
+21:51:19 [Obj][11005] AddClient (200.5.101.170)
+21:51:19 [Obj][11000] AddAccount (92nato2)
+21:51:19 [Obj][11000] LogInCharacter (Ricardo4)
+21:51:19 [Obj][11005] AddAccount (yinco)
+21:51:19 [Obj][11005] LogInCharacter (Yinco)
+21:53:07 [Obj][11009] AddClient (200.5.101.170)
+21:53:13 [Obj][11009] AddAccount (yincox)
+21:53:20 [Obj][11009] LogInCharacter (Minerva)
+21:53:54 [Obj][11006] LogOutCharacter (Zyra420)
+21:53:55 [Obj][11006] DelAccount (92nato)
+21:53:55 [Obj][11006] DelClient (200.5.101.170)
+21:56:01 [Obj][11007] AddClient (200.5.101.170)
+21:56:05 [Obj][11007] AddAccount (92nato)
+21:56:11 [Obj][11007] LogInCharacter (Zyra420)
+21:56:52 [Obj][11007] LogOutCharacter (Zyra420)
+21:56:53 [Obj][11007] DelAccount (92nato)
+21:56:53 [Obj][11007] DelClient (200.5.101.170)
+22:05:00 [KING OF MU] Start
+22:15:56 [Obj][11000] LogOutCharacter (Ricardo4)
+22:15:57 [Obj][11000] DelAccount (92nato2)
+22:15:57 [Obj][11000] DelClient (200.5.101.170)
+22:16:12 [Obj][11009] LogOutCharacter (Minerva)
+22:16:13 [Obj][11009] DelAccount (yincox)
+22:16:13 [Obj][11009] DelClient (200.5.101.170)
+22:16:19 [Obj][11005] LogOutCharacter (Yinco)
+22:16:20 [Obj][11005] DelAccount (yinco)
+22:16:20 [Obj][11005] DelClient (200.5.101.170)
+22:35:00 [KING OF MU] Finish - No Winner
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 110 Y: 118)
+23:19:30 [Obj][11010] LogOutCharacter (Maniac)
+23:19:30 [Obj][11010] DelAccount (xXManiacXx)
+23:19:30 [Obj][11010] DelClient (181.191.143.9)
+23:20:24 [Obj][11008] AddClient (181.191.143.9)
+23:20:35 [Obj][11008] AddAccount (xXManiacXx)
+23:20:35 [Obj][11008] LogInCharacter (Maniac)

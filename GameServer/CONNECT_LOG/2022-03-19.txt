@@ -1,0 +1,1 @@
+07:42:46 [SocketManager] WSASend() failed with error: 10054

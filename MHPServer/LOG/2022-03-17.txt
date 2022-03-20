@@ -1,0 +1,37 @@
+00:58:41 [ClientManager][4] DelClient (181.191.143.8)
+01:00:46 [ClientManager][10] AddClient (167.249.55.98)
+01:00:46 [ClientManager][10] ClientInfo (HardwareId: 0AE1F919-ACCDFEB5-CD6A8D75-8941EADE)
+01:01:01 [ClientManager][11] AddClient (181.191.143.8)
+01:01:01 [ClientManager][11] ClientInfo (HardwareId: 0AE1F919-ACCDFEB5-CD6A8D75-8941EADE)
+01:01:26 [ClientManager][10] DelClient (167.249.55.98)
+01:10:24 [ClientManager][11] DelClient (181.191.143.8)
+01:12:00 [ClientManager][13] AddClient (181.191.143.8)
+01:12:00 [ClientManager][13] ClientInfo (HardwareId: 0AE1F919-ACCDFEB5-CD6A8D75-8941EADE)
+13:16:03 [ClientManager][13] DelClient (181.191.143.8)
+13:18:05 [ClientManager][2] AddClient (181.191.143.8)
+13:18:05 [ClientManager][2] ClientInfo (HardwareId: 0AE1F919-ACCDFEB5-CD6A8D75-8941EADE)
+13:36:13 [ClientManager][2] DelClient (181.191.143.8)
+13:37:18 [ClientManager][7] AddClient (181.191.143.8)
+13:37:18 [ClientManager][7] ClientInfo (HardwareId: 0AE1F919-ACCDFEB5-CD6A8D75-8941EADE)
+15:20:44 [ClientManager][0] AddClient (181.191.143.8)
+15:20:44 [ClientManager][0] ClientInfo (HardwareId: 0AE1F919-ACCDFEB5-CD6A8D75-8941EADE)
+15:21:26 [ClientManager][7] DelClient (181.191.143.8)
+18:22:11 [SocketManager] Server started at port [55999]
+18:22:11 [ServerInfo] Config loaded successfully
+18:22:11 [ServerInfo] DumpList loaded successfully
+18:22:11 [ServerInfo] ChecksumList loaded successfully
+18:22:11 [ServerInfo] InternalList loaded successfully
+18:22:11 [ServerInfo] WindowList loaded successfully
+18:22:11 [ServerInfo] BlackList loaded successfully
+18:22:13 [ClientManager][0] AddClient (181.46.166.152)
+18:22:13 [ClientManager][0] ClientInfo (HardwareId: 43ABC05C-B4DDE6A5-D47B9F6C-BC7096BD)
+18:22:13 [ClientManager][1] AddClient (181.46.166.152)
+18:22:13 [ClientManager][1] ClientInfo (HardwareId: 43ABC05C-B4DDE6A5-D47B9F6C-BC7096BD)
+18:22:13 [ClientManager][2] AddClient (181.46.166.152)
+18:22:13 [ClientManager][2] ClientInfo (HardwareId: 43ABC05C-B4DDE6A5-D47B9F6C-BC7096BD)
+18:22:15 [ClientManager][3] AddClient (181.46.166.152)
+18:22:15 [ClientManager][3] ClientInfo (HardwareId: 43ABC05C-B4DDE6A5-D47B9F6C-BC7096BD)
+18:22:15 [ClientManager][4] AddClient (181.46.166.152)
+18:22:15 [ClientManager][4] ClientInfo (HardwareId: 43ABC05C-B4DDE6A5-D47B9F6C-BC7096BD)
+18:22:17 [ClientManager][5] AddClient (181.191.143.8)
+18:22:17 [ClientManager][5] ClientInfo (HardwareId: 0AE1F919-ACCDFEB5-CD6A8D75-8941EADE)

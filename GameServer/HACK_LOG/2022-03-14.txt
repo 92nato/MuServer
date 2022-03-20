@@ -1,0 +1,4 @@
+01:41:19 [HackPacketCheck][92nato][Pegasus] Packet unknown error (Index: 25, Value: 0)
+20:15:10 [HackPacketCheck][92nato2][pegaso] Packet count error (Index: 24, Value: -1, Count: [11][15])
+23:12:21 [HackPacketCheck][92nato4][ViejOscurO] Packet count error (Index: 24, Value: -1, Count: [11][15])
+23:12:23 [HackPacketCheck][92nato4][ViejOscurO] Packet count error (Index: 24, Value: -1, Count: [12][15])

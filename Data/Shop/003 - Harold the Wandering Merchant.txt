@@ -1,0 +1,33 @@
+/////////////////////////////////////////////////////////////////////////////
+//Shop Editor cortesia de www.fb.com/igkgamers
+///////////////////////////
+//Aporte de www.fb.com/karuritoku
+///////////////////////////
+//Shop: 003 - Harold the Wandering Merchant
+/////////////////////////////////////////////////////////////////////////////
+//Group	Index	Level	Dur	Skill	Luck	Opt	ExeOpt	Acc	JoH	Oex	Sck[1]	Sck[2]	Sck[3]	Sck[4]	Sck[5]	Info
+/////////////////////////////////////////////////////////////////////////////
+//
+7	0	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Bronze Helm
+7	6	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Scale Helm
+7	25	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Light Plate Mask
+7	26	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Adamantine Mask
+8	0	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Bronze Armor
+8	6	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Scale Armor
+8	25	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Light Plate Armor
+8	26	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Adamantine Armor
+9	0	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Bronze Pants
+9	6	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Scale Pants
+9	25	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Light Plate Pants
+9	26	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Adamantine Pants
+10	0	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Bronze Gloves
+10	6	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Scale Gloves
+10	25	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Light Plate Gloves
+10	26	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Adamantine Gloves
+11	0	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Bronze Boots
+11	6	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Scale Boots
+11	25	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Light Plate Boots
+11	26	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Adamantine Boots
+2	8	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Battle Scepter
+2	9	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Master Scepter
+end

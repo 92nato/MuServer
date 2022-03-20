@@ -1,0 +1,202 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Box of Kundun 1"	 1000	   100		  1		  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+//ARMAS TODAS LAS OPCIONES
+
+0	0	0	0	1	1	1	1	//kriss
+0	1	0	0	1	1	1	1	//short sword
+1	0	0	0	1	1	1	1
+1	1	0	0	1	1	1	1
+1	2	0	0	1	1	1	1
+1	4	0	0	1	1	1	1
+2	0	0	0	1	1	1	1 // mace
+2	1	0	0	1	1	1	1 // morning star
+4	0	0	0	1	1	1	1	//	short bow
+4	8	0	0	1	1	1	1	//crossbow
+4	1	0	0	1	1	1	1	//bow
+4	9	0	0	1	1	1	1	//golden crossbow
+4	10	0	0	1	1	1	1	//arquebus
+3	0	0	0	1	1	1	1	//light spear
+5	1	0	0	1	1	1	1	//angelic staff
+5	3	0	0	1	1	1	1	//thunder staff
+5	14	0	0	1	1	1	1	//Mistery Stick
+5	15	0	0	1	1	1	1	//violent stick
+2	8	0	0	1	1	1	1	//battlescepter
+
+//ARMAS SKILL Y LUCK
+0	0	0	0	1	1	0	1	//kriss
+0	1	0	0	1	1	0	1	//short sword
+1	0	0	0	1	1	0	1
+1	1	0	0	1	1	0	1
+1	2	0	0	1	1	0	1
+1	4	0	0	1	1	0	1
+2	0	0	0	1	1	0	1 // mace
+2	1	0	0	1	1	0	1 // morning star
+4	0	0	0	1	1	0	1	//	short bow
+4	8	0	0	1	1	0	1	//crossbow
+4	1	0	0	1	1	0	1	//bow
+4	9	0	0	1	1	0	1	//golden crossbow
+4	10	0	0	1	1	0	1	//arquebus
+3	0	0	0	1	1	0	1	//light spear
+5	1	0	0	1	1	0	1	//angelic staff
+5	3	0	0	1	1	0	1	//thunder staff
+5	14	0	0	1	1	0	1	//Mistery Stick
+5	15	0	0	1	1	0	1	//violent stick
+2	8	0	0	1	1	0	1	//battlescepter
+
+//ARMAS SKILL Y OPCION
+0	0	0	0	1	0	1	1	//kriss
+0	1	0	0	1	0	1	1	//short sword
+1	0	0	0	1	0	1	1
+1	1	0	0	1	0	1	1
+1	2	0	0	1	0	1	1
+1	4	0	0	1	0	1	1
+2	0	0	0	1	0	1	1 // mace
+2	1	0	0	1	0	1	1 // morning star
+4	0	0	0	1	0	1	1	//	short bow
+4	8	0	0	1	0	1	1	//crossbow
+4	1	0	0	1	0	1	1	//bow
+4	9	0	0	1	0	1	1	//golden crossbow
+4	10	0	0	1	0	1	1	//arquebus
+3	0	0	0	1	0	1	1	//light spear
+5	1	0	0	1	0	1	1	//angelic staff
+5	3	0	0	1	0	1	1	//thunder staff
+5	14	0	0	1	0	1	1	//Mistery Stick
+5	15	0	0	1	0	1	1	//violent stick
+2	8	0	0	1	0	1	1	//battlescepter
+
+//ARMADURAS TODAS LAS OPCIONES
+
+//LEATHER
+7	5	0	0	1	1	1	1
+8	5	0	0	1	1	1	1
+9	5	0	0	1	1	1	1
+10	5	0	0	1	1	1	1
+11	5	0	0	1	1	1	1
+
+//BONE
+7	4	0	0	1	1	1	1
+8	4	0	0	1	1	1	1
+9	4	0	0	1	1	1	1
+10	4	0	0	1	1	1	1
+11	4	0	0	1	1	1	1
+
+//PAD
+7	2	0	0	1	1	1	1
+8	2	0	0	1	1	1	1
+9	2	0	0	1	1	1	1
+10	2	0	0	1	1	1	1
+11	2	0	0	1	1	1	1
+
+//SILK
+7	11	0	0	1	1	1	1
+8	11	0	0	1	1	1	1
+9	11	0	0	1	1	1	1
+10	11	0	0	1	1	1	1
+11	11	0	0	1	1	1	1
+
+//VINE
+7	10	0	0	1	1	1	1
+8	10	0	0	1	1	1	1
+9	10	0	0	1	1	1	1
+10	10	0	0	1	1	1	1
+11	10	0	0	1	1	1	1
+
+//BRONZE
+7	0	0	0	1	1	1	1
+8	0	0	0	1	1	1	1
+9	0	0	0	1	1	1	1
+10	0	0	0	1	1	1	1
+11	0	0	0	1	1	1	1
+
+//ARMADURAS LUCK SOLO
+//LEATHER
+7	5	0	0	1	1	0	1
+8	5	0	0	1	1	0	1
+9	5	0	0	1	1	0	1
+10	5	0	0	1	1	0	1
+11	5	0	0	1	1	0	1
+
+//BONE
+7	4	0	0	1	1	0	1
+8	4	0	0	1	1	0	1
+9	4	0	0	1	1	0	1
+10	4	0	0	1	1	0	1
+11	4	0	0	1	1	0	1
+
+//PAD
+7	2	0	0	1	1	0	1
+8	2	0	0	1	1	0	1
+9	2	0	0	1	1	0	1
+10	2	0	0	1	1	0	1
+11	2	0	0	1	1	0	1
+
+//SILK
+7	11	0	0	1	1	0	1
+8	11	0	0	1	1	0	1
+9	11	0	0	1	1	0	1
+10	11	0	0	1	1	0	1
+11	11	0	0	1	1	0	1
+
+//VINE
+7	10	0	0	1	1	0	1
+8	10	0	0	1	1	0	1
+9	10	0	0	1	1	0	1
+10	10	0	0	1	1	0	1
+11	10	0	0	1	1	0	1
+
+//BRONZE
+7	0	0	0	1	1	0	1
+8	0	0	0	1	1	0	1
+9	0	0	0	1	1	0	1
+10	0	0	0	1	1	0	1
+11	0	0	0	1	1	0	1
+
+//ARMADURAS OPCION SOLO
+//LEATHER
+7	5	0	0	1	0	1	1
+8	5	0	0	1	0	1	1
+9	5	0	0	1	0	1	1
+10	5	0	0	1	0	1	1
+11	5	0	0	1	0	1	1
+
+//BONE
+7	4	0	0	1	0	1	1
+8	4	0	0	1	0	1	1
+9	4	0	0	1	0	1	1
+10	4	0	0	1	0	1	1
+11	4	0	0	1	0	1	1
+
+//PAD
+7	2	0	0	1	0	1	1
+8	2	0	0	1	0	1	1
+9	2	0	0	1	0	1	1
+10	2	0	0	1	0	1	1
+11	2	0	0	1	0	1	1
+
+//SILK
+7	11	0	0	1	0	1	1
+8	11	0	0	1	0	1	1
+9	11	0	0	1	0	1	1
+10	11	0	0	1	0	1	1
+11	11	0	0	1	0	1	1
+
+//VINE
+7	10	0	0	1	0	1	1
+8	10	0	0	1	0	1	1
+9	10	0	0	1	0	1	1
+10	10	0	0	1	0	1	1
+11	10	0	0	1	0	1	1
+
+//BRONZE
+7	0	0	0	1	0	1	1
+8	0	0	0	1	0	1	1
+9	0	0	0	1	0	1	1
+10	0	0	0	1	0	1	1
+11	0	0	0	1	0	1	1
+
+end

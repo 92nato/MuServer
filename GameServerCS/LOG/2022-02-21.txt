@@ -1,0 +1,86 @@
+14:06:27 [Obj][3500] AddClient (186.12.60.22)
+14:06:28 [Obj][3500] AddAccount (yincox)
+14:06:28 [Obj][3500] LogInCharacter (Minerva)
+14:07:39 [Obj][3500] LogOutCharacter (Minerva)
+14:07:40 [Obj][3500] DelAccount (yincox)
+14:07:40 [Obj][3500] DelClient (186.12.60.22)
+14:51:52 [ServerInfo] CashShop loaded successfully
+14:51:52 [ServerInfo] ChaosMix loaded successfully
+14:51:52 [ServerInfo] Character loaded successfully
+14:51:52 [ServerInfo] Custom loaded successfully
+14:51:52 [ServerInfo] Command loaded successfully
+14:51:52 [ServerInfo] Common loaded successfully
+14:51:52 [ Crywolf ] State (0) -> NONE
+14:51:52 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+14:51:52 [ServerInfo] Event loaded successfully
+14:51:52 [ServerInfo] EventItemBag loaded successfully
+14:51:52 [ServerInfo] Hack loaded successfully
+14:51:52 [ServerInfo] Item loaded successfully
+14:51:52 [ServerInfo] Monster loaded successfully
+14:51:52 [ServerInfo] Move loaded successfully
+14:51:52 [ServerInfo] Quest loaded successfully
+14:51:52 [ServerInfo] Shop loaded successfully
+14:51:52 [ServerInfo] Skill loaded successfully
+14:51:52 [ServerInfo] Util loaded successfully
+14:51:52 [ReadBotInfo] BotSystem loaded successfully
+14:51:53 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+14:51:53 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+14:51:53 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2018-5-6)
+14:51:53 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+14:51:53 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2018-5-13(0:0:0))
+14:51:53 [CastleSiege] CCastleSiege::Init() - START
+14:51:53 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+14:51:54 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+14:52:20 [ServerInfo] Monster loaded successfully
+14:53:26 [Set Invasion Start] Index 11 At 14:55:00
+14:53:52 [Set Invasion Start] Index 12 At 14:55:00
+14:54:22 [Set Invasion Start] Index 13 At 14:56:00
+14:57:04 [Set Invasion Start] Index 2 At 14:59:00
+14:57:36 [Set Invasion Start] Index 2 At 14:59:00
+15:05:25 [Set Invasion Start] Index 5 At 15: 7:00
+15:10:08 [Set Invasion Start] Index 3 At 15:12:00
+15:15:32 [ServerInfo] Monster loaded successfully
+15:15:52 [Set Invasion Start] Index 3 At 15:17:00
+15:17:07 [ServerInfo] CashShop loaded successfully
+15:17:07 [ServerInfo] ChaosMix loaded successfully
+15:17:07 [ServerInfo] Character loaded successfully
+15:17:07 [ServerInfo] Command loaded successfully
+15:17:07 [ServerInfo] Common loaded successfully
+15:17:07 [ServerInfo] Custom loaded successfully
+15:17:07 [ Crywolf ] State (0) -> NONE
+15:17:07 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+15:17:07 [ServerInfo] Event loaded successfully
+15:17:07 [ServerInfo] EventItemBag loaded successfully
+15:17:07 [ServerInfo] Hack loaded successfully
+15:17:08 [ServerInfo] Monster loaded successfully
+15:17:08 [ServerInfo] Move loaded successfully
+15:17:08 [ServerInfo] Quest loaded successfully
+15:17:08 [ServerInfo] Shop loaded successfully
+15:17:08 [ServerInfo] Skill loaded successfully
+15:17:08 [ServerInfo] Util loaded successfully
+15:17:08 [ReadBotInfo] BotSystem loaded successfully
+15:17:08 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+15:17:08 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+15:17:08 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2018-5-6)
+15:17:08 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+15:17:08 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2018-5-13(0:0:0))
+15:17:08 [CastleSiege] CCastleSiege::Init() - START
+15:17:08 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+15:21:28 [ServerInfo] Monster loaded successfully
+15:22:04 [ Crywolf ] State (0) -> NONE
+15:22:04 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+15:22:04 [ServerInfo] Event loaded successfully
+15:22:04 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+15:22:04 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+15:22:04 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2018-5-6)
+15:22:04 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+15:22:04 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2018-5-13(0:0:0))
+15:22:04 [CastleSiege] CCastleSiege::Init() - START
+15:22:04 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+15:22:22 [ServerInfo] EventItemBag loaded successfully
+15:22:27 [ServerInfo] Monster loaded successfully
+15:22:31 [Set Invasion Start] Index 3 At 15:24:00
+15:25:43 [ServerInfo] EventItemBag loaded successfully
+15:28:32 [ServerInfo] EventItemBag loaded successfully
+15:32:54 [ServerInfo] EventItemBag loaded successfully
+15:33:01 [Set Invasion Start] Index 0 At 15:35:00

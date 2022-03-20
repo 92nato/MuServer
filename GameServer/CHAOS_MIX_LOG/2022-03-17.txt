@@ -1,0 +1,2 @@
+13:15:04 [PlusItemLevelMix][Success][xXManiacXx][Jack] - (Type: 0, ChaosSuccessRate: 85, ChaosMoney: 2060000)
+13:15:48 [PlusItemLevelMix][Success][xXManiacXx][Jack] - (Type: 1, ChaosSuccessRate: 85, ChaosMoney: 4120000)

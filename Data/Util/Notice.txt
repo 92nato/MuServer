@@ -1,0 +1,5 @@
+//Message                                                            Type   Count   Opacity   Delay   Red   Green   Blue   Speed   RepeatTime
+"https://vicius-mu.com"                                                  0      0       0         0       0     0       0      0       160
+"Nadie va a pedir los datos de tu cuenta!"                                  0      0       0         0       0     1       0      0       160
+
+end

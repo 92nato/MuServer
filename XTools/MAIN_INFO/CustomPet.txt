@@ -1,0 +1,83 @@
+//////////////////////////////////////////////
+//Custom Pets by louis
+//////////////////////////////////////////////
+//Types
+//Moviment like a:
+// 0 -> Demon
+// 1 ->	Rudolf
+// 2 -> Panda
+// 3 -> Unicorn
+// 4 -> Skeleton
+// 5 -> Fenrir (Mount)
+// 6 -> Dark Horse (Mount)
+// 7 -> Dinorant (Mount)
+// 8 -> Muun Pet
+//========================================================================================================================================
+// MOUNTS
+//========================================================================================================================================
+//	#Index	#Type	#Size	#DropSize	#Height		#Tranparency	#FenrirEffect	#ModelName
+	6856  	6   	1.0	0.3		0.0		0		0		"ghost_horse_decrypted"
+//========================================================================================================================================
+// PETS
+//========================================================================================================================================
+//	#Index	#Type	#Size	#DropSize	#Height		#Tranparency	#FenrirEffect	#ModelName
+	6857    8   	0.8	0.5		70.0		0		0		"DragonKnight"
+	6858    8   	0.8	0.5		70.0		0		0		"DarkWizard"
+	6859    8   	0.9	0.5		70.0		0		0		"FairyElf"
+	6860    8   	0.8	0.7		70.0		0		0		"dragonpet"             // Luki
+	6861    8   	0.8	0.7		70.0		0		0		"dragonpet_evol"        // Luki (Lv2)
+	6862    8   	0.7	0.5		70.0		0		0		"williumpet"            // William
+	6863    8   	0.6	0.5		70.0		0		0		"williumpet_evol"       // William (Lv2)
+	6864    8   	0.7	0.5		0.0		0		0		"wolfpet"               // Tibetton
+	6865    8   	0.7	0.5		0.0		0		0		"wolfpet_evol"          // Tibetton (Lv2)
+	6866    8   	0.8	0.7		70.0		0		0		"wooparoopet"           // Wooparoo
+	6867    8   	0.8	0.7		70.0		0		0		"wooparoopet_evol"      // Wooparoo (Lv2)
+	6868    8   	0.5	0.4		0.0		0		0		"Kironpet"              // Chiron
+	6869    8   	0.5	0.4		0.0		0		0		"Kironpet_evol"         // Chiron (Lv2)
+	6870    8   	1.2	0.5		70.0		0		0		"Desmodus"              // Desmodus
+	6871    8   	1.2	0.5		70.0		0		0		"Desmodus_evol"         // Desmodus (Lv2)
+	6872    5   	0.9	0.3		0.0		0		0		"swordnkgk1"            // Tibetton Mount
+	6873    5   	0.9	0.3		0.0		0		0		"swordnkgk2"            // Tibetton Mount (Lv2)
+	6874    8   	1.0	0.5		0.0		0		0		"runemuun"               // Rune Wizard
+	6875    8   	0.9	0.5		70.0		0		0		"gaionkharein"           // Gaion Kharein
+	6876    8   	1.0	0.5		40.0		0		0		"prince"                 // Prince
+	6877    8   	1.0	0.5		40.0		0		0		"king"                   // King Rex Milion
+	6878    8   	0.3	0.2		0.0		0		0		"loglepet"               // Loggle
+	6879    8   	0.3	0.2		0.0		0		0		"loglepet_evol"          // Loggle (Lv2)
+
+	6880    8   	0.5	0.5		70.0		0		0		"rippenpet"              // Repen
+	6881    8   	0.5	0.5		70.0		0		0		"rippenpet_evol"         // Repen (Lv2)
+	6882    5   	0.9	0.3		0.0		0		0		"rippen_ride"            // Repen Mount
+	6883    5   	0.9	0.3		0.0		0		0		"rippenUp_ride"          // Repen Moun (Lv2)
+	6884    8   	0.7	0.5		0.0		0		0		"balrog"                 // Balrog
+	6885    8   	0.7	0.5		0.0		0		0		"balrogUp"               // Balrog (Lv2)
+	6886    8   	0.6	0.5		80.0		0		0		"phoenixofdarkness"      // Phoenix of Darkness
+	6887    8   	0.6	0.5		80.0		0		0		"phoenixofdarknessUp"    // Phoenix of Darkness (Lv2)
+	6888    8   	0.6	0.5		0.0		0		0		"kundun"                 // Kundun
+	6889    8   	0.6	0.5		0.0		0		0		"kundunUp"               // Kundun (Lv2)
+	6890    8   	1.0	0.5		0.0		0		0		"nightmare"              // Nightmare
+	6891    8   	1.0	0.5		0.0		0		0		"nightmareUp"            // Nightmare (Lv2)
+	6892    8   	1.0	0.5		70.0		0		0		"hellmaine"              // HellMain
+	6893    8   	1.0	0.5		70.0		0		0		"hellmaineUp"            // HellMain (Lv2)
+	6894    8   	0.9	0.5		0.0		0		0		"selupan"                // Selupan
+	6895    8   	0.9	0.5		0.0		0		0		"selupanUp"              // Selupan (Lv2)
+	6896    8   	1.4	0.8		0.0		0		0		"medusa"                 // Medusa
+	6897    8   	1.4	0.8		0.0		0		0		"medusaUp"               // Medusa (Lv2)
+	6898    8   	1.2	0.5		0.0		0		0		"lordsilvester"          // Lord Silvester
+	6899    8   	1.2	0.5		0.0		0		0		"lordsilvesterUp"        // Lord Silvester (Lv2)
+	6900    8   	0.9	0.5		70.0		0		0		"nix"                    // Nix
+	6901    8   	0.9	0.5		70.0		0		0		"nixUp"                  // Nix (Lv2)
+
+        6902  	5   	1.0	0.3		0.0		1		0		"icedragon"
+        6903  	5   	1.0	0.3		0.0		1		0		"icedragon_rare"
+        6904  	5   	1.0	0.3		0.0		1		0		"fenrirghostv2"
+
+	6905  	6   	1.0	0.3		0.0		0		0		"redghhorse"
+	6906  	6   	1.0	0.3		0.0		0		0		"ghost_horse"
+
+	6907  	5   	1.0	0.3		0.0		0		0		"rierceryan"            // BLUE
+	6908  	5   	1.0	0.3		0.0		0		0		"rierceryan_rare"       // RED
+
+
+
+end

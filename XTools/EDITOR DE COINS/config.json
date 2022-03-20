@@ -1,0 +1,11 @@
+{
+  "server": "127.0.0.1",
+  "database": "MuOnline",
+  "user": "sa",
+  "pass": "CGYZ3GTzlWXEz866B94Blw==",
+  "nameTable": "CashShopData",
+  "ColumID": "AccountID",
+  "ColumWCoinC": "WCoinC",
+  "ColumWCoinP": "WCoinP",
+  "ColumGP": "GoblinPoint"
+}

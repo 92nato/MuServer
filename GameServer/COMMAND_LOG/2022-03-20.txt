@@ -1,0 +1,5 @@
+08:05:13 [CommandAddPoint][xXManiacXx][Jack] - (Type: 1, Amount: 266)
+09:22:43 [CommandAddPoint][xXManiacXx][Jack] - (Type: 1, Amount: 21)
+11:50:21 [CommandAddPoint][franqitoo][Bminvictus] - (Type: 1, Amount: 500)
+11:50:29 [CommandAddPoint][franqitoo][Bminvictus] - (Type: 2, Amount: 370)
+13:09:06 [CommandAddPoint][xXManiacXx][Jack] - (Type: 0, Amount: 56)

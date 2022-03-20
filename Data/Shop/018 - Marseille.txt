@@ -1,0 +1,19 @@
+/////////////////////////////////////////////////////////////////////////////
+//Shop Editor cortesia de www.fb.com/igkgamers
+///////////////////////////
+//Aporte de www.fb.com/karuritoku
+///////////////////////////
+//Shop: 018 - Marseille
+/////////////////////////////////////////////////////////////////////////////
+//Group	Index	Level	Dur	Skill	Luck	Opt	ExeOpt	Acc	JoH	Oex	Sck[1]	Sck[2]	Sck[3]	Sck[4]	Sck[5]	Info
+/////////////////////////////////////////////////////////////////////////////
+//
+15	3	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Fire Ball
+15	10	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Power Wave
+15	1	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Meteorite
+15	6	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Ice
+15	20	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Drain Life Parchment
+15	21	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Lightning Shock Parchment
+15	22	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Damage Reflection Parchment
+15	23	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Berserker Parchment
+end

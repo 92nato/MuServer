@@ -1,0 +1,4 @@
+07:42:16 [ChaosItemMix][Failure][javier89][Meilin] - (ChaosSuccessRate: 57, ChaosMoney: 587100)
+07:42:46 [ChaosItemMix][Failure][javier89][Meilin] - (ChaosSuccessRate: 50, ChaosMoney: 515000)
+11:04:15 [ChestMix][Success][dangerous8][agresive] - (ChaosSuccessRate: 0, ChaosMoney: 0)
+11:08:10 [ChestMix][Success][dangerous8][agresive] - (ChaosSuccessRate: 0, ChaosMoney: 0)

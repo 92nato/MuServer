@@ -1,0 +1,54 @@
+//Index	Item	AddHP	AddMP	DamageRate	AttackSpeed	DoubleDmgRate	TripleDmgRate 	AddExperience	ResistDoubleDamage	ResistIgnoreDefense	ResistIgnoreSD	ResistCriticalDamage	ResisteExcellentDamage	BlockStuck	ReflectRate	PetImortal		
+//0		6856	1000	2000	  20		   50		      50		  50		     100		     5			     	6			        7		         8			     		9			             0		        0		    0
+//Index	Item	AddHP	AddMP	DamageRate	AttackSpeed	DoubleDmgRate	TripleDmgRate 	AddExperience	ResistDoubleDamage	ResistIgnoreDefense	ResistIgnoreSD	ResistCriticalDamage	ResisteExcellentDamage	BlockStuck	ReflectRate	PetImortal		
+0	    6856	500	    500	      0		       50		10				5		         30		         0			         0			        0		         0			             0			             0		        0		     1       // Ghost Horse
+1	    6857	500	    0	      20	       0	    5		    	0		         40		         0			         0			        0		         0			             0			             0		        0		     1       // Dragon Knight
+2	    6858	0	    500	      0		       0		5		    	0		         40		         0			         0			        0		         0			             0			             0		        20		     1       // Dark Wizard
+3	    6859	0	    0	      0		       120	    5		    	0		         40		         0			         0			        0		         0			             20			             0		        0		     1       // Fairy Elf
+4	    6860	0	    0	      0		       0		0		    	0		         20		         0			         0			        0		         0			             0			             0		        0		     1       // Luki
+5	    6861	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // Luki lv2
+6	    6862	0	    0	      0		       0		0		    	0		         20		         0			         0			        0		         0			             0			             0		        0		     1       // William
+7	    6863	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // William lv2
+8	    6864	0	    0	      0		       0		0		    	0		         20		         0			         0			        0		         0			             0			             0		        0		     1       // Tibetton
+9	    6865	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // Tibetton lv2
+10	    6866	0	    0	      0		       0		0		    	0		         30		         0			         0			        0		         0			             0			             0		        0		     1       // Wooparoo
+11	    6867	0	    0	      0		       0		0		    	0		         40		         0			         0			        0		         0			             0			             0		        0		     1       // Wooparoo lv2
+12	    6868	0	    0	      0		       0		0		    	0		         20		         0			         0			        0		         0			             0			             0		        0		     1       // Chiron
+13	    6869	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // Chiron lv2
+14	    6870	0	    0	      0		       0		0		    	0		         20		         0			         0			        0		         0			             0			             0		        0		     1       // Desmodus
+15	    6871	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // Desmodus lv2
+16	    6872	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // Tibetton Mount
+17	    6873	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // Tibetton Mount lv2
+18	    6874	0	    0	      0		       0		0		    	0		         40		         0			         0			        0		         0			             0			             0		        0		     1       // Rune Wizard
+19	    6875	0	    0	      0		       0		0		    	0		         40		         0			         0			        0		         0			             0			             0		        0		     1       // Gaion Kharein
+20	    6876	0	    0	      0		       0		0		    	0		         20		         0			         0			        0		         0			             0			             0		        0		     1       // Prince
+21	    6877	0	    0	      0		       0		0		    	0		         20		         0			         0			        0		         0			             0			             0		        0		     1       // King Rex Milion
+22	    6878	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // Loggle
+23	    6879	0	    0	      0		       0		0		    	0		         30		         0			         0			        0		         0			             0			             0		        0		     1       // Loggle                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+24	    6880	0	    0	      0		       0		0		    	0		         20		         0			         0			        0		         0			             0			             0		        0		     1       // Repen
+25	    6881	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // Repen lv2
+26	    6882	0	    0	      0		       0		0		    	0		         20		         0			         0			        0		         0			             0			             0		        0		     1       // Repen Mount
+27	    6883	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // Repen Mount lv2
+28	    6884	0	    0	      0		       0		0		    	0		         20		         0			         0			        0		         0			             0			             0		        0		     1       // Balrog
+29	    6885	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // Balrog lv2
+30	    6886	0	    0	      0		       0		0		    	0		         20		         0			         0			        0		         0			             0			             0		        0		     1       // Phoenix of Darkness
+31	    6887	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // Phoenix of Darkness lv2
+32	    6888	0	    0	      0		       0		0		    	0		         20		         0			         0			        0		         0			             0			             0		        0		     1       // Kundun
+33	    6889	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // Kundun lv2
+34	    6890	0	    0	      0		       0		0		    	0		         20		         0			         0			        0		         0			             0			             0		        0		     1       // Nightmare
+35	    6891	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // Nightmare lv2
+36	    6892	0	    0	      0		       0		0		    	0		         20		         0			         0			        0		         0			             0			             0		        0		     1       // HellMaine
+37	    6893	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // HellMaine lv2
+38	    6894	0	    0	      0		       0		0		    	0		         20		         0			         0			        0		         0			             0			             0		        0		     1       // Selupan
+39	    6895	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // Selupan lv2
+40	    6896	0	    0	      0		       0		0		    	0		         20		         0			         0			        0		         0			             0			             0		        0		     1       // Medusa
+41	    6897	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // Medusa lv2
+42	    6898	0	    0	      0		       0		0		    	0		         20		         0			         0			        0		         0			             0			             0		        0		     1       // Lord Silvester
+43	    6899	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // Lord Silvester lv2
+44	    6900	0	    0	      0		       0		0		    	0		         20		         0			         0			        0		         0			             0			             0		        0		     1       // Nix
+45	    6901	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // Nix lv2                                                                                                                                                                                                                                                            
+46	    6902	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // 
+47	    6903	0	    0	      0		       0		0		    	0		         25		         0			         0			        0		         0			             0			             0		        0		     1       // 
+51	    6906	500	    500	      0		       50		10				5		         30		         0			         0			        0		         0			             0			             0		        0		     1       // 
+52	    6907	500	    500	      0		       50		10				5		         30		         0			         0			        0		         0			             0			             0		        0		     1       // 
+end

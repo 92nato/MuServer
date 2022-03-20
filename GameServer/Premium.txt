@@ -1,0 +1,67 @@
+///////////////////////////////////////////////////////////////////////
+//Desenvolvido por louis
+//Versão Premium consulte
+//Skype: tec-facil
+//Site: www.jogandomu.com.br/premium/
+///////////////////////////////////////////////////////////////////////
+
+Se cadastre em nosso site e ganhe 5 dias para testes da versão premium.
+
+Versão free com uso ilimitada!
+
+Ultimos updates:
+
+JULY 2017 UPDATE 2
+- Add Itens Level +15  (Season 4)  			OK
+- Add Info Command					OK				
+- Add Change Name Command 				OK
+- Add BanAcc Command					OK
+- Add BanChar Command					OK
+- Add DynamicEffect in Main (S4/S6) 			OK
+- Add Max Use Time in Attack command 			OK
+- Add Option to disable Online User/GM Message		OK
+- Add Event Hide and Seek				OK
+- Add Event Run and Catch				OK
+- Add option to disable exp message on kill mob		OK
+- Change MaxCustom Wings to 100 			OK
+- Fix Money remove when use ResetTable system. 		OK
+- Fix Socket jewel aplly in no socket item		OK
+- Fix CustomEffect problems in Main.dll 		OK
+- Fix remove BC,DS,IT invite 				OK
+- Fix Skill elf on /attack 				OK
+- Fix Clear Effects on change class			OK
+- Fix /store bless Crash (Season 6) 			OK
+- Add Custom Summon on Kill Mob				OK
+- Evento Veloz						OK
+- /openevent /join					OK
+- Disable/Enable Skill Effect (Ex:Cyclone)		OK
+- Add Custom exp on Offattack and Autoreset		OK
+
+AUGUST 2017 UPDATE 3
+- Add MakeSet Command 					OK
+- Add Drop Command 					OK
+- Option to Remove Offstore/offattack in OnlineLottery	OK
+- Jewel of socket Aply in pentagram (Season8)		OK
+- ADD gift command					OK
+- Add Custom Quest System				OK
+- Add Russian Roulette Event				OK
+- Add Max Use Time in Store command 			OK
+- New King of Mu Event					OK
+- Add Reward Coins in BC,DS,CC				OK
+- add /toprr /topmr etc					OK
+- Somente gm fazer o casamento				OK
+- Disable Wing Mix Class				OK
+
+SEPTEMBER 2017 COMMING SOON UPDATE 4
+- Remove Class in Main (RF,SU,DL)			OK
+- Custom Auto Quiz Event				OK
+- Need ticket to change name Option (S6/S8)		OK
+- Custom WingMix (Chaos Mix)				OK
+- Custom Death Message					OK
+- Custom Npc Collector (trade items per Coins)		OK
+- Readd point command					OK
+- Advanced Make itens (/make, /drop, /makeset)		OK
+- Custom Rank User System (S4,S6)			OK
+- Disable HP Bar of Monster or User Option		OK
+- Updated JoinServer to fix dupes			OK
+- Allow Pk enter in events (BC,CC,DS)			OK 

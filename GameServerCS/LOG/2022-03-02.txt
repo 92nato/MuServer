@@ -1,0 +1,90 @@
+14:40:21 [Obj][3500] AddClient (186.22.19.90)
+14:40:21 [Obj][3500] AddAccount (franqito)
+14:40:21 [Obj][3500] LogInCharacter (SmInvictus)
+14:41:52 [Obj][3500] LogOutCharacter (SmInvictus)
+14:41:53 [Obj][3500] DelAccount (franqito)
+14:41:53 [Obj][3500] DelClient (186.22.19.90)
+20:30:00 [ Crywolf ] Start Crywolf
+20:30:00 [ Crywolf ] State (0) -> NOTIFY1
+20:30:00 [ Crywolf ] SetState - StateInfo : Occupation/0, State/1
+20:30:00 [ CRYWOLF ] SYNC Occupation: 0, State: 1
+20:35:00 [ Crywolf ] State (1) -> NOTIFY2
+20:35:00 [ Crywolf ] SetState - StateInfo : Occupation/2, State/2
+20:35:00 [ CRYWOLF ] SYNC Occupation: 2, State: 2
+20:36:00 [ Crywolf ] State (2) -> READY
+20:36:00 [ Crywolf ] SetState - StateInfo : Occupation/2, State/3
+20:36:00 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:00 [ CRYWOLF ] SYNC Occupation: 2, State: 3
+20:36:02 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:04 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:06 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:08 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:10 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:12 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:14 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:16 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:18 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:20 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:22 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:24 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:26 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:28 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:30 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:32 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:34 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:36 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:38 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:40 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:42 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:44 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:46 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:48 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:50 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:52 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:54 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:56 [ Crywolf ][Statue Info] Statue HP : 0
+20:36:58 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:00 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:02 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:04 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:06 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:08 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:10 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:12 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:14 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:16 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:18 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:20 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:22 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:24 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:26 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:28 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:30 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:32 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:34 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:36 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:38 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:40 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:42 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:44 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:46 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:48 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:50 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:52 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:54 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:56 [ Crywolf ][Statue Info] Statue HP : 0
+20:37:58 [ Crywolf ][Statue Info] Statue HP : 0
+20:38:00 [ Crywolf ][Statue Info] Statue HP : 0
+20:38:00 [ Crywolf ] State (3) -> START
+20:38:00 [ Crywolf ] State (4) -> END
+20:38:00 [ Crywolf ][MVP] FAIL.......!!
+20:38:00 [ Crywolf ] SetState - StateInfo : Occupation/1, State/5
+20:38:00 [ Crywolf ] SetState - StateInfo : Occupation/1, State/5
+20:38:00 [ Crywolf ] SetState - StateInfo : Occupation/1, State/5
+20:38:00 [ CRYWOLF ] SYNC Occupation: 1, State: 5
+20:38:15 [ Crywolf ] State (5) -> ENDCYCLE
+20:38:15 [ Crywolf ] SetState - StateInfo : Occupation/1, State/6
+20:38:15 [ CRYWOLF ] SYNC Occupation: 1, State: 6
+20:38:25 [ Crywolf ] State (6) -> NONE
+20:38:25 [ Crywolf ] SetState - StateInfo : Occupation/1, State/0
+20:38:26 [ CRYWOLF ] SYNC Occupation: 1, State: 0

@@ -1,0 +1,1 @@
+22:45:04 [SocketManager] WSASend() failed with error: 10038

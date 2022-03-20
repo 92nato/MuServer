@@ -1,0 +1,2 @@
+14:45:02 [Wing2Mix][Failure][carolina][Meylin] - (Type: 0, ChaosSuccessRate: 18, ChaosMoney: 5150000)
+14:46:04 [ChaosItemMix][Failure][yinco][Yinco] - (ChaosSuccessRate: 3, ChaosMoney: 30900)

@@ -1,0 +1,1430 @@
+00:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 203 Y: 74)
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 48 Y: 47)
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 187 Y: 140)
+00:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 196 Y: 78)
+01:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 158 Y: 15)
+02:05:31 [Obj][11005] AddClient (190.17.22.8)
+02:05:35 [Obj][11005] AddAccount (braian90)
+02:05:38 [Obj][11005] LogInCharacter (test10)
+02:13:03 [ServerInfo] Monster loaded successfully
+02:13:53 [ServerInfo] Monster loaded successfully
+02:14:54 [ServerInfo] Monster loaded successfully
+02:23:40 [ServerInfo] Monster loaded successfully
+02:32:17 [ServerInfo] Monster loaded successfully
+02:37:14 [ServerInfo] Monster loaded successfully
+02:47:29 [ServerInfo] Monster loaded successfully
+02:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 195 Y: 80)
+02:53:59 [ServerInfo] Monster loaded successfully
+02:55:47 [Obj][11005] LogOutCharacter (test10)
+02:55:47 [Obj][11005] DelAccount (braian90)
+02:55:47 [Obj][11005] DelClient (190.17.22.8)
+03:41:07 [Obj][11001] AddClient (181.65.209.59)
+03:41:13 [Obj][11001] AddAccount (frank1)
+03:41:30 [Obj][11001] LogInCharacter (amikeitor)
+03:42:32 [Obj][11004] AddClient (181.65.209.59)
+03:42:48 [Obj][11004] AddAccount (frank2)
+04:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 125 Y: 201)
+04:06:30 [Obj][11004] DelAccount (frank2)
+04:06:30 [Obj][11004] DelClient (181.65.209.59)
+04:06:42 [Obj][11003] AddClient (181.65.209.59)
+04:06:47 [Obj][11003] AddAccount (frank3)
+04:07:18 [Obj][11003] LogInCharacter (loquera)
+04:12:01 [Obj][11001] LogOutCharacter (amikeitor)
+04:12:01 [Obj][11001] DelAccount (frank1)
+04:12:01 [Obj][11001] DelClient (181.65.209.59)
+04:12:41 [Obj][11005] AddClient (181.65.209.59)
+04:12:49 [Obj][11005] AddAccount (frank1)
+04:12:52 [Obj][11005] LogInCharacter (amikeitor)
+04:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 35 Y: 155)
+04:19:17 [Obj][11003] LogOutCharacter (loquera)
+04:19:17 [Obj][11003] DelAccount (frank3)
+04:19:17 [Obj][11003] DelClient (181.65.209.59)
+04:23:30 [Obj][11004] AddClient (181.65.209.59)
+04:23:36 [Obj][11004] AddAccount (frank3)
+04:23:39 [Obj][11004] LogInCharacter (loquera)
+04:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 171 Y: 102)
+04:33:58 [Obj][11001] AddClient (45.171.224.166)
+04:34:08 [Obj][11001] AddAccount (yinco)
+04:34:18 [Obj][11001] LogInCharacter (Yinco)
+04:40:38 [Obj][11005] LogOutCharacter (amikeitor)
+04:40:44 [Obj][11005] LogInCharacter (amikeitor)
+04:45:59 [frank3][loquera] Kill [yinco][Yinco]
+04:48:12 [Obj][11003] AddClient (181.65.209.59)
+04:48:17 [Obj][11005] LogOutCharacter (amikeitor)
+04:48:17 [Obj][11005] DelAccount (frank1)
+04:48:17 [Obj][11005] DelClient (181.65.209.59)
+04:48:18 [Obj][11003] AddAccount (frank1)
+04:48:21 [Obj][11003] LogInCharacter (amikeitor)
+04:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 158 Y: 58)
+04:50:11 [BotBuffer] CharName: Yinco - ADD_GREATER_DAMAGE Time: 5
+04:50:15 [BotBuffer] CharName: Yinco - ADD_SKILL_MANA Time: 5
+05:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 153 Y: 14)
+05:21:55 [Obj][11004] LogOutCharacter (loquera)
+05:21:55 [Obj][11004] DelAccount (frank3)
+05:21:55 [Obj][11004] DelClient (181.65.209.59)
+05:30:24 [Obj][11003] LogOutCharacter (amikeitor)
+05:30:24 [Obj][11003] DelAccount (frank1)
+05:30:24 [Obj][11003] DelClient (181.65.209.59)
+06:50:00 [Invasion Manager] Index(7) Boss Position (Map: 0 X: 163 Y: 51)
+06:53:55 [Obj][11001] LogOutCharacter (Yinco)
+06:54:00 [Obj][11001] LogInCharacter (Yinco)
+06:59:25 [ServerInfo] CashShop loaded successfully
+06:59:25 [ServerInfo] ChaosMix loaded successfully
+06:59:25 [ServerInfo] Character loaded successfully
+06:59:26 [ServerInfo] Command loaded successfully
+06:59:26 [ServerInfo] Common loaded successfully
+06:59:26 [ServerInfo] Custom loaded successfully
+06:59:26 [ServerInfo] Event loaded successfully
+06:59:26 [ServerInfo] EventItemBag loaded successfully
+06:59:26 [ServerInfo] Hack loaded successfully
+06:59:26 [ServerInfo] Monster loaded successfully
+06:59:26 [ServerInfo] Move loaded successfully
+06:59:26 [ServerInfo] Quest loaded successfully
+06:59:26 [ServerInfo] Shop loaded successfully
+06:59:26 [ServerInfo] Skill loaded successfully
+06:59:26 [ServerInfo] Util loaded successfully
+06:59:26 [ReadBotInfo] BotSystem loaded successfully
+07:01:09 [ServerInfo] CashShop loaded successfully
+07:01:09 [ServerInfo] ChaosMix loaded successfully
+07:01:09 [ServerInfo] Character loaded successfully
+07:01:10 [ServerInfo] Command loaded successfully
+07:01:10 [ServerInfo] Common loaded successfully
+07:01:10 [ServerInfo] Custom loaded successfully
+07:01:10 [ServerInfo] Event loaded successfully
+07:01:10 [ServerInfo] EventItemBag loaded successfully
+07:01:10 [ServerInfo] Hack loaded successfully
+07:01:10 [ServerInfo] Monster loaded successfully
+07:01:10 [ServerInfo] Move loaded successfully
+07:01:10 [ServerInfo] Quest loaded successfully
+07:01:10 [ServerInfo] Shop loaded successfully
+07:01:10 [ServerInfo] Skill loaded successfully
+07:01:10 [ServerInfo] Util loaded successfully
+07:01:10 [ReadBotInfo] BotSystem loaded successfully
+07:01:23 [Obj][11005] AddClient (200.5.101.170)
+07:01:26 [Obj][11005] AddAccount (92nato)
+07:02:05 [ServerInfo] CashShop loaded successfully
+07:02:05 [ServerInfo] ChaosMix loaded successfully
+07:02:05 [ServerInfo] Character loaded successfully
+07:02:05 [ServerInfo] Command loaded successfully
+07:02:05 [ServerInfo] Common loaded successfully
+07:02:05 [ServerInfo] Custom loaded successfully
+07:02:05 [ServerInfo] Event loaded successfully
+07:02:05 [ServerInfo] EventItemBag loaded successfully
+07:02:05 [ServerInfo] Hack loaded successfully
+07:02:06 [ServerInfo] Monster loaded successfully
+07:02:06 [ServerInfo] Move loaded successfully
+07:02:06 [ServerInfo] Quest loaded successfully
+07:02:06 [ServerInfo] Shop loaded successfully
+07:02:06 [ServerInfo] Skill loaded successfully
+07:02:06 [ServerInfo] Util loaded successfully
+07:02:06 [ReadBotInfo] BotSystem loaded successfully
+07:02:52 [Obj][11005] LogInCharacter (Zyra420)
+07:04:03 [ServerInfo] CashShop loaded successfully
+07:04:03 [ServerInfo] ChaosMix loaded successfully
+07:04:03 [ServerInfo] Character loaded successfully
+07:04:03 [ServerInfo] Command loaded successfully
+07:04:03 [ServerInfo] Common loaded successfully
+07:04:03 [ServerInfo] Custom loaded successfully
+07:04:03 [ServerInfo] Event loaded successfully
+07:04:03 [ServerInfo] EventItemBag loaded successfully
+07:04:04 [ServerInfo] Hack loaded successfully
+07:04:04 [ServerInfo] Monster loaded successfully
+07:04:04 [ServerInfo] Move loaded successfully
+07:04:04 [ServerInfo] Quest loaded successfully
+07:04:04 [ServerInfo] Shop loaded successfully
+07:04:04 [ServerInfo] Skill loaded successfully
+07:04:04 [ServerInfo] Util loaded successfully
+07:04:04 [ReadBotInfo] BotSystem loaded successfully
+07:04:19 [ServerInfo] CashShop loaded successfully
+07:04:19 [ServerInfo] ChaosMix loaded successfully
+07:04:19 [ServerInfo] Character loaded successfully
+07:04:19 [ServerInfo] Command loaded successfully
+07:04:19 [ServerInfo] Common loaded successfully
+07:04:19 [ServerInfo] Custom loaded successfully
+07:04:20 [ServerInfo] Event loaded successfully
+07:04:20 [ServerInfo] EventItemBag loaded successfully
+07:04:20 [ServerInfo] Hack loaded successfully
+07:04:20 [ServerInfo] Monster loaded successfully
+07:04:20 [ServerInfo] Move loaded successfully
+07:04:20 [ServerInfo] Quest loaded successfully
+07:04:20 [ServerInfo] Shop loaded successfully
+07:04:20 [ServerInfo] Skill loaded successfully
+07:04:20 [ServerInfo] Util loaded successfully
+07:04:20 [ReadBotInfo] BotSystem loaded successfully
+07:12:28 [ServerInfo] CashShop loaded successfully
+07:12:29 [ServerInfo] ChaosMix loaded successfully
+07:12:29 [ServerInfo] Character loaded successfully
+07:12:29 [ServerInfo] Command loaded successfully
+07:12:29 [ServerInfo] Common loaded successfully
+07:12:29 [ServerInfo] Custom loaded successfully
+07:12:29 [ServerInfo] Event loaded successfully
+07:12:29 [ServerInfo] EventItemBag loaded successfully
+07:12:29 [ServerInfo] Hack loaded successfully
+07:12:30 [ServerInfo] Monster loaded successfully
+07:12:30 [ServerInfo] Move loaded successfully
+07:12:30 [ServerInfo] Quest loaded successfully
+07:12:30 [ServerInfo] Shop loaded successfully
+07:12:30 [ServerInfo] Skill loaded successfully
+07:12:30 [ServerInfo] Util loaded successfully
+07:12:30 [ReadBotInfo] BotSystem loaded successfully
+07:12:38 [ServerInfo] Monster loaded successfully
+07:12:44 [Obj][11001] LogOutCharacter (Yinco)
+07:12:47 [Obj][11001] LogInCharacter (Yinco)
+07:13:06 [Obj][11005] LogOutCharacter (Zyra420)
+07:13:06 [Obj][11005] DelAccount (92nato)
+07:13:06 [Obj][11005] DelClient (200.5.101.170)
+07:20:26 [BotBuffer] CharName: Yinco - ADD_SKILL_MANA Time: 5
+07:20:33 [BotBuffer] CharName: Yinco - ADD_GREATER_DAMAGE Time: 5
+07:26:03 [Obj][11001] LogOutCharacter (Yinco)
+07:27:03 [Obj][11001] LogInCharacter (Yinco)
+07:33:06 [Obj][11001] LogOutCharacter (Yinco)
+07:33:06 [Obj][11001] DelAccount (yinco)
+07:33:06 [Obj][11001] DelClient (45.171.224.166)
+07:35:13 [Obj][11004] AddClient (200.5.101.170)
+07:35:16 [Obj][11004] AddAccount (92nato)
+07:35:21 [Obj][11004] LogInCharacter (Zyra420)
+07:38:19 [Obj][11003] AddClient (45.171.224.166)
+07:38:23 [Obj][11003] AddAccount (yinco)
+07:38:27 [Obj][11003] LogInCharacter (Yinco)
+07:39:17 [Obj][11005] AddClient (45.171.224.166)
+07:39:23 [Obj][11005] AddAccount (yincox)
+07:39:40 [Obj][11005] LogInCharacter (Esmeralda)
+07:39:52 [Obj][11005] LogOutCharacter (Esmeralda)
+07:40:10 [Obj][11005] LogInCharacter (Minerva)
+07:44:30 [ServerInfo] CashShop loaded successfully
+07:44:31 [ServerInfo] ChaosMix loaded successfully
+07:44:31 [ServerInfo] Character loaded successfully
+07:44:31 [ServerInfo] Custom loaded successfully
+07:44:31 [ServerInfo] Command loaded successfully
+07:44:31 [ServerInfo] Common loaded successfully
+07:44:31 [ServerInfo] Event loaded successfully
+07:44:31 [ServerInfo] EventItemBag loaded successfully
+07:44:31 [ServerInfo] Hack loaded successfully
+07:44:32 [ServerInfo] Item loaded successfully
+07:44:33 [ServerInfo] Monster loaded successfully
+07:44:33 [ServerInfo] Move loaded successfully
+07:44:33 [ServerInfo] Quest loaded successfully
+07:44:33 [ServerInfo] Shop loaded successfully
+07:44:33 [ServerInfo] Skill loaded successfully
+07:44:33 [ServerInfo] Util loaded successfully
+07:44:33 [ReadBotInfo] BotSystem loaded successfully
+07:44:39 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+07:44:54 [Obj][11000] AddClient (190.103.243.196)
+07:44:54 [Obj][11001] AddClient (200.5.101.170)
+07:44:54 [Obj][11002] AddClient (45.171.224.166)
+07:45:04 [Obj][11000] AddAccount (negativo)
+07:45:04 [Obj][11001] AddAccount (92nato)
+07:45:04 [Obj][11002] AddAccount (yincox)
+07:45:05 [Obj][11000] LogInCharacter (Negativo)
+07:45:05 [Obj][11002] LogInCharacter (Minerva)
+07:45:05 [Obj][11001] LogInCharacter (Zyra420)
+07:45:24 [Obj][11003] AddClient (181.46.166.152)
+07:45:24 [Obj][11004] AddClient (45.171.224.166)
+07:45:34 [Obj][11003] AddAccount (javier89)
+07:45:34 [Obj][11004] AddAccount (yinco)
+07:45:34 [Obj][11003] LogInCharacter (Meilin)
+07:45:35 [Obj][11004] LogInCharacter (Yinco)
+07:46:19 [ServerInfo] Command loaded successfully
+07:47:17 [ServerInfo] CashShop loaded successfully
+07:47:17 [ServerInfo] ChaosMix loaded successfully
+07:47:17 [ServerInfo] Character loaded successfully
+07:47:17 [ServerInfo] Command loaded successfully
+07:47:17 [ServerInfo] Common loaded successfully
+07:47:17 [ServerInfo] Custom loaded successfully
+07:47:17 [ServerInfo] Event loaded successfully
+07:47:17 [ServerInfo] EventItemBag loaded successfully
+07:47:17 [ServerInfo] Hack loaded successfully
+07:47:17 [ServerInfo] Monster loaded successfully
+07:47:17 [ServerInfo] Move loaded successfully
+07:47:17 [ServerInfo] Quest loaded successfully
+07:47:17 [ServerInfo] Shop loaded successfully
+07:47:17 [ServerInfo] Skill loaded successfully
+07:47:17 [ServerInfo] Util loaded successfully
+07:47:17 [ReadBotInfo] BotSystem loaded successfully
+07:49:01 [ServerInfo] Common loaded successfully
+08:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 204 Y: 77)
+08:11:00 [Obj][11005] AddClient (186.22.19.90)
+08:11:07 [Obj][11005] AddAccount (franqito)
+08:12:13 [Obj][11005] LogInCharacter (SmInvictus)
+08:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 118 Y: 226)
+08:16:53 [Obj][11006] AddClient (45.171.224.166)
+08:16:59 [Obj][11006] AddAccount (yincoxx)
+08:18:34 [Obj][11006] LogInCharacter (MyLady)
+08:19:58 [BotBuffer] CharName: Zyra420 - ADD_GREATER_DAMAGE Time: 5
+08:20:01 [BotBuffer] CharName: Zyra420 - ADD_SKILL_MANA Time: 5
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 69 Y: 147)
+08:39:45 [ServerInfo] CashShop loaded successfully
+08:39:45 [ServerInfo] ChaosMix loaded successfully
+08:39:46 [ServerInfo] Character loaded successfully
+08:39:46 [ServerInfo] Command loaded successfully
+08:39:46 [ServerInfo] Common loaded successfully
+08:39:46 [ServerInfo] Custom loaded successfully
+08:39:46 [ServerInfo] Event loaded successfully
+08:39:46 [ServerInfo] EventItemBag loaded successfully
+08:39:46 [ServerInfo] Hack loaded successfully
+08:39:46 [ServerInfo] Monster loaded successfully
+08:39:46 [ServerInfo] Move loaded successfully
+08:39:46 [ServerInfo] Quest loaded successfully
+08:39:46 [ServerInfo] Shop loaded successfully
+08:39:46 [ServerInfo] Skill loaded successfully
+08:39:46 [ServerInfo] Util loaded successfully
+08:39:46 [ReadBotInfo] BotSystem loaded successfully
+08:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 165 Y: 15)
+08:55:59 [Obj][11001] LogOutCharacter (Zyra420)
+08:55:59 [Obj][11001] DelAccount (92nato)
+08:55:59 [Obj][11001] DelClient (200.5.101.170)
+08:56:02 [Obj][11007] AddClient (200.5.101.170)
+08:56:05 [Obj][11007] AddAccount (92nato)
+08:56:10 [Obj][11007] LogInCharacter (Zyra420)
+09:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 149 Y: 12)
+09:18:29 [Obj][11001] AddClient (200.5.101.170)
+09:18:32 [Obj][11001] AddAccount (92nato2)
+09:18:52 [Obj][11001] LogInCharacter (ElPeluca)
+09:19:00 [Obj][11001] LogOutCharacter (ElPeluca)
+09:22:54 [ServerInfo] Common loaded successfully
+09:23:00 [Obj][11001] LogInCharacter (ElPeluca)
+09:23:06 [Obj][11001] LogOutCharacter (ElPeluca)
+09:23:16 [Obj][11001] LogInCharacter (ElPeluca)
+09:23:21 [ServerInfo] CashShop loaded successfully
+09:23:21 [ServerInfo] ChaosMix loaded successfully
+09:23:21 [ServerInfo] Character loaded successfully
+09:23:21 [ServerInfo] Command loaded successfully
+09:23:21 [ServerInfo] Common loaded successfully
+09:23:21 [ServerInfo] Custom loaded successfully
+09:23:21 [ServerInfo] Event loaded successfully
+09:23:21 [ServerInfo] EventItemBag loaded successfully
+09:23:21 [ServerInfo] Hack loaded successfully
+09:23:22 [ServerInfo] Monster loaded successfully
+09:23:22 [ServerInfo] Move loaded successfully
+09:23:22 [ServerInfo] Quest loaded successfully
+09:23:22 [ServerInfo] Shop loaded successfully
+09:23:22 [ServerInfo] Skill loaded successfully
+09:23:22 [ServerInfo] Util loaded successfully
+09:23:22 [ReadBotInfo] BotSystem loaded successfully
+09:23:26 [Obj][11001] LogOutCharacter (ElPeluca)
+09:23:44 [Obj][11001] LogInCharacter (ElPeluca)
+09:24:01 [Obj][11008] AddClient (181.65.209.59)
+09:24:04 [Obj][11009] AddClient (181.65.209.59)
+09:24:10 [Obj][11009] AddAccount (frank1)
+09:24:14 [Obj][11009] LogInCharacter (amikeitor)
+09:24:21 [Obj][11008] AddAccount (frank2)
+09:24:25 [Obj][11008] LogInCharacter (Akane)
+09:24:28 [Obj][11010] AddClient (181.65.209.59)
+09:24:33 [Obj][11010] AddAccount (frank3)
+09:24:37 [Obj][11010] LogInCharacter (loquera)
+09:25:53 [Obj][11009] LogOutCharacter (amikeitor)
+09:27:01 [Obj][11001] LogOutCharacter (ElPeluca)
+09:27:21 [Obj][11001] LogInCharacter (ElPeluca)
+09:29:18 [Obj][11011] AddClient (170.51.141.123)
+09:29:44 [Obj][11011] DelClient (170.51.141.123)
+09:30:13 [BotBuffer] CharName: ElPeluca - ADD_GREATER_DAMAGE Time: 5
+09:30:19 [BotBuffer] CharName: ElPeluca - ADD_SKILL_MANA Time: 5
+09:31:50 [Obj][11009] LogInCharacter (amikeitor)
+09:31:54 [Obj][11010] LogOutCharacter (loquera)
+09:32:07 [Obj][11010] LogInCharacter (loquera)
+09:32:25 [BotBuffer] CharName: ElPeluca - ADD_GREATER_DAMAGE Time: 5
+09:32:28 [BotBuffer] CharName: ElPeluca - ADD_SKILL_MANA Time: 5
+09:34:26 [BotBuffer] CharName: ElPeluca - ADD_GREATER_DAMAGE Time: 5
+09:34:28 [BotBuffer] CharName: ElPeluca - ADD_SKILL_MANA Time: 5
+09:35:27 [Obj][11008] LogOutCharacter (Akane)
+09:35:27 [Obj][11008] DelAccount (frank2)
+09:35:27 [Obj][11008] DelClient (181.65.209.59)
+09:36:00 [BotBuffer] CharName: ElPeluca - ADD_GREATER_DAMAGE Time: 5
+09:36:04 [BotBuffer] CharName: ElPeluca - ADD_SKILL_MANA Time: 5
+09:44:05 [BotBuffer] CharName: amikeitor - ADD_GREATER_DAMAGE Time: 5
+09:44:09 [BotBuffer] CharName: amikeitor - ADD_SKILL_MANA Time: 5
+09:44:36 [BotBuffer] CharName: loquera - ADD_GREATER_DAMAGE Time: 5
+09:44:39 [BotBuffer] CharName: loquera - ADD_SKILL_MANA Time: 5
+09:45:34 [ServerInfo] CashShop loaded successfully
+09:45:35 [ServerInfo] ChaosMix loaded successfully
+09:45:35 [ServerInfo] Character loaded successfully
+09:45:35 [ServerInfo] Command loaded successfully
+09:45:35 [ServerInfo] Common loaded successfully
+09:45:35 [ServerInfo] Custom loaded successfully
+09:45:35 [ServerInfo] Event loaded successfully
+09:45:35 [ServerInfo] EventItemBag loaded successfully
+09:45:35 [ServerInfo] Hack loaded successfully
+09:45:35 [ServerInfo] Monster loaded successfully
+09:45:35 [ServerInfo] Move loaded successfully
+09:45:35 [ServerInfo] Quest loaded successfully
+09:45:35 [ServerInfo] Shop loaded successfully
+09:45:35 [ServerInfo] Skill loaded successfully
+09:45:35 [ServerInfo] Util loaded successfully
+09:45:35 [ReadBotInfo] BotSystem loaded successfully
+09:55:27 [Obj][11009] LogOutCharacter (amikeitor)
+09:55:36 [Obj][11009] LogInCharacter (amikeitor)
+10:00:22 [ServerInfo] Item loaded successfully
+10:03:13 [ServerInfo] CashShop loaded successfully
+10:03:13 [ServerInfo] ChaosMix loaded successfully
+10:03:13 [ServerInfo] Character loaded successfully
+10:03:13 [ServerInfo] Command loaded successfully
+10:03:13 [ServerInfo] Common loaded successfully
+10:03:14 [ServerInfo] Custom loaded successfully
+10:03:14 [ServerInfo] Event loaded successfully
+10:03:14 [ServerInfo] EventItemBag loaded successfully
+10:03:14 [ServerInfo] Hack loaded successfully
+10:03:14 [ServerInfo] Monster loaded successfully
+10:03:14 [ServerInfo] Move loaded successfully
+10:03:14 [ServerInfo] Quest loaded successfully
+10:03:14 [ServerInfo] Shop loaded successfully
+10:03:14 [ServerInfo] Skill loaded successfully
+10:03:14 [ServerInfo] Util loaded successfully
+10:03:14 [ReadBotInfo] BotSystem loaded successfully
+10:08:18 [Obj][11011] AddClient (170.51.141.123)
+10:08:26 [Obj][11011] AddAccount (dangerous7)
+10:08:34 [Obj][11011] LogInCharacter (assassin)
+10:09:01 [BotBuffer] CharName: Zyra420 - ADD_GREATER_DAMAGE Time: 5
+10:09:04 [BotBuffer] CharName: Zyra420 - ADD_SKILL_MANA Time: 5
+10:09:38 [Obj][11007] LogOutCharacter (Zyra420)
+10:09:38 [Obj][11007] DelAccount (92nato)
+10:09:38 [Obj][11007] DelClient (200.5.101.170)
+10:10:08 [Obj][11008] AddClient (170.51.141.123)
+10:10:31 [Obj][11008] DelClient (170.51.141.123)
+10:10:44 [Obj][11007] AddClient (200.5.101.170)
+10:10:48 [Obj][11007] AddAccount (92nato)
+10:10:55 [Obj][11007] LogInCharacter (Zyra420)
+10:11:12 [Obj][11008] AddClient (170.51.141.123)
+10:11:26 [Obj][11008] AddAccount (dangerous8)
+10:11:31 [Obj][11008] LogInCharacter (agresive)
+10:20:30 [BotBuffer] CharName: ElPeluca - ADD_GREATER_DAMAGE Time: 5
+10:20:33 [BotBuffer] CharName: ElPeluca - ADD_SKILL_MANA Time: 5
+10:24:47 [Obj][11009] LogOutCharacter (amikeitor)
+10:26:20 [Obj][11009] LogInCharacter (amikeitor)
+10:46:48 [ServerInfo] Shop loaded successfully
+10:48:37 [ServerInfo] CashShop loaded successfully
+10:48:37 [ServerInfo] ChaosMix loaded successfully
+10:48:38 [ServerInfo] Character loaded successfully
+10:48:38 [ServerInfo] Command loaded successfully
+10:48:38 [ServerInfo] Common loaded successfully
+10:48:38 [ServerInfo] Custom loaded successfully
+10:48:38 [ServerInfo] Event loaded successfully
+10:48:38 [ServerInfo] EventItemBag loaded successfully
+10:48:38 [ServerInfo] Hack loaded successfully
+10:48:38 [ServerInfo] Monster loaded successfully
+10:48:38 [ServerInfo] Move loaded successfully
+10:48:38 [ServerInfo] Quest loaded successfully
+10:48:38 [ServerInfo] Shop loaded successfully
+10:48:38 [ServerInfo] Skill loaded successfully
+10:48:38 [ServerInfo] Util loaded successfully
+10:48:38 [ReadBotInfo] BotSystem loaded successfully
+10:48:49 [Obj][11001] LogOutCharacter (ElPeluca)
+10:49:17 [Obj][11001] DelAccount (92nato2)
+10:49:17 [Obj][11001] DelClient (200.5.101.170)
+10:49:21 [Obj][11012] AddClient (200.5.101.170)
+10:49:25 [Obj][11012] AddAccount (92nato2)
+10:49:50 [ServerInfo] CashShop loaded successfully
+10:49:50 [ServerInfo] ChaosMix loaded successfully
+10:49:50 [ServerInfo] Character loaded successfully
+10:49:50 [ServerInfo] Custom loaded successfully
+10:49:50 [ServerInfo] Command loaded successfully
+10:49:50 [ServerInfo] Common loaded successfully
+10:49:51 [ServerInfo] Event loaded successfully
+10:49:51 [ServerInfo] EventItemBag loaded successfully
+10:49:51 [ServerInfo] Hack loaded successfully
+10:49:51 [ServerInfo] Item loaded successfully
+10:49:51 [ServerInfo] Monster loaded successfully
+10:49:51 [ServerInfo] Move loaded successfully
+10:49:51 [ServerInfo] Quest loaded successfully
+10:49:51 [ServerInfo] Shop loaded successfully
+10:49:51 [ServerInfo] Skill loaded successfully
+10:49:51 [ServerInfo] Util loaded successfully
+10:49:51 [ReadBotInfo] BotSystem loaded successfully
+10:49:56 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+10:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 194 Y: 85)
+10:50:15 [Obj][11000] AddClient (181.46.166.152)
+10:50:15 [Obj][11001] AddClient (181.65.209.59)
+10:50:15 [Obj][11002] AddClient (190.103.243.196)
+10:50:15 [Obj][11003] AddClient (45.171.224.166)
+10:50:15 [Obj][11004] AddClient (45.171.224.166)
+10:50:15 [Obj][11005] AddClient (200.5.101.170)
+10:50:15 [Obj][11006] AddClient (45.171.224.166)
+10:50:15 [Obj][11007] AddClient (170.51.141.123)
+10:50:15 [Obj][11008] AddClient (170.51.141.123)
+10:50:25 [Obj][11000] AddAccount (javier89)
+10:50:25 [Obj][11003] AddAccount (yincox)
+10:50:25 [Obj][11001] AddAccount (frank3)
+10:50:25 [Obj][11002] AddAccount (negativo)
+10:50:25 [Obj][11004] AddAccount (yincoxx)
+10:50:25 [Obj][11006] AddAccount (yinco)
+10:50:25 [Obj][11005] AddAccount (92nato)
+10:50:25 [Obj][11007] AddAccount (dangerous7)
+10:50:25 [Obj][11008] AddAccount (dangerous8)
+10:50:26 [Obj][11000] LogInCharacter (Meilin)
+10:50:26 [Obj][11002] LogInCharacter (Negativo)
+10:50:26 [Obj][11003] LogInCharacter (Minerva)
+10:50:26 [Obj][11001] LogInCharacter (loquera)
+10:50:26 [Obj][11006] LogInCharacter (Yinco)
+10:50:26 [Obj][11004] LogInCharacter (MyLady)
+10:50:26 [Obj][11007] LogInCharacter (assassin)
+10:50:26 [Obj][11008] LogInCharacter (agresive)
+10:50:26 [Obj][11005] LogInCharacter (Zyra420)
+10:50:45 [Obj][11009] AddClient (186.22.19.90)
+10:50:48 [Obj][11010] AddClient (181.65.209.59)
+10:50:55 [Obj][11009] AddAccount (franqito)
+10:50:56 [Obj][11009] LogInCharacter (SmInvictus)
+10:50:58 [Obj][11010] AddAccount (frank1)
+10:50:58 [Obj][11010] LogInCharacter (amikeitor)
+10:51:39 [Obj][11011] AddClient (200.5.101.170)
+10:51:43 [Obj][11011] AddAccount (92nato2)
+10:52:06 [ServerInfo] Common loaded successfully
+10:52:08 [ServerInfo] Custom loaded successfully
+10:52:14 [Obj][11011] LogInCharacter (ElPeluca)
+10:52:19 [Obj][11011] LogOutCharacter (ElPeluca)
+10:53:10 [Obj][11011] LogInCharacter (ElPeluca)
+10:53:42 [Obj][11006] LogOutCharacter (Yinco)
+10:53:42 [Obj][11006] DelAccount (yinco)
+10:53:42 [Obj][11006] DelClient (45.171.224.166)
+10:53:43 [Obj][11004] LogOutCharacter (MyLady)
+10:53:43 [Obj][11004] DelAccount (yincoxx)
+10:53:43 [Obj][11004] DelClient (45.171.224.166)
+10:53:44 [Obj][11003] LogOutCharacter (Minerva)
+10:53:44 [Obj][11003] DelAccount (yincox)
+10:53:44 [Obj][11003] DelClient (45.171.224.166)
+10:54:18 [ServerInfo] CashShop loaded successfully
+10:54:18 [ServerInfo] ChaosMix loaded successfully
+10:54:18 [ServerInfo] Character loaded successfully
+10:54:18 [ServerInfo] Command loaded successfully
+10:54:19 [ServerInfo] Common loaded successfully
+10:54:19 [ServerInfo] Custom loaded successfully
+10:54:19 [ServerInfo] Event loaded successfully
+10:54:19 [ServerInfo] EventItemBag loaded successfully
+10:54:19 [ServerInfo] Hack loaded successfully
+10:54:19 [ServerInfo] Monster loaded successfully
+10:54:19 [ServerInfo] Move loaded successfully
+10:54:19 [ServerInfo] Quest loaded successfully
+10:54:19 [ServerInfo] Shop loaded successfully
+10:54:19 [ServerInfo] Skill loaded successfully
+10:54:19 [ServerInfo] Util loaded successfully
+10:54:19 [ReadBotInfo] BotSystem loaded successfully
+10:54:49 [Obj][11011] LogOutCharacter (ElPeluca)
+10:55:00 [Obj][11011] LogInCharacter (ElPeluca)
+10:55:13 [Obj][11011] LogOutCharacter (ElPeluca)
+11:00:56 [Obj][11011] LogInCharacter (ElPeluca)
+11:01:52 [Obj][11011] LogOutCharacter (ElPeluca)
+11:06:28 [ServerInfo] Custom loaded successfully
+11:06:32 [Obj][11011] LogInCharacter (pegaso)
+11:06:38 [Obj][11011] LogOutCharacter (pegaso)
+11:06:45 [Obj][11011] LogInCharacter (pegaso)
+11:07:30 [Obj][11011] LogOutCharacter (pegaso)
+11:07:30 [Obj][11011] DelAccount (92nato2)
+11:07:30 [Obj][11011] DelClient (200.5.101.170)
+11:07:41 [Obj][11005] LogOutCharacter (Zyra420)
+11:07:41 [Obj][11005] DelAccount (92nato)
+11:07:41 [Obj][11005] DelClient (200.5.101.170)
+11:25:16 [Obj][11010] LogOutCharacter (amikeitor)
+11:25:22 [Obj][11010] LogInCharacter (amikeitor)
+11:26:48 [Obj][11010] LogOutCharacter (amikeitor)
+11:26:48 [Obj][11010] DelAccount (frank1)
+11:26:48 [Obj][11010] DelClient (181.65.209.59)
+11:26:49 [Obj][11001] LogOutCharacter (loquera)
+11:26:49 [Obj][11001] DelAccount (frank3)
+11:26:49 [Obj][11001] DelClient (181.65.209.59)
+11:34:26 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (4800)
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 128 Y: 199)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 170 Y: 178)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 54 Y: 152)
+12:25:04 [ServerInfo] Common loaded successfully
+12:26:37 [Obj][11006] AddClient (200.5.101.170)
+12:26:41 [Obj][11006] AddAccount (92nato)
+12:27:55 [Obj][11004] AddClient (181.65.209.59)
+12:27:55 [Obj][11003] AddClient (181.65.209.59)
+12:28:00 [Obj][11004] AddAccount (frank1)
+12:28:26 [Obj][11003] DelClient (181.65.209.59)
+12:28:26 Response error after connection causes conclusion [11003][][][181.65.209.59]
+12:28:57 [ServerInfo] CashShop loaded successfully
+12:28:57 [ServerInfo] ChaosMix loaded successfully
+12:28:57 [ServerInfo] Character loaded successfully
+12:28:58 [ServerInfo] Command loaded successfully
+12:28:58 [ServerInfo] Common loaded successfully
+12:28:58 [ServerInfo] Custom loaded successfully
+12:28:58 [ServerInfo] Event loaded successfully
+12:28:58 [ServerInfo] EventItemBag loaded successfully
+12:28:58 [ServerInfo] Hack loaded successfully
+12:28:58 [ServerInfo] Monster loaded successfully
+12:28:58 [ServerInfo] Move loaded successfully
+12:28:58 [ServerInfo] Quest loaded successfully
+12:28:58 [ServerInfo] Shop loaded successfully
+12:28:58 [ServerInfo] Skill loaded successfully
+12:28:58 [ServerInfo] Util loaded successfully
+12:28:58 [ReadBotInfo] BotSystem loaded successfully
+12:29:00 [Obj][11006] LogInCharacter (ELEgante)
+12:29:08 [Obj][11006] LogOutCharacter (ELEgante)
+12:29:13 [Obj][11011] AddClient (181.65.209.59)
+12:29:15 [Obj][11006] LogInCharacter (ELEgante)
+12:29:15 [Obj][11007] LogOutCharacter (assassin)
+12:29:15 [Obj][11007] DelAccount (dangerous7)
+12:29:15 [Obj][11007] DelClient (170.51.141.123)
+12:29:17 [Obj][11008] LogOutCharacter (agresive)
+12:29:17 [Obj][11008] DelAccount (dangerous8)
+12:29:17 [Obj][11008] DelClient (170.51.141.123)
+12:29:19 [Obj][11011] AddAccount (frank3)
+12:29:38 [ServerInfo] CashShop loaded successfully
+12:29:38 [ServerInfo] ChaosMix loaded successfully
+12:29:38 [ServerInfo] Character loaded successfully
+12:29:38 [ServerInfo] Command loaded successfully
+12:29:38 [ServerInfo] Common loaded successfully
+12:29:38 [ServerInfo] Custom loaded successfully
+12:29:39 [ServerInfo] Event loaded successfully
+12:29:39 [ServerInfo] EventItemBag loaded successfully
+12:29:39 [ServerInfo] Hack loaded successfully
+12:29:39 [ServerInfo] Monster loaded successfully
+12:29:39 [ServerInfo] Move loaded successfully
+12:29:39 [ServerInfo] Quest loaded successfully
+12:29:39 [ServerInfo] Shop loaded successfully
+12:29:39 [ServerInfo] Skill loaded successfully
+12:29:39 [ServerInfo] Util loaded successfully
+12:29:39 [ReadBotInfo] BotSystem loaded successfully
+12:29:42 [Obj][11006] LogOutCharacter (ELEgante)
+12:31:01 [Obj][11011] DelAccount (frank3)
+12:31:01 [Obj][11011] DelClient (181.65.209.59)
+12:31:06 [Obj][11004] LogInCharacter (DranKcueS)
+12:31:10 [Obj][11004] LogOutCharacter (DranKcueS)
+12:31:55 [Obj][11005] AddClient (181.65.209.59)
+12:31:59 [Obj][11005] AddAccount (frank3)
+12:32:11 [Obj][11005] LogInCharacter (Hakai)
+12:32:18 [Obj][11005] LogOutCharacter (Hakai)
+12:32:23 [Obj][11006] LogInCharacter (Zyra420)
+12:32:30 [Obj][11005] LogInCharacter (Hakai)
+12:32:36 [Obj][11005] LogOutCharacter (Hakai)
+12:33:51 [Obj][11004] LogInCharacter (DranKcueS)
+12:33:57 [Obj][11004] LogOutCharacter (DranKcueS)
+12:34:15 [ServerInfo] CashShop loaded successfully
+12:34:15 [ServerInfo] ChaosMix loaded successfully
+12:34:15 [ServerInfo] Character loaded successfully
+12:34:16 [ServerInfo] Command loaded successfully
+12:34:16 [ServerInfo] Common loaded successfully
+12:34:16 [ServerInfo] Custom loaded successfully
+12:34:16 [ServerInfo] Event loaded successfully
+12:34:16 [ServerInfo] EventItemBag loaded successfully
+12:34:16 [ServerInfo] Hack loaded successfully
+12:34:16 [ServerInfo] Monster loaded successfully
+12:34:16 [ServerInfo] Move loaded successfully
+12:34:16 [ServerInfo] Quest loaded successfully
+12:34:16 [ServerInfo] Shop loaded successfully
+12:34:16 [ServerInfo] Skill loaded successfully
+12:34:16 [ServerInfo] Util loaded successfully
+12:34:16 [ReadBotInfo] BotSystem loaded successfully
+12:38:12 [Obj][11004] LogInCharacter (DranKcueS)
+12:41:43 [Obj][11005] LogInCharacter (Hakai)
+12:41:47 [Obj][11005] LogOutCharacter (Hakai)
+12:44:04 [Obj][11005] LogInCharacter (Hakai)
+12:44:09 [Obj][11005] LogOutCharacter (Hakai)
+12:45:46 [Obj][11006] LogOutCharacter (Zyra420)
+12:45:52 [Obj][11006] DelAccount (92nato)
+12:45:52 [Obj][11006] DelClient (200.5.101.170)
+12:45:56 [Obj][11010] AddClient (200.5.101.170)
+12:46:02 [Obj][11010] AddAccount (92nato3)
+12:46:21 [Obj][11010] LogInCharacter (HolaMundo)
+12:46:30 [Obj][11010] LogOutCharacter (HolaMundo)
+12:46:47 [ServerInfo] CashShop loaded successfully
+12:46:47 [ServerInfo] ChaosMix loaded successfully
+12:46:47 [ServerInfo] Character loaded successfully
+12:46:47 [ServerInfo] Command loaded successfully
+12:46:47 [ServerInfo] Common loaded successfully
+12:46:47 [ServerInfo] Custom loaded successfully
+12:46:47 [ServerInfo] Event loaded successfully
+12:46:47 [ServerInfo] EventItemBag loaded successfully
+12:46:47 [ServerInfo] Hack loaded successfully
+12:46:47 [ServerInfo] Monster loaded successfully
+12:46:47 [ServerInfo] Move loaded successfully
+12:46:47 [ServerInfo] Quest loaded successfully
+12:46:47 [ServerInfo] Shop loaded successfully
+12:46:47 [ServerInfo] Skill loaded successfully
+12:46:47 [ServerInfo] Util loaded successfully
+12:46:47 [ReadBotInfo] BotSystem loaded successfully
+12:46:54 [Obj][11010] LogInCharacter (HolaMundo)
+12:47:08 [Obj][11010] LogOutCharacter (HolaMundo)
+12:47:23 [ServerInfo] CashShop loaded successfully
+12:47:23 [ServerInfo] ChaosMix loaded successfully
+12:47:23 [ServerInfo] Character loaded successfully
+12:47:24 [ServerInfo] Command loaded successfully
+12:47:24 [ServerInfo] Common loaded successfully
+12:47:24 [ServerInfo] Custom loaded successfully
+12:47:24 [ServerInfo] Event loaded successfully
+12:47:24 [ServerInfo] EventItemBag loaded successfully
+12:47:24 [ServerInfo] Hack loaded successfully
+12:47:24 [ServerInfo] Monster loaded successfully
+12:47:24 [ServerInfo] Move loaded successfully
+12:47:24 [ServerInfo] Quest loaded successfully
+12:47:24 [ServerInfo] Shop loaded successfully
+12:47:24 [ServerInfo] Skill loaded successfully
+12:47:24 [ServerInfo] Util loaded successfully
+12:47:24 [ReadBotInfo] BotSystem loaded successfully
+12:47:27 [Obj][11004] LogOutCharacter (DranKcueS)
+12:47:34 [Obj][11004] LogInCharacter (DranKcueS)
+12:47:45 [Obj][11005] LogInCharacter (Hakai)
+12:47:47 [ServerInfo] CashShop loaded successfully
+12:47:47 [ServerInfo] ChaosMix loaded successfully
+12:47:47 [ServerInfo] Character loaded successfully
+12:47:47 [ServerInfo] Command loaded successfully
+12:47:47 [ServerInfo] Common loaded successfully
+12:47:47 [ServerInfo] Custom loaded successfully
+12:47:47 [ServerInfo] Event loaded successfully
+12:47:47 [ServerInfo] EventItemBag loaded successfully
+12:47:47 [ServerInfo] Hack loaded successfully
+12:47:48 [ServerInfo] Monster loaded successfully
+12:47:48 [ServerInfo] Move loaded successfully
+12:47:48 [ServerInfo] Quest loaded successfully
+12:47:48 [ServerInfo] Shop loaded successfully
+12:47:48 [ServerInfo] Skill loaded successfully
+12:47:48 [ServerInfo] Util loaded successfully
+12:47:48 [ReadBotInfo] BotSystem loaded successfully
+12:47:51 [Obj][11005] LogOutCharacter (Hakai)
+12:47:53 [Obj][11010] DelAccount (92nato3)
+12:47:53 [Obj][11010] DelClient (200.5.101.170)
+12:47:55 [Obj][11005] LogInCharacter (Hakai)
+12:47:58 [Obj][11001] AddClient (200.5.101.170)
+12:48:02 [Obj][11001] AddAccount (92nato3)
+12:49:01 [Obj][11001] DelAccount (92nato3)
+12:49:01 [Obj][11001] DelClient (200.5.101.170)
+12:49:10 [Obj][11003] AddClient (200.5.101.170)
+12:49:18 [Obj][11003] AddAccount (92nato3)
+12:49:50 [Obj][11003] DelAccount (92nato3)
+12:49:50 [Obj][11003] DelClient (200.5.101.170)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 161 Y: 17)
+12:50:19 [Obj][11007] AddClient (200.5.101.170)
+12:50:24 [Obj][11007] AddAccount (92nato3)
+12:50:39 [Obj][11007] DelAccount (92nato3)
+12:50:39 [Obj][11007] DelClient (200.5.101.170)
+12:51:19 [Obj][11008] AddClient (200.5.101.170)
+12:51:25 [Obj][11008] AddAccount (92nato3)
+12:51:46 [Obj][11008] DelAccount (92nato3)
+12:51:46 [Obj][11008] DelClient (200.5.101.170)
+12:52:37 [ServerInfo] Common loaded successfully
+12:53:01 [Obj][11011] AddClient (200.5.101.170)
+12:53:11 [Obj][11011] AddAccount (92nato4)
+12:53:26 [Obj][11011] LogInCharacter (Shenk)
+12:53:37 [ServerInfo] CashShop loaded successfully
+12:53:37 [ServerInfo] ChaosMix loaded successfully
+12:53:37 [ServerInfo] Character loaded successfully
+12:53:37 [ServerInfo] Command loaded successfully
+12:53:37 [ServerInfo] Common loaded successfully
+12:53:37 [ServerInfo] Custom loaded successfully
+12:53:37 [ServerInfo] Event loaded successfully
+12:53:37 [ServerInfo] EventItemBag loaded successfully
+12:53:37 [ServerInfo] Hack loaded successfully
+12:53:37 [ServerInfo] Monster loaded successfully
+12:53:37 [ServerInfo] Move loaded successfully
+12:53:37 [ServerInfo] Quest loaded successfully
+12:53:37 [ServerInfo] Shop loaded successfully
+12:53:37 [ServerInfo] Skill loaded successfully
+12:53:37 [ServerInfo] Util loaded successfully
+12:53:37 [ReadBotInfo] BotSystem loaded successfully
+12:53:50 [Obj][11011] LogOutCharacter (Shenk)
+12:54:28 [Obj][11011] LogInCharacter (Shenk)
+12:54:32 [Obj][11011] LogOutCharacter (Shenk)
+12:55:22 [ServerInfo] CashShop loaded successfully
+12:55:22 [ServerInfo] ChaosMix loaded successfully
+12:55:22 [ServerInfo] Character loaded successfully
+12:55:23 [ServerInfo] Command loaded successfully
+12:55:23 [ServerInfo] Common loaded successfully
+12:55:23 [ServerInfo] Custom loaded successfully
+12:55:23 [ServerInfo] Event loaded successfully
+12:55:23 [ServerInfo] EventItemBag loaded successfully
+12:55:23 [ServerInfo] Hack loaded successfully
+12:55:23 [ServerInfo] Monster loaded successfully
+12:55:23 [ServerInfo] Move loaded successfully
+12:55:23 [ServerInfo] Quest loaded successfully
+12:55:23 [ServerInfo] Shop loaded successfully
+12:55:23 [ServerInfo] Skill loaded successfully
+12:55:23 [ServerInfo] Util loaded successfully
+12:55:23 [ReadBotInfo] BotSystem loaded successfully
+12:55:25 [Obj][11011] LogInCharacter (Shenk)
+12:55:29 [Obj][11011] LogOutCharacter (Shenk)
+12:56:37 [ServerInfo] CashShop loaded successfully
+12:56:38 [ServerInfo] ChaosMix loaded successfully
+12:56:38 [ServerInfo] Character loaded successfully
+12:56:38 [ServerInfo] Command loaded successfully
+12:56:38 [ServerInfo] Common loaded successfully
+12:56:38 [ServerInfo] Custom loaded successfully
+12:56:38 [ServerInfo] Event loaded successfully
+12:56:38 [ServerInfo] EventItemBag loaded successfully
+12:56:38 [ServerInfo] Hack loaded successfully
+12:56:38 [ServerInfo] Monster loaded successfully
+12:56:38 [ServerInfo] Move loaded successfully
+12:56:38 [ServerInfo] Quest loaded successfully
+12:56:38 [ServerInfo] Shop loaded successfully
+12:56:38 [ServerInfo] Skill loaded successfully
+12:56:38 [ServerInfo] Util loaded successfully
+12:56:38 [ReadBotInfo] BotSystem loaded successfully
+12:56:43 [Obj][11011] LogInCharacter (Shenk)
+12:56:49 [ServerInfo] CashShop loaded successfully
+12:56:49 [ServerInfo] ChaosMix loaded successfully
+12:56:49 [ServerInfo] Character loaded successfully
+12:56:50 [ServerInfo] Command loaded successfully
+12:56:50 [ServerInfo] Common loaded successfully
+12:56:50 [ServerInfo] Custom loaded successfully
+12:56:50 [ServerInfo] Event loaded successfully
+12:56:50 [ServerInfo] EventItemBag loaded successfully
+12:56:50 [ServerInfo] Hack loaded successfully
+12:56:50 [ServerInfo] Monster loaded successfully
+12:56:50 [ServerInfo] Move loaded successfully
+12:56:50 [ServerInfo] Quest loaded successfully
+12:56:50 [ServerInfo] Shop loaded successfully
+12:56:50 [ServerInfo] Skill loaded successfully
+12:56:50 [ServerInfo] Util loaded successfully
+12:56:50 [ReadBotInfo] BotSystem loaded successfully
+12:56:54 [Obj][11011] LogOutCharacter (Shenk)
+12:57:11 [Obj][11011] LogInCharacter (Shenk)
+12:59:51 [Obj][11011] LogOutCharacter (Shenk)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 133 Y: 163)
+13:00:30 [ServerInfo] CashShop loaded successfully
+13:00:30 [ServerInfo] ChaosMix loaded successfully
+13:00:30 [ServerInfo] Character loaded successfully
+13:00:31 [ServerInfo] Command loaded successfully
+13:00:31 [ServerInfo] Common loaded successfully
+13:00:31 [ServerInfo] Custom loaded successfully
+13:00:31 [ServerInfo] Event loaded successfully
+13:00:31 [ServerInfo] EventItemBag loaded successfully
+13:00:31 [ServerInfo] Hack loaded successfully
+13:00:31 [ServerInfo] Monster loaded successfully
+13:00:31 [ServerInfo] Move loaded successfully
+13:00:31 [ServerInfo] Quest loaded successfully
+13:00:31 [ServerInfo] Shop loaded successfully
+13:00:31 [ServerInfo] Skill loaded successfully
+13:00:31 [ServerInfo] Util loaded successfully
+13:00:31 [ReadBotInfo] BotSystem loaded successfully
+13:00:34 [Obj][11011] LogInCharacter (Shenk)
+13:00:40 [Obj][11011] LogOutCharacter (Shenk)
+13:01:25 [ServerInfo] CashShop loaded successfully
+13:01:25 [ServerInfo] ChaosMix loaded successfully
+13:01:25 [ServerInfo] Character loaded successfully
+13:01:25 [ServerInfo] Command loaded successfully
+13:01:25 [ServerInfo] Common loaded successfully
+13:01:25 [ServerInfo] Custom loaded successfully
+13:01:25 [ServerInfo] Event loaded successfully
+13:01:25 [ServerInfo] EventItemBag loaded successfully
+13:01:26 [ServerInfo] Hack loaded successfully
+13:01:26 [ServerInfo] Monster loaded successfully
+13:01:26 [ServerInfo] Move loaded successfully
+13:01:26 [ServerInfo] Quest loaded successfully
+13:01:26 [ServerInfo] Shop loaded successfully
+13:01:26 [ServerInfo] Skill loaded successfully
+13:01:26 [ServerInfo] Util loaded successfully
+13:01:26 [ReadBotInfo] BotSystem loaded successfully
+13:01:33 [Obj][11011] LogInCharacter (Shenk)
+13:01:39 [ServerInfo] CashShop loaded successfully
+13:01:39 [ServerInfo] ChaosMix loaded successfully
+13:01:39 [ServerInfo] Character loaded successfully
+13:01:39 [ServerInfo] Command loaded successfully
+13:01:39 [ServerInfo] Common loaded successfully
+13:01:39 [ServerInfo] Custom loaded successfully
+13:01:40 [ServerInfo] Event loaded successfully
+13:01:40 [ServerInfo] EventItemBag loaded successfully
+13:01:40 [ServerInfo] Hack loaded successfully
+13:01:40 [ServerInfo] Monster loaded successfully
+13:01:40 [ServerInfo] Move loaded successfully
+13:01:40 [ServerInfo] Quest loaded successfully
+13:01:40 [ServerInfo] Shop loaded successfully
+13:01:40 [ServerInfo] Skill loaded successfully
+13:01:40 [ServerInfo] Util loaded successfully
+13:01:40 [ReadBotInfo] BotSystem loaded successfully
+13:02:28 [Obj][11011] LogOutCharacter (Shenk)
+13:03:24 [ServerInfo] CashShop loaded successfully
+13:03:25 [ServerInfo] ChaosMix loaded successfully
+13:03:25 [ServerInfo] Character loaded successfully
+13:03:25 [ServerInfo] Command loaded successfully
+13:03:25 [ServerInfo] Common loaded successfully
+13:03:25 [ServerInfo] Custom loaded successfully
+13:03:25 [ServerInfo] Event loaded successfully
+13:03:25 [ServerInfo] EventItemBag loaded successfully
+13:03:25 [ServerInfo] Hack loaded successfully
+13:03:25 [ServerInfo] Monster loaded successfully
+13:03:25 [ServerInfo] Move loaded successfully
+13:03:25 [ServerInfo] Quest loaded successfully
+13:03:25 [ServerInfo] Shop loaded successfully
+13:03:25 [ServerInfo] Skill loaded successfully
+13:03:25 [ServerInfo] Util loaded successfully
+13:03:25 [ReadBotInfo] BotSystem loaded successfully
+13:03:33 [Obj][11011] LogInCharacter (Shenk)
+13:03:39 [Obj][11011] LogOutCharacter (Shenk)
+13:03:45 [Obj][11011] DelAccount (92nato4)
+13:03:45 [Obj][11011] DelClient (200.5.101.170)
+13:03:48 [Obj][11006] AddClient (200.5.101.170)
+13:03:50 [Obj][11006] AddAccount (92nato)
+13:04:24 [ServerInfo] Common loaded successfully
+13:04:30 [Obj][11006] LogInCharacter (Zyra420)
+13:04:35 [Obj][11006] LogOutCharacter (Zyra420)
+13:04:48 [Obj][11006] DelAccount (92nato)
+13:04:48 [Obj][11006] DelClient (200.5.101.170)
+13:04:52 [Obj][11010] AddClient (200.5.101.170)
+13:04:55 [Obj][11010] AddAccount (92nato4)
+13:05:37 [ServerInfo] Common loaded successfully
+13:05:41 [Obj][11010] LogInCharacter (Shenk)
+13:05:45 [Obj][11010] LogOutCharacter (Shenk)
+13:06:56 [Obj][11010] LogInCharacter (RickForT)
+13:17:08 [Obj][11001] AddClient (181.65.209.59)
+13:17:12 [Obj][11001] AddAccount (frank2)
+13:17:15 [Obj][11001] LogInCharacter (Akane)
+13:19:24 [Obj][11010] LogOutCharacter (RickForT)
+13:19:44 [Obj][11010] LogInCharacter (Ryuu)
+13:21:30 [Obj][11010] LogOutCharacter (Ryuu)
+13:21:30 [Obj][11010] DelAccount (92nato4)
+13:21:30 [Obj][11010] DelClient (200.5.101.170)
+13:21:38 [Obj][11003] AddClient (200.5.101.170)
+13:21:58 [Obj][11003] AddAccount (92nato)
+13:22:03 [Obj][11003] LogInCharacter (Zyra420)
+13:23:59 [ServerInfo] CashShop loaded successfully
+13:23:59 [ServerInfo] ChaosMix loaded successfully
+13:23:59 [ServerInfo] Character loaded successfully
+13:23:59 [ServerInfo] Command loaded successfully
+13:23:59 [ServerInfo] Common loaded successfully
+13:23:59 [ServerInfo] Custom loaded successfully
+13:23:59 [ServerInfo] Event loaded successfully
+13:23:59 [ServerInfo] EventItemBag loaded successfully
+13:23:59 [ServerInfo] Hack loaded successfully
+13:23:59 [ServerInfo] Monster loaded successfully
+13:23:59 [ServerInfo] Move loaded successfully
+13:23:59 [ServerInfo] Quest loaded successfully
+13:23:59 [ServerInfo] Shop loaded successfully
+13:23:59 [ServerInfo] Skill loaded successfully
+13:23:59 [ServerInfo] Util loaded successfully
+13:23:59 [ReadBotInfo] BotSystem loaded successfully
+13:24:03 [Obj][11003] LogOutCharacter (Zyra420)
+13:24:21 [Obj][11003] LogInCharacter (Tessss)
+13:35:00 [Obj][11003] LogOutCharacter (Tessss)
+13:35:03 [Obj][11003] LogInCharacter (Zyra420)
+13:41:34 [Obj][11000] LogOutCharacter (Meilin)
+13:41:34 [Obj][11000] DelAccount (javier89)
+13:41:34 [Obj][11000] DelClient (181.46.166.152)
+13:41:58 [Obj][11007] AddClient (181.46.166.152)
+13:42:07 [Obj][11007] AddAccount (javier89)
+13:42:11 [Obj][11007] LogInCharacter (Meilin)
+13:48:12 [ServerInfo] CashShop loaded successfully
+13:48:13 [ServerInfo] ChaosMix loaded successfully
+13:48:13 [ServerInfo] Character loaded successfully
+13:48:13 [ServerInfo] Command loaded successfully
+13:48:13 [ServerInfo] Common loaded successfully
+13:48:13 [ServerInfo] Custom loaded successfully
+13:48:13 [ServerInfo] Event loaded successfully
+13:48:13 [ServerInfo] EventItemBag loaded successfully
+13:48:13 [ServerInfo] Hack loaded successfully
+13:48:13 [ServerInfo] Monster loaded successfully
+13:48:13 [ServerInfo] Move loaded successfully
+13:48:13 [ServerInfo] Quest loaded successfully
+13:48:13 [ServerInfo] Shop loaded successfully
+13:48:13 [ServerInfo] Skill loaded successfully
+13:48:13 [ServerInfo] Util loaded successfully
+13:48:13 [ReadBotInfo] BotSystem loaded successfully
+13:52:13 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (172500)
+14:00:56 [Obj][11008] AddClient (181.46.166.152)
+14:01:00 [Obj][11008] AddAccount (carolina)
+14:01:24 [Obj][11008] LogInCharacter (Meylin)
+14:28:56 [Obj][11003] LogOutCharacter (Zyra420)
+14:28:56 [Obj][11003] DelAccount (92nato)
+14:28:56 [Obj][11003] DelClient (200.5.101.170)
+14:29:03 [Obj][11011] AddClient (200.5.101.170)
+14:29:33 [Obj][11011] DelClient (200.5.101.170)
+14:29:33 Response error after connection causes conclusion [11011][][][200.5.101.170]
+14:32:26 [Obj][11006] AddClient (200.5.101.170)
+14:32:30 [Obj][11006] AddAccount (92nato)
+14:33:23 [Obj][11006] LogInCharacter (Zyra420)
+14:33:23 [Obj][11006] LogOutCharacter (Zyra420)
+14:33:23 [Obj][11006] DelAccount (92nato)
+14:33:23 [Obj][11006] DelClient (200.5.101.170)
+14:33:32 [Obj][11010] AddClient (200.5.101.170)
+14:33:46 [Obj][11010] AddAccount (92nato)
+14:33:58 [Obj][11010] LogInCharacter (Zyra420)
+14:34:31 [Obj][11010] LogOutCharacter (Zyra420)
+14:34:31 [Obj][11010] DelAccount (92nato)
+14:34:31 [Obj][11010] DelClient (200.5.101.170)
+14:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 198 Y: 81)
+15:03:42 [Obj][11000] AddClient (190.17.22.8)
+15:03:45 [Obj][11000] AddAccount (braian90)
+15:03:49 [Obj][11000] LogInCharacter (test10)
+15:03:53 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (30000)
+15:05:21 [Obj][11009] LogOutCharacter (SmInvictus)
+15:05:21 [Obj][11009] DelAccount (franqito)
+15:05:21 [Obj][11009] DelClient (186.22.19.90)
+15:15:18 [ServerInfo] Monster loaded successfully
+15:15:34 [Set Invasion Start] Index 7 At 15:17:00
+15:17:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 159 Y: 22)
+15:20:41 [ServerInfo] Monster loaded successfully
+15:25:40 [ServerInfo] Monster loaded successfully
+15:36:56 [ServerInfo] Monster loaded successfully
+15:38:09 [ServerInfo] Monster loaded successfully
+15:40:11 [ServerInfo] Monster loaded successfully
+15:43:55 [ServerInfo] Monster loaded successfully
+15:48:52 [ServerInfo] Monster loaded successfully
+15:49:38 [ServerInfo] Monster loaded successfully
+15:50:31 [ServerInfo] Monster loaded successfully
+15:51:25 [ServerInfo] Monster loaded successfully
+15:54:18 [ServerInfo] Monster loaded successfully
+15:54:58 [ServerInfo] Monster loaded successfully
+15:55:46 [ServerInfo] Monster loaded successfully
+15:56:48 [ServerInfo] Monster loaded successfully
+15:59:49 [ServerInfo] Monster loaded successfully
+16:02:44 [ServerInfo] Monster loaded successfully
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 199 Y: 81)
+16:05:58 [ServerInfo] Monster loaded successfully
+16:07:38 [ServerInfo] Monster loaded successfully
+16:08:52 [ServerInfo] Monster loaded successfully
+16:14:01 [ServerInfo] Monster loaded successfully
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 76 Y: 36)
+16:17:47 [ServerInfo] Command loaded successfully
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 106 Y: 20)
+16:27:43 [ServerInfo] Monster loaded successfully
+16:27:52 [ServerInfo] Monster loaded successfully
+16:28:17 [ServerInfo] Monster loaded successfully
+16:30:58 [ServerInfo] Monster loaded successfully
+16:32:12 [ServerInfo] Monster loaded successfully
+16:33:22 [ServerInfo] Monster loaded successfully
+16:34:56 [Obj][11002] LogOutCharacter (Negativo)
+16:34:56 [Obj][11002] DelAccount (negativo)
+16:34:56 [Obj][11002] DelClient (190.103.243.196)
+16:35:37 [ServerInfo] Monster loaded successfully
+16:38:10 [ServerInfo] Monster loaded successfully
+16:45:47 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (3300)
+16:47:11 [ServerInfo] Monster loaded successfully
+16:49:37 [ServerInfo] Monster loaded successfully
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 201 Y: 79)
+16:51:01 [ServerInfo] Monster loaded successfully
+16:51:56 [ServerInfo] Monster loaded successfully
+16:58:48 [ServerInfo] CashShop loaded successfully
+16:58:48 [ServerInfo] ChaosMix loaded successfully
+16:58:48 [ServerInfo] Character loaded successfully
+16:58:49 [ServerInfo] Custom loaded successfully
+16:58:49 [ServerInfo] Command loaded successfully
+16:58:49 [ServerInfo] Common loaded successfully
+16:58:50 [ServerInfo] Event loaded successfully
+16:58:52 [ServerInfo] EventItemBag loaded successfully
+16:58:52 [ServerInfo] Hack loaded successfully
+16:58:52 [ServerInfo] Item loaded successfully
+16:58:54 [ServerInfo] Monster loaded successfully
+16:58:54 [ServerInfo] Move loaded successfully
+16:58:54 [ServerInfo] Quest loaded successfully
+16:58:54 [ServerInfo] Shop loaded successfully
+16:58:54 [ServerInfo] Skill loaded successfully
+16:58:55 [ServerInfo] Util loaded successfully
+16:58:55 [ReadBotInfo] BotSystem loaded successfully
+16:58:58 [Obj][11000] AddClient (181.65.209.59)
+16:59:02 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+16:59:06 [Obj][11001] AddClient (181.46.166.152)
+16:59:07 [Obj][11002] AddClient (181.46.166.152)
+16:59:08 [Obj][11000] AddAccount (frank1)
+16:59:08 [Obj][11003] AddClient (190.17.22.8)
+16:59:08 [Obj][11000] LogInCharacter (DranKcueS)
+16:59:17 [Obj][11001] AddAccount (carolina)
+16:59:17 [Obj][11002] AddAccount (javier89)
+16:59:17 [Obj][11001] LogInCharacter (Meylin)
+16:59:18 [Obj][11002] LogInCharacter (Meilin)
+16:59:18 [Obj][11003] AddAccount (braian90)
+16:59:19 [Obj][11003] LogInCharacter (test10)
+16:59:19 [Obj][11004] AddClient (181.65.209.59)
+16:59:22 [Obj][11005] AddClient (181.65.209.59)
+16:59:29 [Obj][11004] AddAccount (frank2)
+16:59:30 [Obj][11004] LogInCharacter (Akane)
+16:59:32 [Obj][11005] AddAccount (frank3)
+16:59:32 [Obj][11005] LogInCharacter (Hakai)
+17:02:53 [Obj][11000] LogOutCharacter (DranKcueS)
+17:02:53 [Obj][11000] DelAccount (frank1)
+17:02:53 [Obj][11000] DelClient (181.65.209.59)
+17:02:53 [Obj][11001] LogOutCharacter (Meylin)
+17:02:53 [Obj][11001] DelAccount (carolina)
+17:02:53 [Obj][11001] DelClient (181.46.166.152)
+17:02:53 [Obj][11002] LogOutCharacter (Meilin)
+17:02:53 [Obj][11002] DelAccount (javier89)
+17:02:53 [Obj][11002] DelClient (181.46.166.152)
+17:02:53 [Obj][11003] LogOutCharacter (test10)
+17:02:53 [Obj][11003] DelAccount (braian90)
+17:02:53 [Obj][11003] DelClient (190.17.22.8)
+17:02:53 [Obj][11004] LogOutCharacter (Akane)
+17:02:53 [Obj][11004] DelAccount (frank2)
+17:02:53 [Obj][11004] DelClient (181.65.209.59)
+17:02:53 [Obj][11005] LogOutCharacter (Hakai)
+17:02:53 [Obj][11005] DelAccount (frank3)
+17:02:53 [Obj][11005] DelClient (181.65.209.59)
+17:03:34 [ServerInfo] CashShop loaded successfully
+17:03:34 [ServerInfo] ChaosMix loaded successfully
+17:03:34 [ServerInfo] Character loaded successfully
+17:03:35 [ServerInfo] Custom loaded successfully
+17:03:35 [ServerInfo] Command loaded successfully
+17:03:35 [ServerInfo] Common loaded successfully
+17:03:35 [ServerInfo] Event loaded successfully
+17:03:35 [ServerInfo] EventItemBag loaded successfully
+17:03:35 [ServerInfo] Hack loaded successfully
+17:03:35 [ServerInfo] Item loaded successfully
+17:03:35 [ServerInfo] Monster loaded successfully
+17:03:35 [ServerInfo] Move loaded successfully
+17:03:35 [ServerInfo] Quest loaded successfully
+17:03:35 [ServerInfo] Shop loaded successfully
+17:03:36 [ServerInfo] Skill loaded successfully
+17:03:36 [ServerInfo] Util loaded successfully
+17:03:36 [ReadBotInfo] BotSystem loaded successfully
+17:03:41 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+17:03:54 [Obj][11000] AddClient (181.46.166.152)
+17:03:54 [Obj][11001] AddClient (181.46.166.152)
+17:03:54 [Obj][11002] AddClient (190.17.22.8)
+17:03:54 [Obj][11003] AddClient (181.65.209.59)
+17:03:55 [Obj][11004] AddClient (181.65.209.59)
+17:03:55 [Obj][11005] AddClient (181.65.209.59)
+17:04:04 [Obj][11000] AddAccount (javier89)
+17:04:04 [Obj][11001] AddAccount (carolina)
+17:04:04 [Obj][11002] AddAccount (braian90)
+17:04:04 [Obj][11003] AddAccount (frank2)
+17:04:04 [Obj][11000] LogInCharacter (Meilin)
+17:04:04 [Obj][11001] LogInCharacter (Meylin)
+17:04:05 [Obj][11002] LogInCharacter (test10)
+17:04:05 [Obj][11003] LogInCharacter (Akane)
+17:04:05 [Obj][11004] AddAccount (frank3)
+17:04:05 [Obj][11005] AddAccount (frank1)
+17:04:05 [Obj][11004] LogInCharacter (Hakai)
+17:04:05 [Obj][11005] LogInCharacter (DranKcueS)
+17:05:53 [Obj][11000] LogOutCharacter (Meilin)
+17:05:55 [Obj][11000] LogInCharacter (Meilin)
+17:08:28 [ServerInfo] CashShop loaded successfully
+17:08:28 [ServerInfo] ChaosMix loaded successfully
+17:08:28 [ServerInfo] Character loaded successfully
+17:08:28 [ServerInfo] Custom loaded successfully
+17:08:28 [ServerInfo] Command loaded successfully
+17:08:29 [ServerInfo] Common loaded successfully
+17:08:29 [ServerInfo] Event loaded successfully
+17:08:29 [ServerInfo] EventItemBag loaded successfully
+17:08:29 [ServerInfo] Hack loaded successfully
+17:08:29 [ServerInfo] Item loaded successfully
+17:08:29 [ServerInfo] Monster loaded successfully
+17:08:29 [ServerInfo] Move loaded successfully
+17:08:29 [ServerInfo] Quest loaded successfully
+17:08:29 [ServerInfo] Shop loaded successfully
+17:08:29 [ServerInfo] Skill loaded successfully
+17:08:29 [ServerInfo] Util loaded successfully
+17:08:29 [ReadBotInfo] BotSystem loaded successfully
+17:08:34 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+17:08:49 [Obj][11000] AddClient (181.65.209.59)
+17:08:49 [Obj][11001] AddClient (181.65.209.59)
+17:08:49 [Obj][11002] AddClient (181.65.209.59)
+17:08:49 [Obj][11003] AddClient (181.46.166.152)
+17:08:49 [Obj][11004] AddClient (181.46.166.152)
+17:08:50 [Obj][11005] AddClient (190.17.22.8)
+17:08:59 [Obj][11000] AddAccount (frank1)
+17:08:59 [Obj][11001] AddAccount (frank2)
+17:08:59 [Obj][11002] AddAccount (frank3)
+17:08:59 [Obj][11003] AddAccount (carolina)
+17:08:59 [Obj][11004] AddAccount (javier89)
+17:09:00 [Obj][11005] AddAccount (braian90)
+17:09:00 [Obj][11001] LogInCharacter (Akane)
+17:09:00 [Obj][11000] LogInCharacter (DranKcueS)
+17:09:00 [Obj][11002] LogInCharacter (Hakai)
+17:09:00 [Obj][11003] LogInCharacter (Meylin)
+17:09:00 [Obj][11004] LogInCharacter (Meilin)
+17:09:00 [Obj][11005] LogInCharacter (test10)
+17:34:51 [Obj][11006] AddClient (201.190.251.7)
+17:35:02 [Obj][11006] AddAccount (sislive)
+17:35:29 [Obj][11006] LogInCharacter (d0tz)
+17:36:40 [ServerInfo] CashShop loaded successfully
+17:36:40 [ServerInfo] ChaosMix loaded successfully
+17:36:41 [ServerInfo] Character loaded successfully
+17:36:41 [ServerInfo] Custom loaded successfully
+17:36:41 [ServerInfo] Command loaded successfully
+17:36:41 [ServerInfo] Common loaded successfully
+17:36:41 [ServerInfo] Event loaded successfully
+17:36:41 [ServerInfo] EventItemBag loaded successfully
+17:36:41 [ServerInfo] Hack loaded successfully
+17:36:41 [ServerInfo] Item loaded successfully
+17:36:42 [ServerInfo] Monster loaded successfully
+17:36:42 [ServerInfo] Move loaded successfully
+17:36:42 [ServerInfo] Quest loaded successfully
+17:36:42 [ServerInfo] Shop loaded successfully
+17:36:42 [ServerInfo] Skill loaded successfully
+17:36:42 [ServerInfo] Util loaded successfully
+17:36:42 [ReadBotInfo] BotSystem loaded successfully
+17:36:46 [Obj][11000] AddClient (201.190.251.7)
+17:36:47 [Obj][11001] AddClient (190.17.22.8)
+17:36:47 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+17:36:57 [Obj][11000] AddAccount (sislive)
+17:36:57 [Obj][11001] AddAccount (braian90)
+17:36:57 [Obj][11000] LogInCharacter (d0tz)
+17:36:57 [Obj][11001] LogInCharacter (test10)
+17:37:02 [Obj][11002] AddClient (181.46.166.152)
+17:37:11 [Obj][11003] AddClient (181.65.209.59)
+17:37:12 [Obj][11002] AddAccount (javier89)
+17:37:13 [Obj][11004] AddClient (181.65.209.59)
+17:37:13 [Obj][11002] LogInCharacter (Meilin)
+17:37:14 [Obj][11005] AddClient (181.46.166.152)
+17:37:20 [Obj][11004] DelClient (181.65.209.59)
+17:37:21 [Obj][11003] AddAccount (frank1)
+17:37:21 [Obj][11003] LogInCharacter (DranKcueS)
+17:37:24 [Obj][11005] AddAccount (carolina)
+17:37:24 [Obj][11005] LogInCharacter (Meylin)
+17:38:50 [Obj][11000] LogOutCharacter (d0tz)
+17:38:51 [Obj][11000] DelAccount (sislive)
+17:38:51 [Obj][11000] DelClient (201.190.251.7)
+17:40:11 [Obj][11004] AddClient (201.190.251.7)
+17:40:11 [Obj][11004] AddAccount (sislive)
+17:40:11 [Obj][11004] LogInCharacter (d0tz)
+17:43:23 [Obj][11002] LogOutCharacter (Meilin)
+17:43:24 [Obj][11002] DelAccount (javier89)
+17:43:24 [Obj][11002] DelClient (181.46.166.152)
+17:44:41 [Obj][11000] AddClient (181.46.166.152)
+17:44:41 [Obj][11000] AddAccount (javier89)
+17:44:41 [Obj][11000] LogInCharacter (Meilin)
+17:44:58 [ServerInfo] Monster loaded successfully
+17:51:05 [ServerInfo] Monster loaded successfully
+17:53:07 [ServerInfo] Monster loaded successfully
+17:53:51 [ServerInfo] CashShop loaded successfully
+17:53:51 [ServerInfo] ChaosMix loaded successfully
+17:53:51 [ServerInfo] Character loaded successfully
+17:53:51 [ServerInfo] Custom loaded successfully
+17:53:52 [ServerInfo] Command loaded successfully
+17:53:52 [ServerInfo] Common loaded successfully
+17:53:52 [ServerInfo] Event loaded successfully
+17:53:52 [ServerInfo] EventItemBag loaded successfully
+17:53:52 [ServerInfo] Hack loaded successfully
+17:53:52 [ServerInfo] Item loaded successfully
+17:53:52 [ServerInfo] Monster loaded successfully
+17:53:52 [ServerInfo] Move loaded successfully
+17:53:52 [ServerInfo] Quest loaded successfully
+17:53:52 [ServerInfo] Shop loaded successfully
+17:53:52 [ServerInfo] Skill loaded successfully
+17:53:52 [ServerInfo] Util loaded successfully
+17:53:52 [ReadBotInfo] BotSystem loaded successfully
+17:53:57 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+17:54:02 [Obj][11000] AddClient (181.65.209.59)
+17:54:02 [Obj][11001] AddClient (181.46.166.152)
+17:54:02 [Obj][11002] AddClient (201.190.251.7)
+17:54:02 [Obj][11003] AddClient (181.46.166.152)
+17:54:02 [Obj][11004] AddClient (190.17.22.8)
+17:54:12 [Obj][11000] AddAccount (frank1)
+17:54:12 [Obj][11001] AddAccount (carolina)
+17:54:12 [Obj][11003] AddAccount (javier89)
+17:54:12 [Obj][11002] AddAccount (sislive)
+17:54:12 [Obj][11004] AddAccount (braian90)
+17:54:12 [Obj][11000] LogInCharacter (DranKcueS)
+17:54:12 [Obj][11003] LogOutCharacter (Meilin)
+17:54:12 [Obj][11001] LogInCharacter (Meylin)
+17:54:13 [Obj][11002] LogInCharacter (d0tz)
+17:54:13 [Obj][11004] LogInCharacter (test10)
+17:54:43 [ServerInfo] Monster loaded successfully
+17:54:43 [Obj][11002] LogOutCharacter (d0tz)
+17:54:43 [Obj][11002] DelAccount (sislive)
+17:54:43 [Obj][11002] DelClient (201.190.251.7)
+17:54:50 [Set Invasion Start] Index 2 At 17:56:00
+17:55:13 [Obj][11003] DelAccount (javier89)
+17:55:13 [Obj][11003] DelClient (181.46.166.152)
+17:55:13 Game response error causes conclusion [11003][][][181.46.166.152]
+17:56:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 172 Y: 163)
+17:56:10 [ServerInfo] Monster loaded successfully
+18:02:27 [ServerInfo] Monster loaded successfully
+18:04:31 [ServerInfo] Monster loaded successfully
+18:06:05 [ServerInfo] Monster loaded successfully
+18:08:09 [ServerInfo] Monster loaded successfully
+18:09:26 [ServerInfo] Monster loaded successfully
+18:10:49 [ServerInfo] Monster loaded successfully
+18:14:07 [ServerInfo] Monster loaded successfully
+18:16:05 [ServerInfo] Monster loaded successfully
+18:18:07 [ServerInfo] Monster loaded successfully
+18:22:56 [ServerInfo] Monster loaded successfully
+18:24:38 [ServerInfo] Monster loaded successfully
+18:26:41 [ServerInfo] Monster loaded successfully
+18:27:13 [Obj][11002] AddClient (181.65.209.59)
+18:27:18 [Obj][11002] AddAccount (frank3)
+18:27:21 [Obj][11002] LogInCharacter (Hakai)
+18:27:55 [ServerInfo] Monster loaded successfully
+18:29:00 [ServerInfo] Monster loaded successfully
+18:30:23 [ServerInfo] Monster loaded successfully
+18:31:37 [ServerInfo] Monster loaded successfully
+18:36:04 [ServerInfo] Monster loaded successfully
+18:39:17 [Obj][11002] LogOutCharacter (Hakai)
+18:39:17 [Obj][11002] DelAccount (frank3)
+18:39:17 [Obj][11002] DelClient (181.65.209.59)
+18:41:38 [Obj][11003] AddClient (201.190.251.7)
+18:41:45 [Obj][11003] AddAccount (sislive1)
+18:42:00 [Obj][11003] LogInCharacter (STEPSIS)
+18:44:27 [Obj][11002] AddClient (181.65.209.59)
+18:44:31 [Obj][11002] AddAccount (frank3)
+18:44:35 [Obj][11002] LogInCharacter (Hakai)
+18:47:58 [BotBuffer] CharName: STEPSIS - ADD_GREATER_DAMAGE Time: 5
+18:48:03 [BotBuffer] CharName: STEPSIS - ADD_SKILL_MANA Time: 5
+18:50:11 [BotBuffer] CharName: STEPSIS - ADD_GREATER_DAMAGE Time: 5
+18:50:13 [BotBuffer] CharName: STEPSIS - ADD_SKILL_MANA Time: 5
+18:55:34 [Obj][11005] AddClient (200.5.101.170)
+18:55:44 [Obj][11005] AddAccount (92nato2)
+18:56:00 [Obj][11005] LogInCharacter (ElPeluca)
+18:59:45 [Obj][11004] LogOutCharacter (test10)
+18:59:56 [Obj][11006] AddClient (45.171.224.166)
+19:00:00 [Obj][11004] LogInCharacter (TFYJHGJKH)
+19:00:03 [Obj][11006] AddAccount (yinco)
+19:00:07 [Obj][11004] LogOutCharacter (TFYJHGJKH)
+19:00:09 [Obj][11006] LogInCharacter (Yinco)
+19:00:16 [Obj][11004] LogInCharacter (IIUOIOI)
+19:00:19 [Obj][11007] AddClient (201.190.251.7)
+19:00:28 [Obj][11004] LogOutCharacter (IIUOIOI)
+19:00:28 [Obj][11004] DelAccount (braian90)
+19:00:28 [Obj][11004] DelClient (190.17.22.8)
+19:00:33 [Obj][11007] AddAccount (sislive2)
+19:00:46 [Obj][11007] LogInCharacter (STEPBRO)
+19:01:06 [Obj][11004] AddClient (45.171.224.166)
+19:01:12 [Obj][11004] AddAccount (yincox)
+19:01:19 [Obj][11004] LogInCharacter (Minerva)
+19:03:22 [Obj][11008] AddClient (45.171.224.166)
+19:03:30 [Obj][11008] AddAccount (yincoxx)
+19:03:36 [Obj][11008] LogInCharacter (MyLady)
+19:04:33 [Obj][11009] AddClient (201.190.251.7)
+19:04:44 [Obj][11009] AddAccount (sislive)
+19:04:46 [Obj][11009] LogInCharacter (d0tz)
+19:06:16 [Obj][11005] LogOutCharacter (ElPeluca)
+19:06:16 [Obj][11005] DelAccount (92nato2)
+19:06:16 [Obj][11005] DelClient (200.5.101.170)
+19:06:16 Game response error causes conclusion [11005][][][200.5.101.170]
+19:06:47 [Obj][11005] AddClient (200.5.101.170)
+19:07:00 [Obj][11005] AddAccount (92nato2)
+19:07:21 [Obj][11010] AddClient (201.190.251.7)
+19:07:32 [Obj][11010] AddAccount (sislive3)
+19:07:41 [Obj][11005] DelAccount (92nato2)
+19:07:41 [Obj][11005] DelClient (200.5.101.170)
+19:08:52 [Obj][11010] DelAccount (sislive3)
+19:08:52 [Obj][11010] DelClient (201.190.251.7)
+19:09:31 [Obj][11003] LogOutCharacter (STEPSIS)
+19:09:57 [Obj][11003] LogInCharacter (HANUMAN)
+19:17:18 [Obj][11007] LogOutCharacter (STEPBRO)
+19:18:28 [Obj][11007] LogInCharacter (Pkador)
+19:22:09 [Obj][11009] LogOutCharacter (d0tz)
+19:23:25 [Obj][11009] LogInCharacter (MOTORPSICO)
+19:26:20 [BotBuffer] CharName: HANUMAN - ADD_GREATER_DAMAGE Time: 5
+19:26:23 [BotBuffer] CharName: HANUMAN - ADD_SKILL_MANA Time: 5
+19:29:22 [BotBuffer] CharName: Pkador - ADD_SKILL_MANA Time: 5
+19:29:24 [BotBuffer] CharName: Pkador - ADD_GREATER_DAMAGE Time: 5
+19:33:34 [Obj][11005] AddClient (186.143.162.83)
+19:33:40 [Obj][11005] AddAccount (92nato)
+19:33:43 [Obj][11005] LogInCharacter (Zyra420)
+19:35:20 [BotBuffer] CharName: Pkador - ADD_SKILL_MANA Time: 5
+19:35:22 [BotBuffer] CharName: Pkador - ADD_GREATER_DAMAGE Time: 5
+19:36:07 [BotBuffer] CharName: HANUMAN - ADD_GREATER_DAMAGE Time: 5
+19:36:11 [BotBuffer] CharName: HANUMAN - ADD_SKILL_MANA Time: 5
+19:38:14 [ServerInfo] CashShop loaded successfully
+19:38:14 [ServerInfo] ChaosMix loaded successfully
+19:38:14 [ServerInfo] Character loaded successfully
+19:38:14 [ServerInfo] Command loaded successfully
+19:38:15 [ServerInfo] Common loaded successfully
+19:38:15 [ServerInfo] Custom loaded successfully
+19:38:15 [ServerInfo] Event loaded successfully
+19:38:15 [ServerInfo] EventItemBag loaded successfully
+19:38:15 [ServerInfo] Hack loaded successfully
+19:38:15 [ServerInfo] Monster loaded successfully
+19:38:15 [ServerInfo] Move loaded successfully
+19:38:15 [ServerInfo] Quest loaded successfully
+19:38:15 [ServerInfo] Shop loaded successfully
+19:38:15 [ServerInfo] Skill loaded successfully
+19:38:15 [ServerInfo] Util loaded successfully
+19:38:15 [ReadBotInfo] BotSystem loaded successfully
+19:38:38 [BotBuffer] CharName: Pkador - ADD_GREATER_DAMAGE Time: 5
+19:38:40 [BotBuffer] CharName: Pkador - ADD_SKILL_MANA Time: 5
+19:43:06 [BotBuffer] CharName: HANUMAN - ADD_SKILL_MANA Time: 5
+19:43:08 [BotBuffer] CharName: HANUMAN - ADD_GREATER_DAMAGE Time: 5
+19:44:21 [BotBuffer] CharName: MOTORPSICO - ADD_SKILL_MANA Time: 5
+19:44:28 [BotBuffer] CharName: MOTORPSICO - ADD_GREATER_DAMAGE Time: 5
+19:44:43 [BotBuffer] CharName: Pkador - ADD_SKILL_MANA Time: 5
+19:44:46 [BotBuffer] CharName: Pkador - ADD_GREATER_DAMAGE Time: 5
+19:46:16 [Obj][11009] LogOutCharacter (MOTORPSICO)
+19:46:16 [Obj][11009] DelAccount (sislive)
+19:46:16 [Obj][11009] DelClient (201.190.251.7)
+19:46:16 [Obj][11007] LogOutCharacter (Pkador)
+19:46:16 [Obj][11007] DelAccount (sislive2)
+19:46:16 [Obj][11007] DelClient (201.190.251.7)
+19:46:16 [Obj][11003] LogOutCharacter (HANUMAN)
+19:46:16 [Obj][11003] DelAccount (sislive1)
+19:46:16 [Obj][11003] DelClient (201.190.251.7)
+19:48:48 [Obj][11005] LogOutCharacter (Zyra420)
+19:48:48 [Obj][11005] DelAccount (92nato)
+19:48:48 [Obj][11005] DelClient (186.143.162.83)
+20:00:45 [Obj][11002] LogOutCharacter (Hakai)
+20:00:45 [Obj][11002] DelAccount (frank3)
+20:00:45 [Obj][11002] DelClient (181.65.209.59)
+20:06:43 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (24900)
+20:07:41 [Obj][11010] AddClient (186.143.162.83)
+20:07:43 [Obj][11009] AddClient (181.65.209.59)
+20:07:47 [Obj][11009] AddAccount (frank3)
+20:07:48 [Obj][11010] AddAccount (92nato)
+20:07:51 [Obj][11009] LogInCharacter (Hakai)
+20:07:54 [Obj][11010] LogInCharacter (Zyra420)
+20:08:45 [Obj][11009] LogOutCharacter (Hakai)
+20:08:45 [Obj][11009] DelAccount (frank3)
+20:08:45 [Obj][11009] DelClient (181.65.209.59)
+20:09:24 [Obj][11007] AddClient (181.65.209.59)
+20:09:29 [Obj][11007] AddAccount (frank3)
+20:09:33 [Obj][11007] LogInCharacter (Hakai)
+20:09:48 [Obj][11007] LogOutCharacter (Hakai)
+20:09:48 [Obj][11007] DelAccount (frank3)
+20:09:48 [Obj][11007] DelClient (181.65.209.59)
+20:10:44 [Obj][11003] AddClient (181.65.209.59)
+20:10:52 [Obj][11003] AddAccount (frank3)
+20:10:55 [Obj][11003] LogInCharacter (Hakai)
+20:14:13 [Obj][11003] LogOutCharacter (Hakai)
+20:14:13 [Obj][11003] DelAccount (frank3)
+20:14:13 [Obj][11003] DelClient (181.65.209.59)
+20:26:46 [Obj][11006] LogOutCharacter (Yinco)
+20:26:46 [Obj][11006] DelAccount (yinco)
+20:26:46 [Obj][11006] DelClient (45.171.224.166)
+20:26:52 [Obj][11008] LogOutCharacter (MyLady)
+20:26:52 [Obj][11008] DelAccount (yincoxx)
+20:26:52 [Obj][11008] DelClient (45.171.224.166)
+20:27:48 [Obj][11004] LogOutCharacter (Minerva)
+20:27:48 [Obj][11004] DelAccount (yincox)
+20:27:48 [Obj][11004] DelClient (45.171.224.166)
+20:30:00 [ CRYWOLF ] SYNC Occupation: 0, State: 1
+20:35:00 [ CRYWOLF ] SYNC Occupation: 2, State: 2
+20:36:00 [ CRYWOLF ] SYNC Occupation: 2, State: 3
+20:36:58 [ServerInfo] Item loaded successfully
+20:38:00 [ CRYWOLF ] SYNC Occupation: 1, State: 5
+20:38:15 [ CRYWOLF ] SYNC Occupation: 1, State: 6
+20:38:16 [Obj][11010] LogOutCharacter (Zyra420)
+20:38:17 [Obj][11010] DelAccount (92nato)
+20:38:17 [Obj][11010] DelClient (186.143.162.83)
+20:38:25 [ CRYWOLF ] SYNC Occupation: 1, State: 0
+20:40:19 [Obj][11005] AddClient (186.143.165.57)
+20:40:20 [Obj][11005] AddAccount (92nato)
+20:40:20 [Obj][11005] LogInCharacter (Zyra420)
+20:41:32 [ServerInfo] CashShop loaded successfully
+20:41:32 [ServerInfo] ChaosMix loaded successfully
+20:41:32 [ServerInfo] Character loaded successfully
+20:41:32 [ServerInfo] Command loaded successfully
+20:41:32 [ServerInfo] Common loaded successfully
+20:41:32 [ServerInfo] Custom loaded successfully
+20:41:32 [ServerInfo] Event loaded successfully
+20:41:32 [ServerInfo] EventItemBag loaded successfully
+20:41:32 [ServerInfo] Hack loaded successfully
+20:41:32 [ServerInfo] Monster loaded successfully
+20:41:32 [ServerInfo] Move loaded successfully
+20:41:32 [ServerInfo] Quest loaded successfully
+20:41:32 [ServerInfo] Shop loaded successfully
+20:41:32 [ServerInfo] Skill loaded successfully
+20:41:32 [ServerInfo] Util loaded successfully
+20:41:32 [ReadBotInfo] BotSystem loaded successfully
+20:50:03 [ServerInfo] Shop loaded successfully
+20:56:43 [BotBuffer] CharName: Zyra420 - ADD_GREATER_DAMAGE Time: 5
+20:56:45 [BotBuffer] CharName: Zyra420 - ADD_SKILL_MANA Time: 5
+21:06:38 [ServerInfo] Shop loaded successfully
+21:11:45 [ServerInfo] CashShop loaded successfully
+21:11:45 [ServerInfo] ChaosMix loaded successfully
+21:11:45 [ServerInfo] Character loaded successfully
+21:11:45 [ServerInfo] Command loaded successfully
+21:11:45 [ServerInfo] Common loaded successfully
+21:11:45 [ServerInfo] Custom loaded successfully
+21:11:45 [ServerInfo] Event loaded successfully
+21:11:45 [ServerInfo] EventItemBag loaded successfully
+21:11:45 [ServerInfo] Hack loaded successfully
+21:11:45 [ServerInfo] Monster loaded successfully
+21:11:45 [ServerInfo] Move loaded successfully
+21:11:45 [ServerInfo] Quest loaded successfully
+21:11:45 [ServerInfo] Shop loaded successfully
+21:11:45 [ServerInfo] Skill loaded successfully
+21:11:45 [ServerInfo] Util loaded successfully
+21:11:45 [ReadBotInfo] BotSystem loaded successfully
+21:13:20 [ServerInfo] Item loaded successfully
+21:22:02 [ServerInfo] Monster loaded successfully
+21:24:29 [ServerInfo] Monster loaded successfully
+21:26:13 [ServerInfo] Common loaded successfully
+21:31:10 [ServerInfo] Common loaded successfully
+21:31:39 [ServerInfo] Common loaded successfully
+21:32:30 [ServerInfo] Common loaded successfully
+21:33:16 [ServerInfo] Common loaded successfully
+21:35:12 [ServerInfo] Common loaded successfully
+21:39:23 [Obj][11005] LogOutCharacter (Zyra420)
+21:39:23 [Obj][11005] DelAccount (92nato)
+21:39:23 [Obj][11005] DelClient (186.143.165.57)
+21:39:33 [Obj][11002] AddClient (200.5.101.170)
+21:39:43 [Obj][11002] AddAccount (92nato)
+21:39:44 [Obj][11002] LogInCharacter (Zyra420)
+22:05:00 [KING OF MU] Start
+22:35:00 [KING OF MU] Finish - No Winner
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 164 Y: 21)

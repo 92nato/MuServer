@@ -1,0 +1,24 @@
+CREATE Procedure [dbo].[WZ_GvGRanking] 
+@Guild varchar(8)
+AS
+BEGIN
+
+SET NOCOUNT ON
+SET XACT_ABORT ON
+
+IF NOT EXISTS (SELECT Guild FROM RankingGvG WHERE Guild=@Guild)
+BEGIN
+
+	 INSERT INTO RankingGvG (Guild,Score) VALUES (@Guild,1)
+END
+ELSE
+BEGIN
+	UPDATE RankingGvG SET Score=Score+1 WHERE Guild=@Guild
+END
+
+SET NOCOUNT OFF
+SET XACT_ABORT OFF
+
+END
+
+

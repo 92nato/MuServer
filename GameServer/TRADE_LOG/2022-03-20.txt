@@ -1,0 +1,1 @@
+12:02:51 [ExchangeTradeItem][franqito][SmInvictus] - (Account: franqitoo, Name: Bminvictus, Index: 6156, Level: 00, Serial: 0002EBEB, Option1: 0, Option2: 0, Option3: 0, NewOption: 000, JewelOfHarmonyOption: 000, ItemOptionEx: 000, SocketOption: 255, 255, 255, 255, 255)

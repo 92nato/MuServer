@@ -1,0 +1,22 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Fire Flame Ghost"	 1000	   100		  1		  0		    0		   1
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+13            8      2           5          0      *       1         0      //ring of ice
+13            9      2           5          0      *       1         0      //ring of poison
+13           10      2          5          0      *       1         0      //ring of transformation
+13           12      2           5          0      *       1         0      //pendant of lighting
+13           13      2           5          0      *       1         0      //pendant of fire
+13           20      2           5          0      *       1         0      //wizard ring
+13           21      2           5          0      *       1         0      //ring of fire
+13           22      2           5          0      *       1         0      //ring of earth
+13           23      2           5          0      *       1         0      //ring of wind
+13           24      2           5          0      *       1         0      //ring of magic
+13           25      2           5          0      *       1         0      //pendant of ice
+13           26      2           5          0      *       1         0      //pendant of wind
+13           27      2           5          0      *       1         0      //pendant of water
+
+end

@@ -1,0 +1,38 @@
+08:17:16 [ServerManager][0] DelServer (127.0.0.1)
+08:18:07 [SocketManager] Server started at port [55970]
+08:18:17 [ServerManager][0] AddServer (127.0.0.1)
+08:18:17 [ServerManager][0] ServerInfo (MuEMU_CS) (55919) (19)
+08:18:24 [ServerManager][0] DelServer (127.0.0.1)
+08:20:29 [SocketManager] Server started at port [55970]
+08:20:35 [ServerManager][0] AddServer (127.0.0.1)
+08:20:35 [ServerManager][0] ServerInfo (MuEMU_CS) (55919) (19)
+08:20:41 [ServerManager][0] DelServer (127.0.0.1)
+08:22:00 [SocketManager] Server started at port [55970]
+08:22:06 [ServerManager][0] AddServer (127.0.0.1)
+08:22:06 [ServerManager][0] ServerInfo (MuEMU_CS) (55919) (19)
+08:22:37 [ServerManager][0] DelServer (127.0.0.1)
+08:24:06 [SocketManager] Server started at port [55970]
+08:24:10 [ServerManager][0] AddServer (127.0.0.1)
+08:24:10 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+08:24:13 [ServerManager][1] AddServer (127.0.0.1)
+08:24:13 [ServerManager][1] ServerInfo (MuEMU_CS) (55919) (19)
+08:24:28 [ServerManager][1] DelServer (127.0.0.1)
+08:26:03 [SocketManager] Server started at port [55970]
+08:26:07 [ServerManager][0] AddServer (127.0.0.1)
+08:26:07 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+08:26:10 [ServerManager][1] AddServer (127.0.0.1)
+08:26:10 [ServerManager][1] ServerInfo (MuEMU_CS) (55919) (19)
+08:33:12 [ServerManager][0] DelServer (127.0.0.1)
+08:35:16 [SocketManager] Server started at port [55970]
+08:35:20 [ServerManager][0] AddServer (127.0.0.1)
+08:35:20 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+08:35:23 [ServerManager][1] AddServer (127.0.0.1)
+08:35:23 [ServerManager][1] ServerInfo (MuEMU_CS) (55919) (19)
+09:09:26 [ServerManager][0] DelServer (127.0.0.1)
+09:11:53 [SocketManager] Server started at port [55970]
+09:14:53 [SocketManager] Server started at port [55970]
+09:15:58 [SocketManager] Server started at port [55970]
+09:16:05 [ServerManager][0] AddServer (127.0.0.1)
+09:16:05 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+09:16:08 [ServerManager][1] AddServer (127.0.0.1)
+09:16:08 [ServerManager][1] ServerInfo (MuEMU_CS) (55919) (19)

@@ -1,0 +1,15 @@
+// ------------------------------------------------------------------------------------------------------------------------------------------
+// ItemIndex 	ModelName		IndexLeft	TextureLeft	IndexRight	TextureRight 	ColorR  ColorG  ColorB	
+// ------------------------------------------------------------------------------------------------------------------------------------------
+   100	     	"BloodangelClo"		1552		"BloodangelClo_L"   1553	"BloodangelClo_R"    205	192      176
+   101			"PrickleGlove"		1554		"PrickleGlove_left" 1555	"PrickleGlove_right" 255	229	 	 153  
+   102	     	"Sword39"			1556		"Sword39_L"	    	1557	"Sword39_R" 	     125	125      150
+   103	     	"Sword40"			1558		"Sword40_L"	    	1559	"Sword40_R"          84     129      107
+   104	     	"Sword43"			1560		"Sword43_L"	    	1561	"Sword43_R" 	     137	77       0
+   105	     	"Sword41"			1562		"Sword41_L"	    	1563	"Sword41_R"          219	34		 17  
+   106	     	"Sword42"			1564		"Sword42_L"	    	1565	"Sword42_R" 	     0  	19       189  
+   107	     	"Sword37"			1566		"Sword37_L"	    	1567	"Sword37_R"          71     163      233
+   108	     	"Sword38"			1568		"Sword38_L"	    	1569	"Sword38_R" 	     236	198      140
+   109	     	"Sword44"			1570		"Sword44_L"	    	1571	"Sword44_R" 	     122	139      168
+   110	     	"Sword45"			1572		"Sword45_L"	    	1573	"Sword45_R" 	     078	016      166
+end

@@ -1,0 +1,5 @@
+03:43:38 [ChaosItemMix][Success][braian90][TEST05] - (ChaosSuccessRate: 62, ChaosMoney: 638600)
+03:44:44 [Wing1Mix][Success][braian90][TEST05] - (ChaosSuccessRate: 100, ChaosMoney: 1030000)
+15:56:04 [ChaosItemMix][Success][braian90][TEST05] - (ChaosSuccessRate: 44, ChaosMoney: 453200)
+15:58:15 [Wing1Mix][Success][braian90][TEST05] - (ChaosSuccessRate: 90, ChaosMoney: 927000)
+16:19:36 [Wing2Mix][Success][braian90][TEST05] - (Type: 0, ChaosSuccessRate: 72, ChaosMoney: 5150000)

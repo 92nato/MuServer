@@ -1,0 +1,425 @@
+00:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 125 Y: 194)
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 139 Y: 32)
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 43 Y: 145)
+00:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 160 Y: 15)
+01:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 53 Y: 104)
+02:11:24 [Obj][11005] AddClient (190.17.22.8)
+02:11:27 [Obj][11005] AddAccount (braian90)
+02:11:30 [Obj][11005] LogInCharacter (test10)
+02:20:04 [ServerInfo] Monster loaded successfully
+02:20:26 [ServerInfo] Monster loaded successfully
+02:21:16 [ServerInfo] Monster loaded successfully
+02:22:02 [ServerInfo] Monster loaded successfully
+02:23:11 [ServerInfo] Monster loaded successfully
+02:24:14 [ServerInfo] Monster loaded successfully
+02:24:55 [ServerInfo] Monster loaded successfully
+02:26:53 [ServerInfo] Monster loaded successfully
+02:27:37 [ServerInfo] Monster loaded successfully
+02:28:54 [ServerInfo] Monster loaded successfully
+02:33:34 [ServerInfo] Monster loaded successfully
+02:34:46 [ServerInfo] Monster loaded successfully
+02:40:46 [ServerInfo] Monster loaded successfully
+02:41:30 [ServerInfo] Monster loaded successfully
+02:43:22 [ServerInfo] Monster loaded successfully
+02:44:34 [ServerInfo] Monster loaded successfully
+02:45:15 [ServerInfo] Monster loaded successfully
+02:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 199 Y: 71)
+02:50:50 [ServerInfo] Monster loaded successfully
+02:56:28 [Set BC Start] At 02:58:00
+03:01:05 [Obj][11005] LogOutCharacter (test10)
+03:01:05 [Obj][11005] DelAccount (braian90)
+03:01:05 [Obj][11005] DelClient (190.17.22.8)
+04:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 130 Y: 199)
+04:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 48 Y: 221)
+04:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 192 Y: 145)
+04:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 158 Y: 57)
+05:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 51 Y: 112)
+06:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 203 Y: 82)
+07:48:37 [Obj][11009] AddClient (181.65.209.59)
+07:48:44 [Obj][11006] LogOutCharacter (DranKcueS)
+07:48:44 [Obj][11006] DelAccount (frank1)
+07:48:44 [Obj][11006] DelClient (181.65.209.59)
+07:48:46 [Obj][11009] AddAccount (frank1)
+07:48:50 [Obj][11009] LogInCharacter (DranKcueS)
+08:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 129 Y: 200)
+08:10:54 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (420000)
+08:14:09 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (180000)
+08:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 186 Y: 19)
+08:17:26 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (540000)
+08:19:08 [Obj][11008] LogOutCharacter (Yinco)
+08:19:08 [Obj][11008] DelAccount (yinco)
+08:19:08 [Obj][11008] DelClient (45.171.224.166)
+08:19:11 [Obj][11010] LogOutCharacter (Minerva)
+08:19:11 [Obj][11010] DelAccount (yincox)
+08:19:11 [Obj][11010] DelClient (45.171.224.166)
+08:19:11 [Obj][11004] LogOutCharacter (MyLady)
+08:19:11 [Obj][11004] DelAccount (yincoxx)
+08:19:11 [Obj][11004] DelClient (45.171.224.166)
+08:19:41 [Obj][11007] AddClient (45.171.224.166)
+08:19:41 [Obj][11000] AddClient (45.171.224.166)
+08:19:51 [Obj][11007] AddAccount (yincox)
+08:19:51 [Obj][11000] AddAccount (yinco)
+08:19:52 [Obj][11007] LogInCharacter (Minerva)
+08:19:52 [Obj][11000] LogInCharacter (Yinco)
+08:20:11 [Obj][11003] AddClient (45.171.224.166)
+08:20:21 [Obj][11003] AddAccount (yincoxx)
+08:20:22 [Obj][11003] LogInCharacter (MyLady)
+08:24:33 [Obj][11005] AddClient (181.65.209.59)
+08:24:38 [Obj][11005] AddAccount (frank3)
+08:24:41 [Obj][11005] LogInCharacter (Hakai)
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 74 Y: 138)
+08:27:45 [Obj][11006] AddClient (186.22.19.90)
+08:27:56 [Obj][11006] AddAccount (franqito)
+08:28:04 [Obj][11000] LogOutCharacter (Yinco)
+08:28:04 [Obj][11000] DelAccount (yinco)
+08:28:04 [Obj][11000] DelClient (45.171.224.166)
+08:28:04 Game response error causes conclusion [11000][][][45.171.224.166]
+08:28:17 [Obj][11006] LogInCharacter (SmInvictus)
+08:28:37 [Obj][11008] AddClient (45.171.224.166)
+08:28:47 [Obj][11008] AddAccount (yinco)
+08:28:48 [Obj][11008] LogInCharacter (Yinco)
+08:29:48 [Obj][11008] LogOutCharacter (Yinco)
+08:29:48 [Obj][11008] DelAccount (yinco)
+08:29:48 [Obj][11008] DelClient (45.171.224.166)
+08:29:48 Game response error causes conclusion [11008][][][45.171.224.166]
+08:29:48 [JGAccountLevelRecv] Invalid Account [11008](yinco)
+08:30:44 [Obj][11010] AddClient (45.171.224.166)
+08:30:55 [Obj][11010] AddAccount (yinco)
+08:30:56 [Obj][11010] LogInCharacter (Yinco)
+08:34:12 [Obj][11003] LogOutCharacter (MyLady)
+08:34:12 [Obj][11003] DelAccount (yincoxx)
+08:34:12 [Obj][11003] DelClient (45.171.224.166)
+08:34:12 Game response error causes conclusion [11003][][][45.171.224.166]
+08:34:27 [Obj][11010] LogOutCharacter (Yinco)
+08:34:27 [Obj][11010] DelAccount (yinco)
+08:34:27 [Obj][11010] DelClient (45.171.224.166)
+08:34:27 Game response error causes conclusion [11010][][][45.171.224.166]
+08:34:47 [Obj][11007] LogOutCharacter (Minerva)
+08:34:47 [Obj][11007] DelAccount (yincox)
+08:34:47 [Obj][11007] DelClient (45.171.224.166)
+08:34:47 Game response error causes conclusion [11007][][][45.171.224.166]
+08:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 157 Y: 57)
+08:58:02 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (6600)
+09:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 149 Y: 18)
+09:04:14 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (14400)
+09:13:06 [Obj][11004] AddClient (45.171.224.166)
+09:13:11 [Obj][11004] AddAccount (yinco)
+09:13:17 [Obj][11004] LogInCharacter (Yinco)
+09:14:13 [Obj][11000] AddClient (45.171.224.166)
+09:14:22 [Obj][11000] AddAccount (yincox)
+09:14:32 [Obj][11000] LogInCharacter (Minerva)
+09:16:59 [Obj][11008] AddClient (45.171.224.166)
+09:17:04 [Obj][11008] AddAccount (yincoxx)
+09:17:10 [Obj][11008] LogInCharacter (MyLady)
+09:23:14 [Obj][11005] LogOutCharacter (Hakai)
+09:23:14 [Obj][11005] DelAccount (frank3)
+09:23:14 [Obj][11005] DelClient (181.65.209.59)
+09:24:04 [Obj][11003] AddClient (181.65.209.59)
+09:24:08 [Obj][11003] AddAccount (frank3)
+09:24:12 [Obj][11003] LogInCharacter (Hakai)
+09:36:39 [Obj][11010] AddClient (181.65.209.59)
+09:36:44 [Obj][11010] AddAccount (frank2)
+09:36:48 [Obj][11010] LogInCharacter (Akane)
+09:41:44 [Obj][11010] LogOutCharacter (Akane)
+09:41:44 [Obj][11010] DelAccount (frank2)
+09:41:44 [Obj][11010] DelClient (181.65.209.59)
+10:01:40 [Obj][11006] LogOutCharacter (SmInvictus)
+10:01:40 [Obj][11006] DelAccount (franqito)
+10:01:40 [Obj][11006] DelClient (186.22.19.90)
+10:01:40 Game response error causes conclusion [11006][][][186.22.19.90]
+10:02:40 [Obj][11007] AddClient (186.22.19.90)
+10:02:50 [Obj][11007] AddAccount (franqito)
+10:02:50 [Obj][11007] LogInCharacter (SmInvictus)
+10:05:04 [ServerInfo] Monster loaded successfully
+10:13:24 [Obj][11007] LogOutCharacter (SmInvictus)
+10:13:47 [Obj][11005] AddClient (67.219.137.107)
+10:14:04 [Obj][11005] AddAccount (braian90)
+10:14:14 [Obj][11005] LogInCharacter (test10)
+10:15:10 [Obj][11005] LogOutCharacter (test10)
+10:15:10 [Obj][11005] DelAccount (braian90)
+10:15:10 [Obj][11005] DelClient (67.219.137.107)
+10:15:16 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (30000)
+10:15:22 [Obj][11007] LogInCharacter (SmInvictus)
+10:15:54 [ServerInfo] Monster loaded successfully
+10:32:34 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (30000)
+10:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 159 Y: 16)
+10:59:25 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (150000)
+11:21:28 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (420000)
+11:27:59 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (300000)
+11:38:13 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (360000)
+11:43:45 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (300000)
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 197 Y: 79)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 184 Y: 123)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 230 Y: 94)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 159 Y: 22)
+12:52:21 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (180000)
+12:54:26 [Obj][11010] AddClient (186.143.163.55)
+12:54:30 [Obj][11010] AddAccount (92nato)
+12:54:45 [Obj][11010] LogInCharacter (Pegasus)
+12:56:37 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (180000)
+12:59:52 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (445800)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 152 Y: 16)
+13:03:52 [Obj][11010] LogOutCharacter (Pegasus)
+13:03:52 [Obj][11010] DelAccount (92nato)
+13:03:52 [Obj][11010] DelClient (186.143.163.55)
+13:03:52 Game response error causes conclusion [11010][][][186.143.163.55]
+13:06:17 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (300000)
+13:13:08 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (360000)
+13:16:56 [Obj][11006] AddClient (186.143.163.55)
+13:16:59 [Obj][11006] AddAccount (92nato)
+13:17:08 [Obj][11006] LogInCharacter (Pegasus)
+13:20:55 [BotBuffer] CharName: Pegasus - ADD_GREATER_DAMAGE Time: 5
+13:20:57 [BotBuffer] CharName: Pegasus - ADD_SKILL_MANA Time: 5
+13:22:57 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (420000)
+13:24:27 [Obj][11006] LogOutCharacter (Pegasus)
+13:24:27 [Obj][11006] DelAccount (92nato)
+13:24:27 [Obj][11006] DelClient (186.143.163.55)
+13:26:53 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (7800)
+13:27:21 [Obj][11005] AddClient (186.143.165.120)
+13:27:31 [Obj][11005] AddAccount (92nato)
+13:27:32 [Obj][11005] LogInCharacter (Pegasus)
+13:30:56 [BotBuffer] CharName: Pegasus - ADD_GREATER_DAMAGE Time: 5
+13:30:58 [BotBuffer] CharName: Pegasus - ADD_SKILL_MANA Time: 5
+13:34:05 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (780000)
+13:40:38 [ServerInfo] Monster loaded successfully
+13:44:57 [ServerInfo] Monster loaded successfully
+13:46:07 [Obj][11005] LogOutCharacter (Pegasus)
+13:46:12 [Obj][11005] LogInCharacter (Pegasus)
+13:56:30 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (120000)
+14:01:09 [ServerInfo] Monster loaded successfully
+14:04:07 [ServerInfo] Monster loaded successfully
+14:04:36 [Obj][11005] LogOutCharacter (Pegasus)
+14:04:39 [Obj][11005] LogInCharacter (Zyra420)
+14:07:06 [ServerInfo] Monster loaded successfully
+14:12:12 [ServerInfo] Monster loaded successfully
+14:12:49 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (150000)
+14:15:05 [ServerInfo] Monster loaded successfully
+14:16:45 [ServerInfo] Monster loaded successfully
+14:17:07 [ServerInfo] Monster loaded successfully
+14:17:25 [ServerInfo] Monster loaded successfully
+14:19:57 [ServerInfo] Monster loaded successfully
+14:20:47 [ServerInfo] Monster loaded successfully
+14:27:40 [ServerInfo] Monster loaded successfully
+14:28:51 [ServerInfo] Monster loaded successfully
+14:30:12 [ServerInfo] Monster loaded successfully
+14:31:43 [ServerInfo] Monster loaded successfully
+14:32:26 [ServerInfo] Monster loaded successfully
+14:36:24 [BotBuffer] CharName: Zyra420 - ADD_GREATER_DAMAGE Time: 5
+14:36:26 [BotBuffer] CharName: Zyra420 - ADD_SKILL_MANA Time: 5
+14:46:54 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (30000)
+14:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 196 Y: 85)
+14:52:47 [Obj][11001] LogOutCharacter (Meylin)
+14:52:47 [Obj][11001] DelAccount (carolina)
+14:52:47 [Obj][11001] DelClient (181.46.166.152)
+14:52:47 [Obj][11002] LogOutCharacter (Meilin)
+14:52:47 [Obj][11002] DelAccount (javier89)
+14:52:47 [Obj][11002] DelClient (181.46.166.152)
+14:54:42 [Obj][11010] AddClient (181.46.166.152)
+14:54:43 [Obj][11006] AddClient (181.46.166.152)
+14:54:52 [Obj][11010] AddAccount (carolina)
+14:54:53 [Obj][11006] AddAccount (javier89)
+14:54:53 [Obj][11010] LogInCharacter (Meylin)
+14:54:53 [Obj][11006] LogInCharacter (Meilin)
+14:57:52 [ServerInfo] Monster loaded successfully
+14:59:59 [Obj][11007] LogOutCharacter (SmInvictus)
+14:59:59 [Obj][11007] DelAccount (franqito)
+14:59:59 [Obj][11007] DelClient (186.22.19.90)
+15:00:27 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (28200)
+15:03:03 [ServerInfo] Monster loaded successfully
+15:22:43 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (360000)
+15:27:34 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (360000)
+15:33:27 [ServerInfo] Monster loaded successfully
+15:36:24 [Obj][11005] LogOutCharacter (Zyra420)
+15:36:24 [Obj][11005] DelAccount (92nato)
+15:36:24 [Obj][11005] DelClient (186.143.165.120)
+15:39:31 [ServerInfo] Monster loaded successfully
+15:40:22 [ServerInfo] Monster loaded successfully
+15:40:52 [Obj][11001] AddClient (190.17.22.8)
+15:40:55 [Obj][11001] AddAccount (braian90)
+15:40:58 [Obj][11001] LogInCharacter (test10)
+15:46:09 [ServerInfo] Monster loaded successfully
+15:47:13 [ServerInfo] Monster loaded successfully
+15:50:00 [ServerInfo] Monster loaded successfully
+15:53:40 [ServerInfo] Monster loaded successfully
+15:54:22 [ServerInfo] Monster loaded successfully
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 198 Y: 77)
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 105 Y: 195)
+16:19:39 [ServerInfo] Monster loaded successfully
+16:19:42 [ServerInfo] Shop loaded successfully
+16:20:02 [Obj][11002] AddClient (200.5.101.170)
+16:20:07 [Obj][11002] AddAccount (92nato)
+16:20:15 [Obj][11002] LogInCharacter (Zyra420)
+16:24:56 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (180000)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 190 Y: 168)
+16:25:43 [ServerInfo] Shop loaded successfully
+16:28:44 [ServerInfo] Item loaded successfully
+16:33:18 [ServerInfo] Item loaded successfully
+16:33:23 [ServerInfo] CashShop loaded successfully
+16:33:23 [ServerInfo] ChaosMix loaded successfully
+16:33:23 [ServerInfo] Character loaded successfully
+16:33:23 [ServerInfo] Command loaded successfully
+16:33:23 [ServerInfo] Common loaded successfully
+16:33:24 [ServerInfo] Custom loaded successfully
+16:33:24 [ServerInfo] Event loaded successfully
+16:33:26 [ServerInfo] EventItemBag loaded successfully
+16:33:26 [ServerInfo] Hack loaded successfully
+16:33:26 [ServerInfo] Monster loaded successfully
+16:33:26 [ServerInfo] Move loaded successfully
+16:33:26 [ServerInfo] Quest loaded successfully
+16:33:26 [ServerInfo] Shop loaded successfully
+16:33:27 [ServerInfo] Skill loaded successfully
+16:33:27 [ServerInfo] Util loaded successfully
+16:33:27 [ReadBotInfo] BotSystem loaded successfully
+16:35:56 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (5100)
+16:38:16 [ServerInfo] Item loaded successfully
+16:41:58 [ServerInfo] Custom loaded successfully
+16:42:24 [braian90][test10] BuyVip (Level: 3)
+16:42:24 [braian90][test10] WZ_SetCoin(BuyVip) Val1: -2000, Val2: 0, Val3: 0
+16:43:06 [ServerInfo] Monster loaded successfully
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 160 Y: 23)
+16:53:42 [ServerInfo] Command loaded successfully
+16:56:25 [ServerInfo] Command loaded successfully
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 134 Y: 162)
+17:08:17 [ServerInfo] Command loaded successfully
+17:09:57 [ServerInfo] Command loaded successfully
+17:17:51 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (600000)
+17:21:30 [ServerInfo] CashShop loaded successfully
+17:21:30 [ServerInfo] ChaosMix loaded successfully
+17:21:30 [ServerInfo] Character loaded successfully
+17:21:30 [ServerInfo] Command loaded successfully
+17:21:31 [ServerInfo] Common loaded successfully
+17:21:31 [ServerInfo] Custom loaded successfully
+17:21:31 [ServerInfo] Event loaded successfully
+17:21:31 [ServerInfo] EventItemBag loaded successfully
+17:21:31 [ServerInfo] Hack loaded successfully
+17:21:31 [ServerInfo] Monster loaded successfully
+17:21:31 [ServerInfo] Move loaded successfully
+17:21:31 [ServerInfo] Quest loaded successfully
+17:21:31 [ServerInfo] Shop loaded successfully
+17:21:31 [ServerInfo] Skill loaded successfully
+17:21:31 [ServerInfo] Util loaded successfully
+17:21:31 [ReadBotInfo] BotSystem loaded successfully
+17:28:25 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (60000)
+17:31:31 [Set Invasion Start] Index 7 At 17:33:00
+17:33:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 166 Y: 14)
+17:33:19 [Obj][11001] LogOutCharacter (test10)
+17:33:19 [Obj][11001] DelAccount (braian90)
+17:33:19 [Obj][11001] DelClient (190.17.22.8)
+17:33:31 [ServerInfo] Monster loaded successfully
+17:34:30 [Obj][11007] AddClient (190.17.22.8)
+17:34:33 [Obj][11007] AddAccount (braian90)
+17:34:36 [Obj][11007] LogInCharacter (test10)
+17:34:42 [Obj][11007] LogOutCharacter (test10)
+17:34:42 [Obj][11007] DelAccount (braian90)
+17:34:42 [Obj][11007] DelClient (190.17.22.8)
+17:35:19 [Obj][11005] AddClient (190.17.22.8)
+17:35:22 [Obj][11005] AddAccount (braian90)
+17:35:25 [Obj][11005] LogInCharacter (test10)
+17:38:10 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (300000)
+17:42:10 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (420000)
+17:47:44 [Obj][11009] LogOutCharacter (DranKcueS)
+17:47:44 [Obj][11009] DelAccount (frank1)
+17:47:44 [Obj][11009] DelClient (181.65.209.59)
+17:47:48 [Obj][11003] LogOutCharacter (Hakai)
+17:47:48 [Obj][11003] DelAccount (frank3)
+17:47:48 [Obj][11003] DelClient (181.65.209.59)
+17:49:53 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (240000)
+17:53:21 [ServerInfo] Item loaded successfully
+17:53:27 [ServerInfo] CashShop loaded successfully
+17:53:27 [ServerInfo] ChaosMix loaded successfully
+17:53:27 [ServerInfo] Character loaded successfully
+17:53:27 [ServerInfo] Command loaded successfully
+17:53:28 [ServerInfo] Common loaded successfully
+17:53:28 [ServerInfo] Custom loaded successfully
+17:53:28 [ServerInfo] Event loaded successfully
+17:53:28 [ServerInfo] EventItemBag loaded successfully
+17:53:28 [ServerInfo] Hack loaded successfully
+17:53:28 [ServerInfo] Monster loaded successfully
+17:53:28 [ServerInfo] Move loaded successfully
+17:53:28 [ServerInfo] Quest loaded successfully
+17:53:28 [ServerInfo] Shop loaded successfully
+17:53:28 [ServerInfo] Skill loaded successfully
+17:53:28 [ServerInfo] Util loaded successfully
+17:53:28 [ReadBotInfo] BotSystem loaded successfully
+18:40:50 [ServerInfo] Monster loaded successfully
+18:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 158 Y: 23)
+18:51:07 [ServerInfo] Monster loaded successfully
+18:57:06 [ServerInfo] Shop loaded successfully
+19:01:26 [Obj][11001] AddClient (200.5.101.170)
+19:01:34 [Obj][11001] AddAccount (92nato2)
+19:01:40 [Obj][11001] LogInCharacter (ElPeluca)
+19:17:10 [ServerInfo] Common loaded successfully
+19:17:49 [ServerInfo] Common loaded successfully
+19:19:11 [ServerInfo] Common loaded successfully
+19:27:43 [ServerInfo] Common loaded successfully
+19:27:54 [Obj][11001] LogOutCharacter (ElPeluca)
+19:27:54 [Obj][11001] DelAccount (92nato2)
+19:27:54 [Obj][11001] DelClient (200.5.101.170)
+19:30:14 [ServerInfo] Common loaded successfully
+19:30:57 [ServerInfo] Common loaded successfully
+19:31:52 [ServerInfo] Common loaded successfully
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 136 Y: 198)
+20:07:24 [ServerInfo] CashShop loaded successfully
+20:07:24 [ServerInfo] ChaosMix loaded successfully
+20:07:24 [ServerInfo] Character loaded successfully
+20:07:24 [ServerInfo] Command loaded successfully
+20:07:24 [ServerInfo] Common loaded successfully
+20:07:24 [ServerInfo] Custom loaded successfully
+20:07:24 [ServerInfo] Event loaded successfully
+20:07:24 [ServerInfo] EventItemBag loaded successfully
+20:07:24 [ServerInfo] Hack loaded successfully
+20:07:24 [ServerInfo] Monster loaded successfully
+20:07:24 [ServerInfo] Move loaded successfully
+20:07:24 [ServerInfo] Quest loaded successfully
+20:07:24 [ServerInfo] Shop loaded successfully
+20:07:24 [ServerInfo] Skill loaded successfully
+20:07:24 [ServerInfo] Util loaded successfully
+20:07:24 [ReadBotInfo] BotSystem loaded successfully
+20:08:03 [ServerInfo] CashShop loaded successfully
+20:08:03 [ServerInfo] ChaosMix loaded successfully
+20:08:03 [ServerInfo] Character loaded successfully
+20:08:03 [ServerInfo] Command loaded successfully
+20:08:03 [ServerInfo] Common loaded successfully
+20:08:03 [ServerInfo] Custom loaded successfully
+20:08:03 [ServerInfo] Event loaded successfully
+20:08:03 [ServerInfo] EventItemBag loaded successfully
+20:08:03 [ServerInfo] Hack loaded successfully
+20:08:03 [ServerInfo] Monster loaded successfully
+20:08:03 [ServerInfo] Move loaded successfully
+20:08:03 [ServerInfo] Quest loaded successfully
+20:08:03 [ServerInfo] Shop loaded successfully
+20:08:03 [ServerInfo] Skill loaded successfully
+20:08:03 [ServerInfo] Util loaded successfully
+20:08:03 [ReadBotInfo] BotSystem loaded successfully
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 139 Y: 76)
+20:23:46 [ServerInfo] CashShop loaded successfully
+20:23:46 [ServerInfo] ChaosMix loaded successfully
+20:23:46 [ServerInfo] Character loaded successfully
+20:23:46 [ServerInfo] Command loaded successfully
+20:23:46 [ServerInfo] Common loaded successfully
+20:23:46 [ServerInfo] Custom loaded successfully
+20:23:47 [ServerInfo] Event loaded successfully
+20:23:47 [ServerInfo] EventItemBag loaded successfully
+20:23:47 [ServerInfo] Hack loaded successfully
+20:23:47 [ServerInfo] Monster loaded successfully
+20:23:47 [ServerInfo] Move loaded successfully
+20:23:47 [ServerInfo] Quest loaded successfully
+20:23:47 [ServerInfo] Shop loaded successfully
+20:23:47 [ServerInfo] Skill loaded successfully
+20:23:47 [ServerInfo] Util loaded successfully
+20:23:47 [ReadBotInfo] BotSystem loaded successfully
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 112 Y: 152)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 201 Y: 72)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 152 Y: 18)
+22:05:00 [KING OF MU] Start
+22:10:16 [Obj][11000] LogOutCharacter (Minerva)
+22:10:16 [Obj][11000] DelAccount (yincox)
+22:10:16 [Obj][11000] DelClient (45.171.224.166)
+22:10:16 [Obj][11004] LogOutCharacter (Yinco)
+22:10:16 [Obj][11004] DelAccount (yinco)
+22:10:16 [Obj][11004] DelClient (45.171.224.166)
+22:10:16 [Obj][11008] LogOutCharacter (MyLady)
+22:10:16 [Obj][11008] DelAccount (yincoxx)
+22:10:16 [Obj][11008] DelClient (45.171.224.166)
+22:35:00 [KING OF MU] Finish - No Winner
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 158 Y: 21)

@@ -1,0 +1,241 @@
+00:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 200 Y: 71)
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 22 Y: 200)
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 174 Y: 215)
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 194 Y: 54)
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 128 Y: 19)
+00:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 85 Y: 127)
+01:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 54 Y: 107)
+03:33:36 [Obj][11004] AddClient (190.17.22.8)
+03:33:45 [Obj][11004] AddAccount (braian91)
+03:33:47 [Obj][11004] LogInCharacter (Test11)
+03:34:01 [Obj][11004] LogOutCharacter (Test11)
+03:35:21 [Obj][11004] LogInCharacter (Test11)
+03:44:22 [Obj][11008] AddClient (190.17.22.8)
+03:44:28 [Obj][11008] AddAccount (braian92)
+03:44:30 [Obj][11008] LogInCharacter (Teste12)
+04:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 197 Y: 83)
+04:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 32 Y: 196)
+04:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 222 Y: 118)
+04:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 81 Y: 159)
+04:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 61 Y: 232)
+04:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 85 Y: 127)
+06:34:25 [ServerInfo] Common loaded successfully
+06:37:38 [ServerInfo] Item loaded successfully
+08:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 198 Y: 72)
+08:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 219 Y: 201)
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 173 Y: 103)
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 237 Y: 129)
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 177 Y: 179)
+08:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 115 Y: 188)
+09:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 56 Y: 104)
+09:08:16 [Obj][11000] LogOutCharacter (SmInvictus)
+09:08:30 [Obj][11000] LogInCharacter (KRAKEN)
+09:17:22 [Obj][11000] LogOutCharacter (KRAKEN)
+09:17:49 [Obj][11000] LogInCharacter (Yaiza)
+09:19:06 [Obj][11000] LogOutCharacter (Yaiza)
+09:20:22 [Obj][11000] LogInCharacter (SmInvictus)
+10:18:20 [Obj][11000] LogOutCharacter (SmInvictus)
+10:18:20 [Obj][11000] DelAccount (franqito)
+10:18:20 [Obj][11000] DelClient (186.22.19.90)
+10:31:50 [Obj][11005] LogOutCharacter (TEST05)
+10:31:50 [Obj][11005] DelAccount (braian90)
+10:31:50 [Obj][11005] DelClient (190.17.22.8)
+10:31:54 [Obj][11008] LogOutCharacter (Teste12)
+10:31:54 [Obj][11008] DelAccount (braian92)
+10:31:54 [Obj][11008] DelClient (190.17.22.8)
+10:32:05 [Obj][11004] LogOutCharacter (Test11)
+10:32:05 [Obj][11004] DelAccount (braian91)
+10:32:05 [Obj][11004] DelClient (190.17.22.8)
+10:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 110 Y: 97)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 34 Y: 42)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 173 Y: 209)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 28 Y: 86)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 130 Y: 24)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 115 Y: 188)
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 66 Y: 90)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 89 Y: 125)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 49 Y: 147)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 187 Y: 169)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 85 Y: 127)
+17:07:05 [Obj][11001] LogOutCharacter (Erika)
+17:07:05 [Obj][11001] DelAccount (erika107)
+17:07:05 [Obj][11001] DelClient (186.39.200.94)
+17:07:05 [Obj][11002] LogOutCharacter (ArViGx)
+17:07:05 [Obj][11002] DelAccount (alberto107)
+17:07:05 [Obj][11002] DelClient (186.39.200.94)
+17:07:29 [Obj][11000] AddClient (186.39.200.184)
+17:07:30 [Obj][11005] AddClient (186.39.200.184)
+17:07:39 [Obj][11000] AddAccount (erika107)
+17:07:40 [Obj][11000] LogInCharacter (Erika)
+17:07:40 [Obj][11005] AddAccount (alberto107)
+17:07:41 [Obj][11005] LogInCharacter (ArViGx)
+17:59:02 [Obj][11008] AddClient (200.5.101.170)
+17:59:03 [Obj][11008] DelClient (200.5.101.170)
+19:11:54 [Obj][11004] AddClient (186.143.163.26)
+19:11:58 [Obj][11004] AddAccount (92nato)
+19:12:06 [Obj][11004] LogInCharacter (Zyra420)
+19:12:31 [Obj][11004] LogOutCharacter (Zyra420)
+19:12:31 [Obj][11004] DelAccount (92nato)
+19:12:31 [Obj][11004] DelClient (186.143.163.26)
+19:13:25 [Obj][11001] AddClient (186.143.166.89)
+19:13:29 [Obj][11001] AddAccount (92nato)
+19:13:33 [Obj][11001] LogInCharacter (Zyra420)
+19:14:46 [Obj][11002] AddClient (190.17.22.8)
+19:14:49 [Obj][11002] AddAccount (braian90)
+19:14:52 [Obj][11002] LogInCharacter (TEST05)
+19:15:12 [Obj][11008] AddClient (186.143.163.26)
+19:15:16 [Obj][11008] AddAccount (92nato2)
+19:15:19 [Obj][11008] LogInCharacter (Ricardo4)
+19:15:24 [Obj][11004] AddClient (190.17.22.8)
+19:15:29 [Obj][11004] AddAccount (braian91)
+19:15:31 [Obj][11004] LogInCharacter (Test11)
+19:16:34 [Obj][11009] AddClient (190.17.22.8)
+19:16:49 [Obj][11009] AddAccount (braian92)
+19:16:51 [Obj][11009] LogInCharacter (Teste12)
+19:28:58 [ServerInfo] Monster loaded successfully
+20:05:02 [Obj][11001] LogOutCharacter (Zyra420)
+20:05:02 [Obj][11001] DelAccount (92nato)
+20:05:02 [Obj][11001] DelClient (186.143.166.89)
+20:05:09 [Obj][11008] LogOutCharacter (Ricardo4)
+20:05:09 [Obj][11008] DelAccount (92nato2)
+20:05:09 [Obj][11008] DelClient (186.143.163.26)
+20:05:34 [Obj][11001] AddClient (186.143.163.219)
+20:05:35 [Obj][11008] AddClient (186.143.163.219)
+20:05:45 [Obj][11001] AddAccount (92nato)
+20:05:45 [Obj][11008] AddAccount (92nato2)
+20:05:45 [Obj][11001] LogInCharacter (Zyra420)
+20:05:46 [Obj][11008] LogInCharacter (Ricardo4)
+20:11:52 [ServerInfo] Monster loaded successfully
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 135 Y: 64)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 33 Y: 103)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 224 Y: 153)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 144 Y: 184)
+20:30:00 [ CRYWOLF ] SYNC Occupation: 1, State: 1
+20:35:00 [ CRYWOLF ] SYNC Occupation: 2, State: 2
+20:36:00 [ CRYWOLF ] SYNC Occupation: 2, State: 3
+20:38:00 [ CRYWOLF ] SYNC Occupation: 1, State: 5
+20:38:15 [ CRYWOLF ] SYNC Occupation: 1, State: 6
+20:38:25 [ CRYWOLF ] SYNC Occupation: 1, State: 0
+20:42:34 [Obj][11001] LogOutCharacter (Zyra420)
+20:42:34 [Obj][11001] DelAccount (92nato)
+20:42:34 [Obj][11001] DelClient (186.143.163.219)
+20:42:42 [Obj][11008] LogOutCharacter (Ricardo4)
+20:42:42 [Obj][11008] DelAccount (92nato2)
+20:42:42 [Obj][11008] DelClient (186.143.163.219)
+20:44:19 [Obj][11001] AddClient (200.5.101.170)
+20:44:28 [Obj][11001] AddAccount (92nato)
+20:44:37 [Obj][11001] LogInCharacter (Zyra420)
+20:44:42 [92nato][Zyra420] CheckSumTime Error
+20:44:43 [92nato][Zyra420] CheckSumTime Error
+20:44:44 [92nato][Zyra420] CheckSumTime Error
+20:44:45 [92nato][Zyra420] CheckSumTime Error
+20:44:46 [92nato][Zyra420] CheckSumTime Error
+20:44:47 [92nato][Zyra420] CheckSumTime Error
+20:44:48 [92nato][Zyra420] CheckSumTime Error
+20:44:49 [92nato][Zyra420] CheckSumTime Error
+20:44:50 [92nato][Zyra420] CheckSumTime Error
+20:44:51 [92nato][Zyra420] CheckSumTime Error
+20:44:52 [92nato][Zyra420] CheckSumTime Error
+20:44:53 [92nato][Zyra420] CheckSumTime Error
+20:44:54 [92nato][Zyra420] CheckSumTime Error
+20:44:55 [92nato][Zyra420] CheckSumTime Error
+20:44:56 [92nato][Zyra420] CheckSumTime Error
+20:44:57 [92nato][Zyra420] CheckSumTime Error
+20:44:58 [92nato][Zyra420] CheckSumTime Error
+20:44:59 [92nato][Zyra420] CheckSumTime Error
+20:45:00 [92nato][Zyra420] CheckSumTime Error
+20:45:01 [92nato][Zyra420] CheckSumTime Error
+20:45:02 [92nato][Zyra420] CheckSumTime Error
+20:45:03 [92nato][Zyra420] CheckSumTime Error
+20:45:04 [92nato][Zyra420] CheckSumTime Error
+20:45:05 [92nato][Zyra420] CheckSumTime Error
+20:45:06 [92nato][Zyra420] CheckSumTime Error
+20:45:07 [92nato][Zyra420] CheckSumTime Error
+20:45:08 [92nato][Zyra420] CheckSumTime Error
+20:45:09 [92nato][Zyra420] CheckSumTime Error
+20:45:10 [92nato][Zyra420] CheckSumTime Error
+20:45:11 [92nato][Zyra420] CheckSumTime Error
+20:45:12 [92nato][Zyra420] CheckSumTime Error
+20:45:13 [92nato][Zyra420] CheckSumTime Error
+20:45:14 [92nato][Zyra420] CheckSumTime Error
+20:45:15 [92nato][Zyra420] CheckSumTime Error
+20:45:16 [92nato][Zyra420] CheckSumTime Error
+20:45:17 [92nato][Zyra420] CheckSumTime Error
+20:45:18 [92nato][Zyra420] CheckSumTime Error
+20:45:19 [92nato][Zyra420] CheckSumTime Error
+20:45:20 [92nato][Zyra420] CheckSumTime Error
+20:45:21 [92nato][Zyra420] CheckSumTime Error
+20:45:22 [92nato][Zyra420] CheckSumTime Error
+20:45:23 [92nato][Zyra420] CheckSumTime Error
+20:45:24 [92nato][Zyra420] CheckSumTime Error
+20:45:25 [92nato][Zyra420] CheckSumTime Error
+20:45:26 [92nato][Zyra420] CheckSumTime Error
+20:45:27 [92nato][Zyra420] CheckSumTime Error
+20:45:28 [Obj][11008] AddClient (200.5.101.170)
+20:45:28 [92nato][Zyra420] CheckSumTime Error
+20:45:29 [92nato][Zyra420] CheckSumTime Error
+20:45:30 [92nato][Zyra420] CheckSumTime Error
+20:45:31 [92nato][Zyra420] CheckSumTime Error
+20:45:32 [92nato][Zyra420] CheckSumTime Error
+20:45:32 [Obj][11001] LogOutCharacter (Zyra420)
+20:45:32 [Obj][11001] DelAccount (92nato)
+20:45:32 [Obj][11001] DelClient (200.5.101.170)
+20:45:32 Game response error causes conclusion [11001][][][200.5.101.170]
+20:45:39 [Obj][11008] AddAccount (92nato2)
+20:46:07 [Obj][11008] LogInCharacter (Ricardo4)
+20:47:07 [Obj][11008] LogOutCharacter (Ricardo4)
+20:47:07 [Obj][11008] DelAccount (92nato2)
+20:47:07 [Obj][11008] DelClient (200.5.101.170)
+20:47:07 Game response error causes conclusion [11008][][][200.5.101.170]
+20:48:56 [Obj][11001] AddClient (200.5.101.170)
+20:48:59 [Obj][11001] AddAccount (92nato2)
+20:49:06 [Obj][11001] LogInCharacter (Ricardo4)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 115 Y: 188)
+20:53:06 [Obj][11001] LogOutCharacter (Ricardo4)
+20:53:06 [Obj][11001] DelAccount (92nato2)
+20:53:06 [Obj][11001] DelClient (200.5.101.170)
+20:53:06 Game response error causes conclusion [11001][][][200.5.101.170]
+20:54:43 [Obj][11008] AddClient (200.5.101.170)
+20:54:53 [Obj][11008] AddAccount (92nato2)
+20:54:56 [Obj][11008] LogInCharacter (Ricardo4)
+20:56:45 [Obj][11008] LogOutCharacter (Ricardo4)
+20:56:45 [Obj][11008] DelAccount (92nato2)
+20:56:45 [Obj][11008] DelClient (200.5.101.170)
+20:56:45 Game response error causes conclusion [11008][][][200.5.101.170]
+20:57:20 [Obj][11001] AddClient (200.5.101.170)
+20:57:29 [Obj][11001] AddAccount (92nato2)
+20:57:30 [Obj][11001] LogInCharacter (Ricardo4)
+20:59:16 [Obj][11001] LogOutCharacter (Ricardo4)
+20:59:16 [Obj][11001] DelAccount (92nato2)
+20:59:16 [Obj][11001] DelClient (200.5.101.170)
+21:00:20 [Obj][11008] AddClient (200.5.101.170)
+21:00:30 [Obj][11008] AddAccount (92nato2)
+21:00:33 [Obj][11008] LogInCharacter (Ricardo4)
+21:03:31 [Obj][11008] LogOutCharacter (Ricardo4)
+21:03:31 [Obj][11008] DelAccount (92nato2)
+21:03:31 [Obj][11008] DelClient (200.5.101.170)
+21:03:31 Game response error causes conclusion [11008][][][200.5.101.170]
+21:04:02 [Obj][11001] AddClient (200.5.101.170)
+21:04:14 [Obj][11001] AddAccount (92nato2)
+21:04:17 [Obj][11001] LogInCharacter (Ricardo4)
+21:04:40 [Obj][11001] LogOutCharacter (Ricardo4)
+21:04:40 [Obj][11001] DelAccount (92nato2)
+21:04:40 [Obj][11001] DelClient (200.5.101.170)
+21:05:46 [Obj][11008] AddClient (200.5.101.170)
+21:05:56 [Obj][11008] AddAccount (92nato2)
+21:06:00 [Obj][11008] LogInCharacter (Ricardo4)
+21:11:25 [Obj][11008] LogOutCharacter (Ricardo4)
+21:11:25 [Obj][11008] DelAccount (92nato2)
+21:11:25 [Obj][11008] DelClient (200.5.101.170)
+21:11:25 Game response error causes conclusion [11008][][][200.5.101.170]
+21:16:59 [Obj][11001] AddClient (200.5.101.170)
+21:17:09 [Obj][11001] AddAccount (92nato2)
+21:17:10 [Obj][11001] LogInCharacter (Ricardo4)
+21:18:38 [Obj][11001] LogOutCharacter (Ricardo4)
+21:18:38 [Obj][11001] DelAccount (92nato2)
+21:18:38 [Obj][11001] DelClient (200.5.101.170)
+21:19:45 [Obj][11008] AddClient (200.5.101.170)
+21:19:48 [Obj][11008] DelClient (200.5.101.170)
+22:05:00 [KING OF MU] Start
+22:35:00 [KING OF MU] Finish - No Winner
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 110 Y: 137)

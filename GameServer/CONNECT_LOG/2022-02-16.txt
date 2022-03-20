@@ -1,0 +1,13 @@
+07:44:30 [SocketManager] Server started at port [55901]
+10:49:50 [SocketManager] Server started at port [55901]
+16:58:48 [SocketManager] Server started at port [55901]
+17:02:57 [Connection] connect() failed with error: 10061
+17:03:07 [Connection] connect() failed with error: 10061
+17:03:17 [Connection] connect() failed with error: 10061
+17:03:27 [Connection] connect() failed with error: 10061
+17:03:34 [SocketManager] Server started at port [55901]
+17:08:28 [SocketManager] Server started at port [55901]
+17:36:40 [SocketManager] Server started at port [55901]
+17:36:40 [SocketManager] WSAAccept() failed with error: 10061
+17:53:51 [SocketManager] Server started at port [55901]
+19:06:16 [SocketManager] WSASend() failed with error: 10038

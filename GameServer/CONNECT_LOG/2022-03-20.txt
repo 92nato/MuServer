@@ -1,0 +1,12 @@
+07:17:24 [SocketManager] WSASend() failed with error: 10054
+08:18:10 [SocketManager] Server started at port [55901]
+08:20:31 [SocketManager] Server started at port [55901]
+08:20:31 [SocketManager] WSAAccept() failed with error: 10061
+08:22:02 [SocketManager] Server started at port [55901]
+08:24:08 [SocketManager] Server started at port [55901]
+08:26:05 [SocketManager] Server started at port [55901]
+08:35:18 [SocketManager] Server started at port [55901]
+08:35:21 [SocketManager] Protocol header error (Index: 11002, Header: aa)
+09:11:56 [SocketManager] Server started at port [55901]
+09:14:55 [SocketManager] Server started at port [55901]
+09:16:01 [SocketManager] Server started at port [55901]

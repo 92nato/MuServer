@@ -1,0 +1,256 @@
+00:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 126 Y: 192)
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 27 Y: 184)
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 72 Y: 229)
+00:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 206 Y: 65)
+01:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 50 Y: 105)
+04:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 198 Y: 73)
+04:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 204 Y: 27)
+04:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 87 Y: 89)
+04:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 206 Y: 65)
+05:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 131 Y: 164)
+05:40:26 [Obj][11002] LogOutCharacter (Minerva)
+05:40:26 [Obj][11002] DelAccount (yincox)
+05:40:26 [Obj][11002] DelClient (45.171.224.166)
+05:40:56 [Obj][11004] AddClient (45.171.224.166)
+05:41:06 [Obj][11004] AddAccount (yincox)
+05:41:07 [Obj][11004] LogInCharacter (Minerva)
+06:47:37 [Obj][11001] AddClient (186.22.19.90)
+06:48:05 [Obj][11001] AddAccount (eliansito)
+06:50:58 [Obj][11001] DelAccount (eliansito)
+06:50:58 [Obj][11001] DelClient (186.22.19.90)
+07:17:53 [Obj][11003] AddClient (186.22.19.90)
+07:18:23 [Obj][11003] DelClient (186.22.19.90)
+07:18:23 Response error after connection causes conclusion [11003][][][186.22.19.90]
+07:20:00 [Obj][11000] AddClient (186.22.19.90)
+07:20:29 [Obj][11000] AddAccount (eliansito)
+07:20:47 [Obj][11000] LogInCharacter (BmKrAtOS)
+07:33:58 [Obj][11000] LogOutCharacter (BmKrAtOS)
+07:33:58 [Obj][11000] DelAccount (eliansito)
+07:33:58 [Obj][11000] DelClient (186.22.19.90)
+07:34:04 [Obj][11002] AddClient (186.22.19.90)
+07:34:26 [Obj][11002] AddAccount (eliansito)
+07:36:27 [Obj][11002] LogInCharacter (elian)
+08:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 139 Y: 194)
+08:06:16 [Obj][11002] LogOutCharacter (elian)
+08:06:16 [Obj][11002] DelAccount (eliansito)
+08:06:16 [Obj][11002] DelClient (186.22.19.90)
+08:06:22 [Obj][11001] AddClient (186.22.19.90)
+08:06:52 [Obj][11001] DelClient (186.22.19.90)
+08:06:52 Response error after connection causes conclusion [11001][][][186.22.19.90]
+08:07:37 [Obj][11003] AddClient (186.22.19.90)
+08:07:57 [Obj][11003] AddAccount (eliansito)
+08:08:06 [Obj][11003] LogInCharacter (BmKrAtOS)
+08:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 173 Y: 33)
+08:15:44 [Obj][11003] LogOutCharacter (BmKrAtOS)
+08:15:44 [Obj][11003] DelAccount (eliansito)
+08:15:44 [Obj][11003] DelClient (186.22.19.90)
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 142 Y: 105)
+08:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 206 Y: 65)
+09:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 55 Y: 111)
+10:27:22 [Obj][11006] LogOutCharacter (Meilin)
+10:27:22 [Obj][11006] DelAccount (javier89)
+10:27:22 [Obj][11006] DelClient (181.46.166.152)
+10:27:22 [Obj][11005] LogOutCharacter (Meylin)
+10:27:22 [Obj][11005] DelAccount (carolina)
+10:27:22 [Obj][11005] DelClient (181.46.166.152)
+10:29:38 [Obj][11000] AddClient (181.46.166.152)
+10:29:38 [Obj][11002] AddClient (181.46.166.152)
+10:29:48 [Obj][11000] AddAccount (javier89)
+10:29:48 [Obj][11002] AddAccount (carolina)
+10:29:49 [Obj][11000] LogInCharacter (Meilin)
+10:29:49 [Obj][11002] LogInCharacter (Meylin)
+11:03:09 [Obj][11001] AddClient (200.5.101.170)
+11:03:13 [Obj][11001] AddAccount (92nato)
+11:03:20 [Obj][11001] LogInCharacter (Zyra420)
+11:10:00 [ServerInfo] Item loaded successfully
+11:11:24 [ServerInfo] Custom loaded successfully
+11:13:36 [ServerInfo] CashShop loaded successfully
+11:13:36 [ServerInfo] ChaosMix loaded successfully
+11:13:37 [ServerInfo] Character loaded successfully
+11:13:37 [ServerInfo] Command loaded successfully
+11:13:37 [ServerInfo] Common loaded successfully
+11:13:37 [ServerInfo] Custom loaded successfully
+11:13:38 [ServerInfo] Event loaded successfully
+11:13:39 [ServerInfo] EventItemBag loaded successfully
+11:13:39 [ServerInfo] Hack loaded successfully
+11:13:40 [ServerInfo] Monster loaded successfully
+11:13:40 [ServerInfo] Move loaded successfully
+11:13:40 [ServerInfo] Quest loaded successfully
+11:13:40 [ServerInfo] Shop loaded successfully
+11:13:40 [ServerInfo] Skill loaded successfully
+11:13:40 [ServerInfo] Util loaded successfully
+11:13:40 [ReadBotInfo] BotSystem loaded successfully
+11:56:47 [Obj][11003] AddClient (181.191.143.9)
+11:57:50 [Obj][11003] DelClient (181.191.143.9)
+11:57:50 Response error after connection causes conclusion [11003][][][181.191.143.9]
+11:58:35 [Obj][11005] AddClient (181.191.143.9)
+11:58:58 [Obj][11005] DelClient (181.191.143.9)
+11:59:18 [Obj][11006] AddClient (181.191.143.9)
+11:59:44 [Obj][11006] DelClient (181.191.143.9)
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 202 Y: 73)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 116 Y: 28)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 171 Y: 94)
+12:25:34 [Obj][11003] AddClient (200.5.101.170)
+12:25:40 [Obj][11003] AddAccount (xXManiacXx)
+12:25:45 [Obj][11003] DelAccount (xXManiacXx)
+12:25:45 [Obj][11003] DelClient (200.5.101.170)
+12:26:55 [Obj][11005] AddClient (181.191.143.9)
+12:27:09 [Obj][11005] AddAccount (xXManiacXx)
+12:27:25 [Obj][11005] LogInCharacter (Maniac)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 115 Y: 188)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 130 Y: 162)
+13:02:30 [Obj][11001] LogOutCharacter (Zyra420)
+13:02:30 [Obj][11001] DelAccount (92nato)
+13:02:30 [Obj][11001] DelClient (200.5.101.170)
+13:02:30 Game response error causes conclusion [11001][][][200.5.101.170]
+13:07:14 [Obj][11006] AddClient (200.5.101.170)
+13:07:44 [Obj][11006] DelClient (200.5.101.170)
+13:07:44 Response error after connection causes conclusion [11006][][][200.5.101.170]
+13:10:47 [Obj][11003] AddClient (200.5.101.170)
+13:10:47 [Obj][11003] DelClient (200.5.101.170)
+13:15:19 [Obj][11001] AddClient (200.5.101.170)
+13:15:49 [Obj][11001] DelClient (200.5.101.170)
+13:15:49 Response error after connection causes conclusion [11001][][][200.5.101.170]
+14:03:50 [Obj][11006] AddClient (200.5.101.170)
+14:03:54 [Obj][11006] AddAccount (92nato)
+14:04:02 [Obj][11006] LogInCharacter (Pegasus)
+14:28:31 [Obj][11003] AddClient (186.22.19.90)
+14:28:37 [Obj][11003] AddAccount (franqito)
+14:28:42 [Obj][11003] LogInCharacter (SmInvictus)
+14:29:45 [Obj][11006] LogOutCharacter (Pegasus)
+14:29:45 [Obj][11006] DelAccount (92nato)
+14:29:45 [Obj][11006] DelClient (200.5.101.170)
+14:29:45 Game response error causes conclusion [11006][][][200.5.101.170]
+14:30:40 [Obj][11001] AddClient (186.143.165.242)
+14:30:50 [Obj][11001] AddAccount (92nato)
+14:30:52 [Obj][11001] LogInCharacter (Pegasus)
+14:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 110 Y: 81)
+14:57:27 [Obj][11001] LogOutCharacter (Pegasus)
+14:57:27 [Obj][11001] DelAccount (92nato)
+14:57:27 [Obj][11001] DelClient (186.143.165.242)
+15:19:08 [Obj][11006] AddClient (190.17.22.8)
+15:19:12 [Obj][11006] AddAccount (braian90)
+15:19:15 [Obj][11006] LogInCharacter (test10)
+15:21:40 [ServerInfo] Item loaded successfully
+15:25:36 [ServerInfo] Item loaded successfully
+15:26:50 [ServerInfo] Item loaded successfully
+15:27:46 [ServerInfo] CashShop loaded successfully
+15:27:46 [ServerInfo] ChaosMix loaded successfully
+15:27:47 [ServerInfo] Character loaded successfully
+15:27:47 [ServerInfo] Command loaded successfully
+15:27:47 [ServerInfo] Common loaded successfully
+15:27:47 [ServerInfo] Custom loaded successfully
+15:27:47 [ServerInfo] Event loaded successfully
+15:27:47 [ServerInfo] EventItemBag loaded successfully
+15:27:47 [ServerInfo] Hack loaded successfully
+15:27:47 [ServerInfo] Monster loaded successfully
+15:27:47 [ServerInfo] Move loaded successfully
+15:27:47 [ServerInfo] Quest loaded successfully
+15:27:47 [ServerInfo] Shop loaded successfully
+15:27:47 [ServerInfo] Skill loaded successfully
+15:27:47 [ServerInfo] Util loaded successfully
+15:27:47 [ReadBotInfo] BotSystem loaded successfully
+15:34:02 [ServerInfo] EventItemBag loaded successfully
+15:34:07 [Set Invasion Start] Index 1 At 15:36:00
+15:36:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 53 Y: 87)
+15:40:11 [Set Invasion Start] Index 1 At 15:42:00
+15:42:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 140 Y: 89)
+15:49:08 [Obj][11001] AddClient (186.39.207.170)
+15:49:22 [Obj][11001] AddAccount (alberto107)
+15:50:05 [Obj][11001] LogInCharacter (ArViGx)
+15:50:09 [Obj][11001] LogOutCharacter (ArViGx)
+15:50:16 [Obj][11001] LogInCharacter (ArViGx)
+15:57:29 [ServerInfo] EventItemBag loaded successfully
+15:59:58 [ServerInfo] EventItemBag loaded successfully
+16:03:32 [Set Invasion Start] Index 3 At 16: 5:00
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 130 Y: 202)
+16:05:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 206 Y: 65)
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 45 Y: 82)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 122 Y: 180)
+16:26:53 [BotBuffer] CharName: ArViGx - ADD_SKILL_MANA Time: 5
+16:27:00 [BotBuffer] CharName: ArViGx - ADD_GREATER_DAMAGE Time: 5
+16:27:10 [Set Invasion Start] Index 5 At 16:29:00
+16:30:49 [ServerInfo] Monster loaded successfully
+16:31:11 [Set Invasion Start] Index 5 At 16:33:00
+16:34:12 [ServerInfo] Monster loaded successfully
+16:34:20 [Set Invasion Start] Index 5 At 16:36:00
+16:38:29 [Set Invasion Start] Index 6 At 16:40:00
+16:39:59 [Set Invasion Start] Index 4 At 16:41:00
+16:41:11 [Obj][11006] LogOutCharacter (test10)
+16:41:49 [Obj][11006] LogInCharacter (test10)
+16:41:57 [Obj][11006] LogOutCharacter (test10)
+16:42:00 [Obj][11006] LogInCharacter (test10)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 85 Y: 127)
+16:52:37 [ServerInfo] Monster loaded successfully
+16:54:27 [ServerInfo] Monster loaded successfully
+16:55:00 [Set Invasion Start] Index 0 At 16:57:00
+16:57:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 196 Y: 71)
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 182 Y: 128)
+17:07:02 [javier89][Meilin] Kill [braian90][test10]
+17:10:45 [BotBuffer] CharName: ArViGx - ADD_GREATER_DAMAGE Time: 5
+17:10:48 [BotBuffer] CharName: ArViGx - ADD_SKILL_MANA Time: 5
+17:14:13 [javier89][Meilin] Kill [braian90][test10]
+17:19:57 [Set Invasion Start] Index 5 At 17:21:00
+17:27:38 [Obj][11006] LogOutCharacter (test10)
+17:27:42 [Obj][11006] LogInCharacter (CustomTest)
+17:27:45 [Obj][11006] LogOutCharacter (CustomTest)
+17:27:47 [Obj][11006] LogInCharacter (PerritoM)
+17:29:00 [Obj][11006] LogOutCharacter (PerritoM)
+17:29:02 [Obj][11006] LogInCharacter (test10)
+17:31:30 [Obj][11006] LogOutCharacter (test10)
+17:31:32 [Obj][11006] LogInCharacter (PerritoM)
+17:32:21 [Obj][11000] LogOutCharacter (Meilin)
+17:32:25 [Obj][11000] LogInCharacter (Meilin)
+17:34:09 [javier89][Meilin] Kill [braian90][PerritoM]
+17:35:18 [braian90][PerritoM] Kill [carolina][Meylin]
+17:36:30 [javier89][Meilin] Kill [braian90][PerritoM]
+17:37:31 [javier89][Meilin] Kill [braian90][PerritoM]
+17:42:31 [BotBuffer] CharName: ArViGx - ADD_GREATER_DAMAGE Time: 5
+17:42:35 [BotBuffer] CharName: ArViGx - ADD_SKILL_MANA Time: 5
+17:52:32 [ServerInfo] Common loaded successfully
+17:56:22 [ServerInfo] CashShop loaded successfully
+17:56:22 [ServerInfo] ChaosMix loaded successfully
+17:56:23 [ServerInfo] Character loaded successfully
+17:56:23 [ServerInfo] Command loaded successfully
+17:56:23 [ServerInfo] Common loaded successfully
+17:56:23 [ServerInfo] Custom loaded successfully
+17:56:23 [ServerInfo] Event loaded successfully
+17:56:25 [ServerInfo] EventItemBag loaded successfully
+17:56:25 [ServerInfo] Hack loaded successfully
+17:56:25 [ServerInfo] Monster loaded successfully
+17:56:25 [ServerInfo] Move loaded successfully
+17:56:25 [ServerInfo] Quest loaded successfully
+17:56:26 [ServerInfo] Shop loaded successfully
+17:56:26 [ServerInfo] Skill loaded successfully
+17:56:26 [ServerInfo] Util loaded successfully
+17:56:26 [ReadBotInfo] BotSystem loaded successfully
+18:04:32 [ServerInfo] Item loaded successfully
+18:04:40 [Obj][11006] LogOutCharacter (PerritoM)
+18:04:44 [Obj][11006] LogInCharacter (test10)
+18:14:10 [ServerInfo] Util loaded successfully
+18:14:13 [ServerInfo] Item loaded successfully
+18:14:18 [ServerInfo] Monster loaded successfully
+19:14:39 [Obj][11001] LogOutCharacter (ArViGx)
+19:14:39 [Obj][11001] DelAccount (alberto107)
+19:14:39 [Obj][11001] DelClient (186.39.207.170)
+19:15:09 [Obj][11001] AddClient (186.39.207.170)
+19:15:19 [Obj][11001] AddAccount (alberto107)
+19:15:22 [Obj][11001] LogInCharacter (ArViGx)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 57 Y: 147)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 231 Y: 95)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 85 Y: 127)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 152 Y: 11)
+22:05:00 [KING OF MU] Start
+22:29:29 [Obj][11002] LogOutCharacter (Meylin)
+22:29:29 [Obj][11002] DelAccount (carolina)
+22:29:29 [Obj][11002] DelClient (181.46.166.152)
+22:29:29 [Obj][11000] LogOutCharacter (Meilin)
+22:29:29 [Obj][11000] DelAccount (javier89)
+22:29:29 [Obj][11000] DelClient (181.46.166.152)
+22:30:43 [Obj][11002] AddClient (181.46.166.152)
+22:30:44 [Obj][11000] AddClient (181.46.166.152)
+22:30:53 [Obj][11002] AddAccount (carolina)
+22:30:53 [Obj][11002] LogInCharacter (Meylin)
+22:30:54 [Obj][11000] AddAccount (javier89)
+22:30:54 [Obj][11000] LogInCharacter (Meilin)
+22:35:00 [KING OF MU] Finish - No Winner

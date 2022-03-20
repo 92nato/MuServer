@@ -1,0 +1,124 @@
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 186 Y: 156)
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 104 Y: 212)
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 203 Y: 149)
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 82 Y: 29)
+00:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 115 Y: 188)
+01:49:10 [Set Invasion Start] Index 3 At  1:51:00
+01:51:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 115 Y: 188)
+01:54:45 [Obj][11003] LogOutCharacter (TEST05)
+01:54:48 [Obj][11003] LogInCharacter (Fafnir)
+01:55:53 [Obj][11003] LogOutCharacter (Fafnir)
+01:55:56 [Obj][11003] LogInCharacter (TEST05)
+01:56:07 [Obj][11003] LogOutCharacter (TEST05)
+01:56:09 [Obj][11003] LogInCharacter (Fafnir)
+01:57:28 [Obj][11003] LogOutCharacter (Fafnir)
+01:57:31 [Obj][11003] LogInCharacter (TEST05)
+02:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 110 Y: 143)
+03:14:45 [Obj][11004] AddClient (200.5.101.170)
+03:14:48 [Obj][11004] AddAccount (92nato)
+03:14:56 [Obj][11004] LogInCharacter (Zyra420)
+03:15:46 [Obj][11004] LogOutCharacter (Zyra420)
+03:15:46 [Obj][11004] DelAccount (92nato)
+03:15:46 [Obj][11004] DelClient (200.5.101.170)
+03:32:14 [Obj][11003] LogOutCharacter (TEST05)
+03:32:14 [Obj][11003] DelAccount (braian90)
+03:32:14 [Obj][11003] DelClient (190.17.22.8)
+03:37:15 [Obj][11005] AddClient (190.17.22.8)
+03:37:25 [Obj][11005] AddAccount (braian90)
+03:37:26 [Obj][11005] LogInCharacter (TEST05)
+04:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 85 Y: 216)
+04:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 183 Y: 20)
+04:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 193 Y: 199)
+04:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 182 Y: 149)
+04:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 115 Y: 188)
+05:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 51 Y: 111)
+06:29:03 [Obj][11007] LogOutCharacter (Maniac)
+06:29:03 [Obj][11007] DelAccount (xXManiacXx)
+06:29:03 [Obj][11007] DelClient (181.191.143.89)
+06:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 110 Y: 152)
+08:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 199 Y: 73)
+08:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 144 Y: 208)
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 55 Y: 232)
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 217 Y: 41)
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 117 Y: 238)
+08:41:44 [Obj][11006] AddClient (181.191.143.8)
+08:41:49 [Obj][11006] AddAccount (xXManiacXx)
+08:41:53 [Obj][11006] LogInCharacter (Maniac)
+08:48:49 [Obj][11006] LogOutCharacter (Maniac)
+08:48:49 [Obj][11006] DelAccount (xXManiacXx)
+08:48:49 [Obj][11006] DelClient (181.191.143.8)
+08:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 115 Y: 188)
+08:50:40 [Obj][11004] AddClient (181.191.143.8)
+08:50:51 [Obj][11004] AddAccount (xXManiacXx)
+08:50:51 [Obj][11004] LogInCharacter (Maniac)
+09:04:12 [Obj][11004] LogOutCharacter (Maniac)
+09:04:12 [Obj][11004] DelAccount (xXManiacXx)
+09:04:12 [Obj][11004] DelClient (181.191.143.8)
+09:14:05 [Obj][11003] AddClient (181.191.143.8)
+09:14:10 [Obj][11003] AddAccount (xXManiacXx)
+09:14:14 [Obj][11003] LogInCharacter (Maniac)
+10:13:06 [Obj][11007] AddClient (181.46.166.152)
+10:13:10 [Obj][11007] AddAccount (carolina)
+10:14:00 [Obj][11007] LogInCharacter (Salchipapa)
+10:14:31 [Obj][11006] AddClient (181.46.166.152)
+10:14:39 [Obj][11006] AddAccount (javier)
+10:15:03 [Obj][11006] LogInCharacter (ASRock)
+11:24:54 [Obj][11003] LogOutCharacter (Maniac)
+11:24:54 [Obj][11003] DelAccount (xXManiacXx)
+11:24:54 [Obj][11003] DelClient (181.191.143.8)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 201 Y: 167)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 183 Y: 196)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 55 Y: 82)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 230 Y: 106)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 206 Y: 65)
+14:24:19 [Obj][11004] AddClient (181.191.143.8)
+14:24:23 [Obj][11004] AddAccount (xXManiacXx)
+14:24:26 [Obj][11004] LogInCharacter (Maniac)
+15:13:17 [Obj][11004] LogOutCharacter (Maniac)
+15:13:17 [Obj][11004] DelAccount (xXManiacXx)
+15:13:17 [Obj][11004] DelClient (181.191.143.8)
+15:14:18 [Obj][11003] AddClient (181.191.143.8)
+15:14:28 [Obj][11003] AddAccount (xXManiacXx)
+15:14:28 [ServerInfo] Item loaded successfully
+15:14:28 [Obj][11003] LogInCharacter (Maniac)
+15:25:48 [ServerInfo] EventItemBag loaded successfully
+15:25:52 [ServerInfo] Monster loaded successfully
+15:28:30 [Set Invasion Start] Index 7 At 15:30:00
+15:30:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 110 Y: 111)
+15:39:22 [ServerInfo] Item loaded successfully
+15:39:26 [ServerInfo] CashShop loaded successfully
+15:39:26 [ServerInfo] ChaosMix loaded successfully
+15:39:27 [ServerInfo] Character loaded successfully
+15:39:27 [ServerInfo] Command loaded successfully
+15:39:27 [ServerInfo] Common loaded successfully
+15:39:27 [ServerInfo] Custom loaded successfully
+15:39:28 [ServerInfo] Event loaded successfully
+15:39:28 [ServerInfo] EventItemBag loaded successfully
+15:39:28 [ServerInfo] Hack loaded successfully
+15:39:28 [ServerInfo] Monster loaded successfully
+15:39:28 [ServerInfo] Move loaded successfully
+15:39:28 [ServerInfo] Quest loaded successfully
+15:39:28 [ServerInfo] Shop loaded successfully
+15:39:29 [ServerInfo] Skill loaded successfully
+15:39:29 [ServerInfo] Util loaded successfully
+15:39:29 [ReadBotInfo] BotSystem loaded successfully
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 199 Y: 70)
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 52 Y: 40)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 174 Y: 11)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 81 Y: 167)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 201 Y: 182)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 206 Y: 65)
+17:25:06 [Obj][11003] LogOutCharacter (Maniac)
+17:25:06 [Obj][11003] DelAccount (xXManiacXx)
+17:25:06 [Obj][11003] DelClient (181.191.143.8)
+17:25:35 [Obj][11004] AddClient (181.191.143.8)
+17:25:45 [Obj][11004] AddAccount (xXManiacXx)
+17:25:46 [Obj][11004] LogInCharacter (Maniac)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 92 Y: 141)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 57 Y: 126)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 176 Y: 185)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 77 Y: 117)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 206 Y: 65)
+22:05:00 [KING OF MU] Start
+22:35:00 [KING OF MU] Finish - No Winner
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 110 Y: 141)

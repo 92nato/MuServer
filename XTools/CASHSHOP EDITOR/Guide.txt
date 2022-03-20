@@ -1,0 +1,33 @@
+Main Features
+===============================================================
+No Useless Entry in Cashshop Data
+Shop Data is Centralized No Missing Entry
+User Friendly
+Clean and Professional UI Error Handling AutoFill/AutoSet Feature 
+
+Feature Structure
+===============================================================
+UI, Menu, Otion/Setting and...
+Start New Shop Project
+	* Start with Default or Empty Categories
+Easy Category Management
+	* Add New Main or Category Tab
+	* Rename Main or Category Tab
+	* Delete Main or Category Tab
+	* Sort/Arrange Main or Category Tab
+Adding Package to Shop Project
+	* Sigle Package(1 Product inside the package)
+	* Multi Package(up to 6 Products choices inside the package)
+	* Bundle Package(up to 6 Products in one package purchase)
+		- Adding Product to Bundle Package
+		- Adding New Product
+Save Your Shop Project.
+Open Your Saved Shop Project.
+Edit/Delete your Shop Packages
+	* Edit/Delete Single Product Package
+	* Edit/Delete Multi Product Package
+	* Edit/Delete Bundle Package
+		- Edit/Delete Bundle Package
+		- Edit/Delete Product
+Preview your DataTables
+Export Your Shop Project

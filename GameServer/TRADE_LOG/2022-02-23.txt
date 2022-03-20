@@ -1,0 +1,1 @@
+18:49:54 [ExchangeTradeItem][carolina][Meylin] - (Account: javier89, Name: Meilin, Index: 7196, Level: 07, Serial: 0001DD79, Option1: 0, Option2: 0, Option3: 0, NewOption: 008, JewelOfHarmonyOption: 000, ItemOptionEx: 000, SocketOption: 255, 255, 255, 255, 255)

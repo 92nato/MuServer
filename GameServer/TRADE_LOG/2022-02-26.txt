@@ -1,0 +1,2 @@
+09:32:44 [ExchangeTradeItem][92nato][Zyra420] - (Account: alberto107, Name: ArViGx, Index: 5633, Level: 00, Serial: 00033B75, Option1: 0, Option2: 1, Option3: 1, NewOption: 001, JewelOfHarmonyOption: 000, ItemOptionEx: 000, SocketOption: 255, 255, 255, 255, 255)
+09:32:44 [ExchangeTradeItem][92nato][Zyra420] - (Account: alberto107, Name: ArViGx, Index: 3592, Level: 00, Serial: 00031C38, Option1: 0, Option2: 0, Option3: 0, NewOption: 001, JewelOfHarmonyOption: 000, ItemOptionEx: 000, SocketOption: 255, 255, 255, 255, 255)

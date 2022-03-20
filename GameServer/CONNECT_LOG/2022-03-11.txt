@@ -1,0 +1,3 @@
+04:57:16 [SocketManager] Max msg size (Type: 2, Index: 11008, Size: 16390)
+09:16:01 [SocketManager] Protocol header error (Index: 11011, Header: 6c)
+16:04:50 [SocketManager] Protocol size error (Index: 11001, Header: c1, Size: 0, Head: 0)

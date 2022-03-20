@@ -1,0 +1,4 @@
+31@1@100@Rapier@170@3@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1000|@2@2@1@1000|@0@508@669
+31@2@102@Rapier@170@4@Description@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1020|@2@3@1@1020|@0@509@669
+31@3@103@Rapier@170@5@Description@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1030|@2@5@1@1030|@1@0@669
+41@1@101@Scroll of Strength@170@10@Bundle Includes:   #* Gold Key (1 EA)   #* Gold Key (1 EA)@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@10000|10001|@7266@3@1@@0@509@669

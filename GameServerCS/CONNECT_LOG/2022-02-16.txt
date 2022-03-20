@@ -1,0 +1,13 @@
+07:44:35 [SocketManager] Server started at port [55919]
+10:49:52 [SocketManager] Server started at port [55919]
+16:58:58 [SocketManager] Server started at port [55919]
+17:02:59 [Connection] send() failed with error: 10057
+17:02:59 [Connection] connect() failed with error: 10038
+17:03:09 [Connection] send() failed with error: 10057
+17:03:09 [Connection] connect() failed with error: 10038
+17:03:19 [Connection] send() failed with error: 10057
+17:03:19 [Connection] connect() failed with error: 10038
+17:03:37 [SocketManager] Server started at port [55919]
+17:08:31 [SocketManager] Server started at port [55919]
+17:36:43 [SocketManager] Server started at port [55919]
+17:53:54 [SocketManager] Server started at port [55919]

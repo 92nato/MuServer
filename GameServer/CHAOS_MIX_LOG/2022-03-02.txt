@@ -1,0 +1,1 @@
+15:43:49 [ChaosItemMix][Failure][braian90][TEST05] - (ChaosSuccessRate: 6, ChaosMoney: 61800)

@@ -1,0 +1,100 @@
+11:20:21 [ServerInfo] CashShop loaded successfully
+11:20:21 [ServerInfo] ChaosMix loaded successfully
+11:20:21 [ServerInfo] Character loaded successfully
+11:20:21 [ServerInfo] Custom loaded successfully
+11:20:21 [ServerInfo] Command loaded successfully
+11:20:22 [ServerInfo] Common loaded successfully
+11:20:22 [ Crywolf ] State (0) -> NONE
+11:20:22 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+11:20:22 [ServerInfo] Event loaded successfully
+11:20:22 [ServerInfo] EventItemBag loaded successfully
+11:20:22 [ServerInfo] Hack loaded successfully
+11:20:22 [ServerInfo] Item loaded successfully
+11:20:22 [ServerInfo] Monster loaded successfully
+11:20:22 [ServerInfo] Move loaded successfully
+11:20:22 [ServerInfo] Quest loaded successfully
+11:20:22 [ServerInfo] Shop loaded successfully
+11:20:22 [ServerInfo] Skill loaded successfully
+11:20:22 [ServerInfo] Util loaded successfully
+11:20:22 [ReadBotInfo] BotSystem loaded successfully
+11:20:23 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+11:20:23 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+11:20:23 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2018-5-6)
+11:20:23 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+11:20:23 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2018-5-13(0:0:0))
+11:20:23 [CastleSiege] CCastleSiege::Init() - START
+11:20:23 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+11:20:24 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+18:57:09 [Obj][3500] AddClient (200.5.101.170)
+18:57:10 [Obj][3500] AddAccount (92nato)
+18:57:10 [Obj][3500] LogInCharacter (Zyra420)
+19:00:52 [Obj][3500] LogOutCharacter (Zyra420)
+19:00:57 [Obj][3500] LogInCharacter (Zyra420)
+19:04:34 [Obj][3500] LogOutCharacter (Zyra420)
+19:04:34 [Obj][3500] DelAccount (92nato)
+19:04:34 [Obj][3500] DelClient (200.5.101.170)
+21:20:53 [Obj][3500] AddClient (200.5.101.170)
+21:20:53 [Obj][3500] AddAccount (92nato2)
+21:20:53 [Obj][3500] LogInCharacter (Ricardo4)
+21:23:11 [ServerInfo] Common loaded successfully
+21:23:44 [ServerInfo] CashShop loaded successfully
+21:23:44 [ServerInfo] ChaosMix loaded successfully
+21:23:44 [ServerInfo] Character loaded successfully
+21:23:44 [ServerInfo] Command loaded successfully
+21:23:44 [ServerInfo] Common loaded successfully
+21:23:45 [ServerInfo] Custom loaded successfully
+21:23:45 [ Crywolf ] State (0) -> NONE
+21:23:45 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+21:23:45 [ServerInfo] Event loaded successfully
+21:23:45 [ServerInfo] EventItemBag loaded successfully
+21:23:45 [ServerInfo] Hack loaded successfully
+21:23:45 [ServerInfo] Monster loaded successfully
+21:23:45 [ServerInfo] Move loaded successfully
+21:23:45 [ServerInfo] Quest loaded successfully
+21:23:45 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+21:23:46 [ServerInfo] Shop loaded successfully
+21:23:46 [ServerInfo] Skill loaded successfully
+21:23:46 [ServerInfo] Util loaded successfully
+21:23:46 [ReadBotInfo] BotSystem loaded successfully
+21:23:46 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+21:23:46 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2018-5-6)
+21:23:46 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+21:23:46 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2018-5-13(0:0:0))
+21:23:46 [CastleSiege] CCastleSiege::Init() - START
+21:23:46 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+21:23:52 [ServerInfo] Monster loaded successfully
+21:24:31 [Obj][3501] AddClient (200.5.101.170)
+21:24:31 [Obj][3501] AddAccount (92nato)
+21:24:31 [Obj][3501] LogInCharacter (Zyra420)
+21:25:12 [Obj][3502] AddClient (200.5.101.170)
+21:25:12 [Obj][3502] AddAccount (yinco)
+21:25:12 [Obj][3502] LogInCharacter (Yinco)
+21:32:51 [ServerInfo] Common loaded successfully
+21:32:53 [ServerInfo] Monster loaded successfully
+21:42:13 [Obj][3501] LogOutCharacter (Zyra420)
+21:42:14 [Obj][3501] DelAccount (92nato)
+21:42:14 [Obj][3501] DelClient (200.5.101.170)
+21:51:18 [Obj][3500] LogOutCharacter (Ricardo4)
+21:51:18 [Obj][3502] LogOutCharacter (Yinco)
+21:51:18 [Obj][3500] DelAccount (92nato2)
+21:51:18 [Obj][3500] DelClient (200.5.101.170)
+21:51:19 [Obj][3502] DelAccount (yinco)
+21:51:19 [Obj][3502] DelClient (200.5.101.170)
+21:56:53 [Obj][3501] AddClient (200.5.101.170)
+21:56:54 [Obj][3501] AddAccount (92nato)
+21:56:54 [Obj][3501] LogInCharacter (Zyra420)
+22:15:57 [Obj][3500] AddClient (200.5.101.170)
+22:15:58 [Obj][3500] AddAccount (92nato2)
+22:15:58 [Obj][3500] LogInCharacter (Ricardo4)
+22:16:13 [Obj][3502] AddClient (200.5.101.170)
+22:16:14 [Obj][3502] AddAccount (yincox)
+22:16:14 [Obj][3502] LogInCharacter (Minerva)
+22:16:20 [Obj][3503] AddClient (200.5.101.170)
+22:16:21 [Obj][3503] AddAccount (yinco)
+22:16:21 [Obj][3503] LogInCharacter (Yinco)
+22:42:09 [Obj][3503] LogOutCharacter (Yinco)
+22:42:09 [Obj][3503] DelAccount (yinco)
+22:42:09 [Obj][3503] DelClient (200.5.101.170)
+22:42:09 [Obj][3502] LogOutCharacter (Minerva)
+22:42:09 [Obj][3502] DelAccount (yincox)
+22:42:09 [Obj][3502] DelClient (200.5.101.170)

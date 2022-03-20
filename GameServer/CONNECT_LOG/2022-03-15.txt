@@ -1,0 +1,1 @@
+19:29:58 [SocketManager] WSARecv() failed with error: 10054

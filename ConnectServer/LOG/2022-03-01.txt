@@ -1,0 +1,6 @@
+10:44:22 [ServerList] GameServer offline (GameServerCS) (19)
+10:44:59 [SocketManager] Server started at port [44405]
+10:44:59 [ServerList] ServerList loaded successfully
+10:45:02 [ServerList] JoinServer online
+10:45:07 [ServerList] GameServer online (GameServer) (0)
+10:45:10 [ServerList] GameServer online (GameServerCS) (19)

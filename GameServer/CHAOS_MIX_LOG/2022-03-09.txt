@@ -1,0 +1,3 @@
+15:26:44 [DevilSquareMix][Success][92nato][Pegasus] - (ChaosSuccessRate: 70, ChaosMoney: 1133000)
+15:27:57 [DevilSquareMix][Failure][92nato][Pegasus] - (ChaosSuccessRate: 80, ChaosMoney: 721000)
+15:59:36 [PetMix][Success][braian92][Teste12] - (Type: 1, ChaosSuccessRate: 60, ChaosMoney: 1030000)

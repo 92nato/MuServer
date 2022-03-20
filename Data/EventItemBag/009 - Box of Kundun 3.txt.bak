@@ -1,0 +1,105 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Box of Kundun 3"	 1000	   100		  1		  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+//ITEMS
+0	13	0	0	1	1	1	1	//DOUBLE BLADE
+0	14	0	0	1	1	1	1	//LIGHT SWORD
+0	33	0	0	1	1	1	1	//HOLLY STORM CLAWS
+
+2	4	0	0	1	1	1	1	//CRYSTAL MORNING
+2	7	0	0	1	1	1	1	//ELEMENTAL MACE
+2	10	0	0	1	1	1	1	//GREAT SCEPTER
+2	11	0	0	1	1	1	1	//LORD SCEPTER
+
+3	8	0	0	1	1	1	1	// Great Scythe
+
+4	13	0	0	1	1	1	1	//BLUEWING CROSSBOW
+4	14	0	0	1	1	1	1	//AQUAGOLD CROSSBOW
+
+5	6	0	0	1	1	1	1	//STAFF OF RESURRECTION
+5	8	0	0	1	1	1	1	//STAFF OF DESTRUCTION
+5	16	0	0	1	1	1	1	//REDWING STICK
+
+
+
+//THUNDER
+8           20     0          0          1       1      1        1
+9           20     0          0          1       1      1        1
+10          20     0          0          1       1      1        1
+11          20     0          0          1       1      1        1
+
+//DRAGON
+7	1	0	0	1	1	1	1
+8	1	0	0	1	1	1	1
+9	1	0	0	1	1	1	1
+10	1	0	0	1	1	1	1
+11	1	0	0	1	1	1	1
+
+//LEGENDARY
+7	3	0	0	1	1	1	1
+8	3	0	0	1	1	1	1
+9	3	0	0	1	1	1	1
+10	3	0	0	1	1	1	1
+11	3	0	0	1	1	1	1
+
+//ASHCROW
+7           34     0          0          1       1      1        1
+8           34     0          0          1       1      1        1
+9           34     0          0          1       1      1        1
+10          34     0          0          1       1      1        1
+11          34     0          0          1       1      1        1
+
+
+
+//GUARDIAN
+7	14	0	0	1	1	1	1
+8	14	0	0	1	1	1	1
+9	14	0	0	1	1	1	1
+10	14	0	0	1	1	1	1
+11	14	0	0	1	1	1	1
+
+
+//VIOLENT WIND
+7	39	0	0	1	1	1	1
+8	39	0	0	1	1	1	1
+9	39	0	0	1	1	1	1
+10	39	0	0	1	1	1	1
+11	39	0	0	1	1	1	1
+
+//STORM
+8	15	0	0	1	1	1	1
+9	15	0	0	1	1	1	1
+10	15	0	0	1	1	1	1
+11	15	0	0	1	1	1	1
+
+
+//ADAMANTINE
+7	26	0	0	1	1	1	1
+8	26	0	0	1	1	1	1
+9	26	0	0	1	1	1	1
+10	26	0	0	1	1	1	1
+11	26	0	0	1	1	1	1
+
+//VIOLENT WIND
+7	39	0	0	1	1	1	1
+8	39	0	0	1	1	1	1
+9	39	0	0	1	1	1	1
+10	39	0	0	1	1	1	1
+11	39	0	0	1	1	1	1
+
+
+
+//SACRED
+
+0	32	0	0	1	1	1	1
+7	59	0	0	1	1	1	1
+8	59	0	0	1	1	1	1
+9	59	0	0	1	1	1	1
+10	59	0	0	1	1	1	1
+
+
+end

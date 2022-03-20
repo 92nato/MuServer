@@ -1,0 +1,1 @@
+16:07:08 [HackPacketCheck][alberto107][ArViGx] Packet unknown error (Index: 25, Value: 0)

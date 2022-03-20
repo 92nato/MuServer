@@ -1,0 +1,150 @@
+00:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 195 Y: 73)
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 65 Y: 135)
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 145 Y: 219)
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 234 Y: 126)
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 87 Y: 215)
+00:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 115 Y: 188)
+01:54:05 [ServerInfo] CashShop loaded successfully
+01:54:05 [ServerInfo] ChaosMix loaded successfully
+01:54:06 [ServerInfo] Character loaded successfully
+01:54:06 [ServerInfo] Command loaded successfully
+01:54:06 [ServerInfo] Common loaded successfully
+01:54:07 [ServerInfo] Custom loaded successfully
+01:54:07 [ServerInfo] Event loaded successfully
+01:54:09 [ServerInfo] EventItemBag loaded successfully
+01:54:09 [ServerInfo] Hack loaded successfully
+01:54:09 [ServerInfo] Monster loaded successfully
+01:54:09 [ServerInfo] Move loaded successfully
+01:54:09 [ServerInfo] Quest loaded successfully
+01:54:09 [ServerInfo] Shop loaded successfully
+01:54:09 [ServerInfo] Skill loaded successfully
+01:54:10 [ServerInfo] Util loaded successfully
+01:54:10 [ReadBotInfo] BotSystem loaded successfully
+01:55:17 [Obj][11007] LogOutCharacter (TEST05)
+01:55:20 [Obj][11007] LogInCharacter (TEST05)
+02:00:55 [ServerInfo] Item loaded successfully
+02:00:59 [ServerInfo] Monster loaded successfully
+02:07:43 [ServerInfo] Monster loaded successfully
+02:08:07 [Set Invasion Start] Index 5 At  2:10:00
+02:08:11 [Set Invasion Start] Index 3 At  2:10:00
+02:10:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 206 Y: 65)
+02:21:49 [ServerInfo] Shop loaded successfully
+02:23:56 [ServerInfo] CashShop loaded successfully
+02:23:56 [ServerInfo] ChaosMix loaded successfully
+02:23:56 [ServerInfo] Character loaded successfully
+02:23:56 [ServerInfo] Command loaded successfully
+02:23:56 [ServerInfo] Common loaded successfully
+02:23:56 [ServerInfo] Custom loaded successfully
+02:23:56 [ServerInfo] Event loaded successfully
+02:23:56 [ServerInfo] EventItemBag loaded successfully
+02:23:56 [ServerInfo] Hack loaded successfully
+02:23:56 [ServerInfo] Monster loaded successfully
+02:23:56 [ServerInfo] Move loaded successfully
+02:23:56 [ServerInfo] Quest loaded successfully
+02:23:56 [ServerInfo] Shop loaded successfully
+02:23:56 [ServerInfo] Skill loaded successfully
+02:23:56 [ServerInfo] Util loaded successfully
+02:23:56 [ReadBotInfo] BotSystem loaded successfully
+02:29:08 [ServerInfo] Item loaded successfully
+02:29:14 [ServerInfo] Monster loaded successfully
+02:37:02 [Obj][11007] LogOutCharacter (TEST05)
+02:37:02 [Obj][11007] DelAccount (braian90)
+02:37:02 [Obj][11007] DelClient (190.17.22.8)
+02:37:43 [Obj][11004] AddClient (190.17.22.8)
+02:37:47 [Obj][11004] AddAccount (braian90)
+02:37:50 [Obj][11004] LogInCharacter (TEST05)
+02:37:53 [Obj][11004] LogOutCharacter (TEST05)
+02:37:53 [Obj][11004] DelAccount (braian90)
+02:37:53 [Obj][11004] DelClient (190.17.22.8)
+02:40:13 [Obj][11005] AddClient (190.17.22.8)
+02:40:16 [Obj][11005] AddAccount (braian90)
+02:40:19 [Obj][11005] LogInCharacter (TEST05)
+02:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 110 Y: 148)
+02:54:38 [ServerInfo] Item loaded successfully
+02:54:41 [ServerInfo] Monster loaded successfully
+03:56:14 [Obj][11005] LogOutCharacter (TEST05)
+03:56:14 [Obj][11005] DelAccount (braian90)
+03:56:14 [Obj][11005] DelClient (190.17.22.8)
+03:56:29 [Obj][11006] AddClient (190.17.22.8)
+03:56:35 [Obj][11006] AddAccount (braian90)
+03:56:35 [Obj][11006] LogInCharacter (TEST05)
+04:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 203 Y: 85)
+04:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 29 Y: 179)
+04:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 139 Y: 223)
+04:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 96 Y: 139)
+04:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 114 Y: 98)
+04:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 206 Y: 65)
+05:36:44 [Obj][11002] AddClient (186.39.200.94)
+05:36:53 [Obj][11002] AddAccount (alberto107)
+05:37:13 [Obj][11002] LogInCharacter (ArViGx)
+05:37:47 [Obj][11001] AddClient (186.39.200.94)
+05:37:52 [Obj][11001] AddAccount (erika107)
+05:37:55 [Obj][11001] LogInCharacter (Erika)
+06:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 110 Y: 106)
+08:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 201 Y: 79)
+08:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 142 Y: 17)
+08:16:37 [Obj][11001] LogOutCharacter (Erika)
+08:16:41 [Obj][11001] LogInCharacter (Erika)
+08:19:28 [Obj][11001] LogOutCharacter (Erika)
+08:19:31 [Obj][11001] LogInCharacter (Erika)
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 127 Y: 53)
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 37 Y: 47)
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 98 Y: 18)
+08:28:45 [Obj][11007] AddClient (181.191.143.89)
+08:28:50 [Obj][11007] AddAccount (xXManiacXx)
+08:28:54 [Obj][11007] LogInCharacter (Maniac)
+08:38:10 [Obj][11007] LogOutCharacter (Maniac)
+08:38:10 [Obj][11007] DelAccount (xXManiacXx)
+08:38:10 [Obj][11007] DelClient (181.191.143.89)
+08:39:30 [Obj][11004] AddClient (181.191.143.89)
+08:39:41 [Obj][11004] AddAccount (xXManiacXx)
+08:39:41 [Obj][11004] LogInCharacter (Maniac)
+08:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 115 Y: 188)
+10:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 110 Y: 117)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 122 Y: 42)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 148 Y: 202)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 157 Y: 120)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 167 Y: 99)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 206 Y: 65)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 56 Y: 109)
+14:40:21 [Obj][11003] LogOutCharacter (SmInvictus)
+14:40:21 [Obj][11003] DelAccount (franqito)
+14:40:21 [Obj][11003] DelClient (186.22.19.90)
+14:41:53 [Obj][11005] AddClient (186.22.19.90)
+14:41:53 [Obj][11005] AddAccount (franqito)
+14:41:53 [Obj][11005] LogInCharacter (SmInvictus)
+14:59:16 [Obj][11004] LogOutCharacter (Maniac)
+14:59:16 [Obj][11004] DelAccount (xXManiacXx)
+14:59:16 [Obj][11004] DelClient (181.191.143.89)
+14:59:45 [Obj][11007] AddClient (181.191.143.89)
+14:59:55 [Obj][11007] AddAccount (xXManiacXx)
+14:59:56 [Obj][11007] LogInCharacter (Maniac)
+15:34:55 [Obj][11005] LogOutCharacter (SmInvictus)
+15:34:55 [Obj][11005] DelAccount (franqito)
+15:34:55 [Obj][11005] DelClient (186.22.19.90)
+15:46:49 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (1800)
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 146 Y: 186)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 158 Y: 207)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 46 Y: 203)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 37 Y: 43)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 206 Y: 65)
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 199 Y: 72)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 38 Y: 112)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 31 Y: 69)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 126 Y: 139)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 215 Y: 59)
+20:30:00 [ CRYWOLF ] SYNC Occupation: 0, State: 1
+20:35:00 [ CRYWOLF ] SYNC Occupation: 2, State: 2
+20:36:00 [ CRYWOLF ] SYNC Occupation: 2, State: 3
+20:38:00 [ CRYWOLF ] SYNC Occupation: 1, State: 5
+20:38:15 [ CRYWOLF ] SYNC Occupation: 1, State: 6
+20:38:26 [ CRYWOLF ] SYNC Occupation: 1, State: 0
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 115 Y: 188)
+22:05:00 [KING OF MU] Start
+22:35:00 [KING OF MU] Finish - No Winner
+23:15:02 [Obj][11006] LogOutCharacter (TEST05)
+23:15:02 [Obj][11006] DelAccount (braian90)
+23:15:02 [Obj][11006] DelClient (190.17.22.8)
+23:15:32 [Obj][11003] AddClient (190.17.22.8)
+23:15:42 [Obj][11003] AddAccount (braian90)
+23:15:43 [Obj][11003] LogInCharacter (TEST05)

@@ -1,0 +1,12 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Custom Cloak by louis
+// - ItemType
+//	0: Cloak without Strip
+//	1: Cloak with Strip
+// PS: Add the Cloak in the CustomWing.txt before (Model Type 1)
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//	#Index		#ItemIndex	#ItemType	#CloakName					#StripName
+    0           6424        1           "KF_Death_clka.tga" 	    "KF_Death_clkb.tga"
+    1           6416        1           "KF_darklordwing4de.tga"    "KF_darklordwing4dd.tga"
+    2           6418        0           "ragefighterwing4db.tga"    "ragefighterwing4da.tga"
+end

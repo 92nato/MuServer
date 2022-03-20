@@ -1,0 +1,39 @@
+06:42:11 [SocketManager] Server started at port [44405]
+06:42:11 [ServerList] ServerList loaded successfully
+06:42:13 [ServerList] JoinServer online
+06:42:19 [ServerList] GameServer online (GameServer) (0)
+06:42:23 [ServerList] GameServer online (GameServerCS) (19)
+06:42:41 [ServerList] GameServer offline (GameServerCS) (19)
+10:10:58 [ServerList] GameServer offline (GameServer) (0)
+10:12:33 [SocketManager] Server started at port [44405]
+10:12:33 [ServerList] ServerList loaded successfully
+10:12:35 [ServerList] JoinServer online
+10:12:42 [ServerList] GameServer online (GameServerCS) (19)
+10:16:11 [SocketManager] Server started at port [44405]
+10:16:11 [ServerList] ServerList loaded successfully
+10:16:13 [ServerList] JoinServer online
+10:16:20 [ServerList] GameServer online (GameServerCS) (19)
+10:16:43 [ServerList] GameServer offline (GameServerCS) (19)
+10:17:26 [SocketManager] Server started at port [44405]
+10:17:26 [ServerList] ServerList loaded successfully
+10:17:28 [ServerList] JoinServer online
+10:17:32 [ServerList] GameServer online (GameServer) (0)
+10:17:35 [ServerList] GameServer online (GameServerCS) (19)
+10:39:35 [ServerList] GameServer offline (GameServerCS) (19)
+10:49:07 [SocketManager] Server started at port [44405]
+10:49:07 [ServerList] ServerList loaded successfully
+10:49:09 [ServerList] JoinServer online
+10:49:13 [ServerList] GameServer online (GameServer) (0)
+10:49:16 [ServerList] GameServer online (GameServerCS) (19)
+10:51:20 [ServerList] GameServer offline (GameServerCS) (19)
+12:37:11 [SocketManager] Server started at port [44405]
+12:37:11 [ServerList] ServerList loaded successfully
+12:37:13 [ServerList] JoinServer online
+12:37:17 [ServerList] GameServer online (GameServer) (0)
+12:37:20 [ServerList] GameServer online (GameServerCS) (19)
+12:56:05 [ServerList] GameServer offline (GameServerCS) (19)
+12:56:12 [SocketManager] Server started at port [44405]
+12:56:12 [ServerList] ServerList loaded successfully
+12:56:14 [ServerList] JoinServer online
+12:56:18 [ServerList] GameServer online (GameServer) (0)
+12:56:20 [ServerList] GameServer online (GameServerCS) (19)

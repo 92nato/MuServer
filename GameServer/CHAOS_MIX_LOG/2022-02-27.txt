@@ -1,0 +1,4 @@
+16:12:30 [PlusItemLevelMix][Success][92nato][Zyra420] - (Type: 0, ChaosSuccessRate: 85, ChaosMoney: 2060000)
+16:12:51 [PlusItemLevelMix][Success][92nato][Zyra420] - (Type: 1, ChaosSuccessRate: 85, ChaosMoney: 4120000)
+16:13:26 [PlusItemLevelMix][Success][92nato][Zyra420] - (Type: 2, ChaosSuccessRate: 75, ChaosMoney: 6180000)
+16:17:04 [PlusItemLevelMix][Failure][92nato][Zyra420] - (Type: 3, ChaosSuccessRate: 75, ChaosMoney: 8240000, ChaosAmulet: 0)

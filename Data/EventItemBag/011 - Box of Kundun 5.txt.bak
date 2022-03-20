@@ -1,0 +1,143 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Box of Kundun 5"		 1000	   100				    1			  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+
+
+//DARK STEEL	DL
+7	27	0	0	1	1	1	1	//	HELM
+8	27	0	0	1	1	1	1	//	ARMOR
+9	27	0	0	1	1	1	1	//	PANTS
+10	27	0	0	1	1	1	1	//	GLOVES
+11	27	0	0	1	1	1	1	//	BOOTS
+
+
+
+//VENOM MIST	SM
+7	30	0	0	1	1	1	1	//	HELM
+8	30	0	0	1	1	1	1	//	ARMOR
+9	30	0	0	1	1	1	1	//	PANTS
+10	30	0	0	1	1	1	1	//	GLOVES
+11	30	0	0	1	1	1	1	//	BOOTS
+
+//GLORIOUS
+7	38	0	0	1	1	1	1
+8	38	0	0	1	1	1	1
+9	38	0	0	1	1	1	1
+10	38	0	0	1	1	1	1
+11	38	0	0	1	1	1	1
+
+//RED SPIRIT
+7	24	0	0	1	1	1	1
+8	24	0	0	1	1	1	1
+9	24	0	0	1	1	1	1
+10	24	0	0	1	1	1	1
+11	24	0	0	1	1	1	1
+
+//DARK MASTER
+7	28	0	0	1	1	1	1
+8	28	0	0	1	1	1	1
+9	28	0	0	1	1	1	1
+10	28	0	0	1	1	1	1
+11	28	0	0	1	1	1	1
+
+//DARK SOUL
+7	22	0	0	1	1	1	1
+8	22	0	0	1	1	1	1
+9	22	0	0	1	1	1	1
+10	22	0	0	1	1	1	1
+11	22	0	0	1	1	1	1
+
+//ASHCROW
+7	34	0	0	1	1	1	1
+8	34	0	0	1	1	1	1
+9	34	0	0	1	1	1	1
+10	34	0	0	1	1	1	1
+11	34	0	0	1	1	1	1
+
+//GREAT DRAGON BK
+7	21	0	0	1	1	1	1	//	HELM
+8	21	0	0	1	1	1	1	//	ARMOR
+9	21	0	0	1	1	1	1	//	PANTS
+10	21	0	0	1	1	1	1	//	GLOVES
+11	21	0	0	1	1	1	1	//	BOOTS
+
+
+
+
+//HURRICANE	MG
+8	23	0	0	1	1	1	1	//	ARMOR
+9	23	0	0	1	1	1	1	//	PANTS
+10	23	0	0	1	1	1	1	//	GLOVES
+11	23	0	0	1	1	1	1	//	BOOTS
+
+//DEMONIC
+7	42	0	0	1	1	1	1
+8	42	0	0	1	1	1	1
+9	42	0	0	1	1	1	1
+10	42	0	0	1	1	1	1
+11	42	0	0	1	1	1	1
+
+//SACRED RF
+7	59	0	0	1	1	1	1	//	HELM
+8	59	0	0	1	1	1	1	//	ARMOR
+9	59	0	0	1	1	1	1	//	PANTS
+11	59	0	0	1	1	1	1	//	BOOTS
+0	32	0	0	1	1	1	1	//	CLAWS
+
+
+//PIERCING
+0	34	0	0	1	1	1	1	//	CLAWS
+7	61	0	0	1	1	1	1	//	HELM
+8	61	0	0	1	1	1	1	//	ARMOR
+9	61	0	0	1	1	1	1	//	PANTS
+11	61	0	0	1	1	1	1	//	BOOTS
+
+//RED SPIRIT	ME
+7	24	0	0	1	1	1	1	//	HELM
+8	24	0	0	1	1	1	1	//	ARMOR
+9	24	0	0	1	1	1	1	//	PANTS
+10	24	0	0	1	1	1	1	//	GLOVES
+11	24	0	0	1	1	1	1	//	BOOTS
+
+
+//IRIS	EE
+7	36	0	0	1	1	1	1	//	HELM
+8	36	0	0	1	1	1	1	//	ARMOR
+9	36	0	0	1	1	1	1	//	PANTS
+10	36	0	0	1	1	1	1	//	GLOVES
+11	36	0	0	1	1	1	1	//	BOOTS
+
+//VALIANT
+8           37     0          0          1       1      1        1
+9           37     0          0          1       1      1        1
+10          37     0          0          1       1      1        1
+11          37     0          0          1       1      1        1
+
+//ARMAS
+
+0	20	0	0	1	1	1	1	//KNIGHT BLADE
+0	21	0	0	1	1	1	1 //DARK REIGIN BLADE
+0	24	0	0	1	1	1	1	//DAYBREAK
+
+2	12	0	0	1	1	1	1	//GREAT LORD SCEPTER
+
+3	10	0	0	1	1	1	1	//DRAGON SPEAR
+
+4	19	0	0	1	1	1	1	//GREAT REIGIN CROSSBOW
+4	20	0	0	1	1	1	1	//ARROW VIPER
+4	22	0	0	1	1	1	1	//ALBATROSS
+
+5	11	0	0	1	1	1	1	//KUNDUN STAFF
+5	13	0	0	1	1	1	1	//PLATINA STAFF
+5	18	0	0	1	1	1	1	//DEMONIC STICK
+5	34	0	0	1	1	1	1	//RAVEN STICK
+
+
+
+
+
+end

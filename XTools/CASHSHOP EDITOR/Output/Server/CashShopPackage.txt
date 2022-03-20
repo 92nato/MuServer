@@ -1,0 +1,13 @@
+//|================================================================|
+//| Zythe CashShop Editor                                          |
+//| Credit: Zyth3/louis                          [skype:tec-facil] |
+//|================================================================|
+//CategoryID	PackageID	ItemGroup	ItemIndex	PurchaseType	Price	UseType	Gift	NumbeOfProductID	ProductID	Comment
+31	100	0	2	0	3	1	0	1	1000	// Rapier
+end
+31	102	0	2	1	4	1	0	1	1020	// Rapier
+end
+31	103	0	2	2	5	1	0	1	1030	// Rapier
+end
+41	101	14	98	1	10	0	0	2	10000|10001|	// Scroll of Strength
+end

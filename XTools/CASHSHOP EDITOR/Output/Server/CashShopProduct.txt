@@ -1,0 +1,10 @@
+//|================================================================|
+//| Zythe CashShop Editor                                          |
+//| Credit: Zyth3/louis                          [skype:tec-facil] |
+//|================================================================|
+//ProductID	ProductNumber	ItemGroup	ItemIndex	Price	Durability	UseTime	80	Level	Skill	Luck	Option	ExOpt	AncOp	Comment
+1000	1000	0	2	3	0	0	80	0	0	0	0	0	0	// Rapier (1 UN)
+1020	1020	0	2	4	0	0	80	0	0	0	0	0	0	// Rapier (1 UN)
+1030	1030	0	2	5	0	0	80	0	0	0	0	0	0	// Rapier (1 UN)
+10000	10000	14	113	1	0	0	80	0	0	0	0	0	0	// Gold Key (1 EA)
+10001	10001	14	113	1	0	0	80	0	0	0	0	0	0	// Gold Key (1 EA)

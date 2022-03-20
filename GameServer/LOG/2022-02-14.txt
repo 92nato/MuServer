@@ -1,0 +1,74 @@
+16:20:04 [ServerInfo] CashShop loaded successfully
+16:20:04 [ServerInfo] ChaosMix loaded successfully
+16:20:04 [ServerInfo] Character loaded successfully
+16:20:05 [ServerInfo] Custom loaded successfully
+16:20:05 [ServerInfo] Command loaded successfully
+16:20:05 [ServerInfo] Common loaded successfully
+16:20:06 [ServerInfo] Event loaded successfully
+16:20:07 [ServerInfo] EventItemBag loaded successfully
+16:20:07 [ServerInfo] Hack loaded successfully
+16:20:07 [ServerInfo] Item loaded successfully
+16:20:08 [ServerInfo] Monster loaded successfully
+16:20:08 [ServerInfo] Move loaded successfully
+16:20:08 [ServerInfo] Quest loaded successfully
+16:20:09 [ServerInfo] Shop loaded successfully
+16:20:09 [ServerInfo] Skill loaded successfully
+16:20:09 [ServerInfo] Util loaded successfully
+16:20:09 [ReadBotInfo] BotSystem loaded successfully
+16:20:15 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 88 Y: 203)
+16:36:01 [OnlineLoterry] No Winner
+16:45:45 [Obj][11000] AddClient (190.19.51.205)
+16:45:54 [Obj][11000] AddAccount (louismk)
+16:46:13 [Obj][11000] LogInCharacter (LouisSM)
+16:48:19 [Obj][11000] LogOutCharacter (LouisSM)
+16:48:19 [Obj][11000] DelAccount (louismk)
+16:48:19 [Obj][11000] DelClient (190.19.51.205)
+16:49:48 [Obj][11000] AddClient (190.19.51.205)
+16:49:51 [Obj][11000] AddAccount (louismk)
+16:49:55 [Obj][11000] LogInCharacter (LouisSM)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 149 Y: 54)
+16:53:49 [Obj][11000] LogOutCharacter (LouisSM)
+16:53:49 [Obj][11000] DelAccount (louismk)
+16:53:49 [Obj][11000] DelClient (190.19.51.205)
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 178 Y: 115)
+17:10:00 [CustomQuiz] Start
+17:13:00 [CustomQuiz] Finish
+17:34:09 [Obj][11000] AddClient (190.19.51.205)
+17:34:10 [Obj][11000] DelClient (190.19.51.205)
+17:34:23 [Obj][11000] AddClient (190.19.51.205)
+17:34:30 [Obj][11000] AddAccount (louismk)
+17:34:34 [Obj][11000] LogInCharacter (LuisADM)
+17:36:01 [OnlineLoterry] Add Member (LuisADM)
+17:36:01 [OnlineLoterry] Winner (LuisADM)
+17:36:01 [louismk][LuisADM] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+17:38:07 [Obj][11000] LogOutCharacter (LuisADM)
+17:38:07 [Obj][11000] DelAccount (louismk)
+17:38:07 [Obj][11000] DelClient (190.19.51.205)
+18:10:00 [CustomQuiz] Start
+18:13:00 [CustomQuiz] Finish
+18:36:01 [OnlineLoterry] No Winner
+18:50:00 [Invasion Manager] Index(7) Boss Position (Map: 0 X: 160 Y: 54)
+19:10:00 [CustomQuiz] Start
+19:13:00 [CustomQuiz] Finish
+19:36:01 [OnlineLoterry] No Winner
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 134 Y: 195)
+20:10:00 [CustomQuiz] Start
+20:13:00 [CustomQuiz] Finish
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 70 Y: 34)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 181 Y: 29)
+20:36:01 [OnlineLoterry] No Winner
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 202 Y: 73)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 129 Y: 170)
+21:10:00 [CustomQuiz] Start
+21:13:00 [CustomQuiz] Finish
+21:36:01 [OnlineLoterry] No Winner
+22:05:00 [KING OF MU] Start
+22:10:00 [CustomQuiz] Start
+22:13:00 [CustomQuiz] Finish
+22:35:00 [KING OF MU] Finish - No Winner
+22:36:01 [OnlineLoterry] No Winner
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 161 Y: 17)
+23:10:00 [CustomQuiz] Start
+23:13:00 [CustomQuiz] Finish
+23:36:01 [OnlineLoterry] No Winner

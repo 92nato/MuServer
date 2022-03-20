@@ -1,0 +1,7 @@
+11:17:02 [SocketManager] WSARecv() failed with error: 10054
+12:36:38 [SocketManager] Server started at port [55901]
+12:37:51 [SocketManager] Server started at port [55901]
+12:41:49 [SocketManager] Server started at port [55901]
+12:43:21 [SocketManager] Server started at port [55901]
+19:50:15 [SocketManager] WSASend() failed with error: 10038
+19:50:25 [SocketManager] WSASend() failed with error: 10038

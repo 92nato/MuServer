@@ -1,0 +1,29 @@
+/////////////////////////////////////////////////////////////////////////////
+//Shop Editor cortesia de www.fb.com/igkgamers
+///////////////////////////
+//Aporte de www.fb.com/karuritoku
+///////////////////////////
+//Shop: 007 - Isabel the Wizard
+/////////////////////////////////////////////////////////////////////////////
+//Group	Index	Level	Dur	Skill	Luck	Opt	ExeOpt	Acc	JoH	Oex	Sck[1]	Sck[2]	Sck[3]	Sck[4]	Sck[5]	Info
+/////////////////////////////////////////////////////////////////////////////
+//
+7	3	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Legendary Helm
+7	59	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Sacred Fire Helm
+7	40	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Red Wing Helm
+8	15	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Storm Crow Armor
+8	3	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Legendary Armor
+8	59	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Sacred Fire Armor
+8	40	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Red Wing Armor
+9	15	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Storm Crow Pants
+9	3	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Legendary Pants
+9	40	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Red Wing Pants
+9	59	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Sacred Fire Pants
+10	15	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Storm Crow Gloves
+10	3	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Legendary Gloves
+10	40	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Red Wing Gloves
+11	59	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Sacred Fire Boots
+11	15	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Storm Crow Boots
+11	3	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Legendary Boots
+11	40	0	0	0	1	0	0	0	0	0	255	255	255	255	255	//Red Wing Boots
+end

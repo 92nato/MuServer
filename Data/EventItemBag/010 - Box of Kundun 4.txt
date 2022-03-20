@@ -1,0 +1,413 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Box of Kundun 4"	 1000	   100		  1		  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent	item
+
+
+//FULL OPCION
+// LIGHT PLATE DL
+7	25	0	0	0	1	1	1	//	MASK
+8	25	0	0	0	1	1	1	//	ARMOR
+9	25	0	0	0	1	1	1	//	PANTS
+10	25	0	0	0	1	1	1	//	GLOVES
+11	25	0	0	0	1	1	1	//	BOOTS
+
+//ADAMANTINE DL
+7	26	0	0	0	1	1	1	//	adamantine mask
+8	26	0	0	0	1	1	1	//	adamantine armor
+9	26	0	0	0	1	1	1	//	adamantine pants
+10	26	0	0	0	1	1	1	//	adamantine gloves
+11	26	0	0	0	1	1	1	//	adamantine boots
+
+//GRAND SOUL SM
+7	18	0	0	0	1	1	1	//	helm
+8	18	0	0	0	1	1	1	//	armor
+9	18	0	0	0	1	1	1	//	pants
+10	18	0	0	0	1	1	1	//	gloves
+11	18	0	0	0	1	1	1	//	boots
+
+//HOLLY STORM
+0	33	0	0	0	1	1	1	//	HOLLY STORM CLAWS
+7	60	0	0	0	1	1	1	//	HELM
+8	60	0	0	0	1	1	1	//	ARMOR
+9	60	0	0	0	1	1	1	//	PANTS
+11	60	0	0	0	1	1	1	//	BOOTS
+
+//DARK SOUL SM
+7	22	0	0	0	1	1	1	//	HELM
+8	22	0	0	0	1	1	1	//	ARMOR
+9	22	0	0	0	1	1	1	//	PANTS
+10	22	0	0	0	1	1	1	//	GLOVES
+11	22	0	0	0	1	1	1	//	BOOTS
+
+//SPIRIT EE
+7	13	0	0	0	1	1	1	//	spirit helm
+8	13	0	0	0	1	1	1	//	spirit armor
+9	13	0	0	0	1	1	1	//	spirit pants
+10	13	0	0	0	1	1	1	//	spirit gloves
+11	13	0	0	0	1	1	1	//	spirit boots
+
+
+
+//BLACK DRAGON DK
+7	16	0	0	0	1	1	1	//	HELM
+8	16	0	0	0	1	1	1	//	ARMOR
+9	16	0	0	0	1	1	1	//	PANTS
+10	16	0	0	0	1	1	1	//	GLOVES
+11	16	0	0	0	1	1	1	//	BOOTS
+
+//DARK PHOENIX BK
+7	17	0	0	0	1	1	1	//	dark phoenix helm
+8	17	0	0	0	1	1	1	//	dark phoenix armor
+9	17	0	0	0	1	1	1	//	dark phoenix pants
+10	17	0	0	0	1	1	1	//	dark phoenix gloves
+11	17	0	0	0	1	1	1	//	dark phoenix boots
+
+//VIOLENT WIND SUMM
+7	39	0	0	0	1	1	1	//	violent wind helm
+8	39	0	0	0	1	1	1	//	violent wind armor
+9	39	0	0	0	1	1	1	//	violent wind pants
+10	39	0	0	0	1	1	1	// violent wind gloves
+11	39	0	0	0	1	1	1	//	violent wind boots
+
+// RED WING SUMM
+7	40	0	0	0	1	1	1	// red wing helm
+8	40	0	0	0	1	1	1	//	red wing armor
+9	40	0	0	0	1	1	1	//	red wing pants
+10	40	0	0	0	1	1	1	//	red wing gloves
+11	40	0	0	0	1	1	1	//	red wing boots
+
+//DARK STEEL
+7	27	0	0	0	1	1	1
+8	27	0	0	0	1	1	1
+9	27	0	0	0	1	1	1
+10	27	0	0	0	1	1	1
+11	27	0	0	0	1	1	1
+
+//DIVINE
+7	19	0	0	0	1	1	1
+8	19	0	0	0	1	1	1
+9	19	0	0	0	1	1	1
+10	19	0	0	0	1	1	1
+11	19	0	0	0	1	1	1
+
+//THUNDER
+8	20	0	0	0	1	1	1
+9	20	0	0	0	1	1	1
+10	20	0	0	0	1	1	1
+11	20	0	0	0	1	1	1
+
+
+//ANCIENT
+7           41     0          0          0       1      1        1	//	 HELM
+8           41     0          0          0       1      1        1	//	ARMOR
+9           41     0          0          0       1      1        1	//	PANTS
+10          41     0          0          0       1      1        1	//	GLOVES
+11          41     0          0          0       1      1        1	//	BOOTS
+
+//DEMONIC
+7           42     0          0          0       1      1        1
+8           42     0          0          0       1      1        1
+9           42     0          0          0       1      1        1
+10          42     0          0          0       1      1        1
+11          42     0          0          0       1      1        1
+
+//SET SOLO LUCK
+
+
+// LIGHT PLATE DL
+7	25	0	0	0	1	0	1	//	MASK
+8	25	0	0	0	1	0	1	//	ARMOR
+9	25	0	0	0	1	0	1	//	PANTS
+10	25	0	0	0	1	0	1	//	GLOVES
+11	25	0	0	0	1	0	1	//	BOOTS
+
+//ADAMANTINE DL
+7	26	0	0	0	1	0	1	//	adamantine mask
+8	26	0	0	0	1	0	1	//	adamantine armor
+9	26	0	0	0	1	0	1	//	adamantine pants
+10	26	0	0	0	1	0	1	//	adamantine gloves
+11	26	0	0	0	1	0	1	//	adamantine boots
+
+//GRAND SOUL SM
+7	18	0	0	0	1	0	1	//	helm
+8	18	0	0	0	1	0	1	//	armor
+9	18	0	0	0	1	0	1	//	pants
+10	18	0	0	0	1	0	1	//	gloves
+11	18	0	0	0	1	0	1	//	boots
+
+//HOLLY STORM
+0	33	0	0	0	1	0	1	//	HOLLY STORM CLAWS
+7	60	0	0	0	1	0	1	//	HELM
+8	60	0	0	0	1	0	1	//	ARMOR
+9	60	0	0	0	1	0	1	//	PANTS
+11	60	0	0	0	1	0	1	//	BOOTS
+
+//DARK SOUL SM
+7	22	0	0	0	1	0	1	//	HELM
+8	22	0	0	0	1	0	1	//	ARMOR
+9	22	0	0	0	1	0	1	//	PANTS
+10	22	0	0	0	1	0	1	//	GLOVES
+11	22	0	0	0	1	0	1	//	BOOTS
+
+//SPIRIT EE
+7	13	0	0	0	1	0	1	//	spirit helm
+8	13	0	0	0	1	0	1	//	spirit armor
+9	13	0	0	0	1	0	1	//	spirit pants
+10	13	0	0	0	1	0	1	//	spirit gloves
+11	13	0	0	0	1	0	1	//	spirit boots
+
+
+
+//BLACK DRAGON DK
+7	16	0	0	0	1	0	1	//	HELM
+8	16	0	0	0	1	0	1	//	ARMOR
+9	16	0	0	0	1	0	1	//	PANTS
+10	16	0	0	0	1	0	1	//	GLOVES
+11	16	0	0	0	1	0	1	//	BOOTS
+
+//DARK PHOENIX BK
+7	17	0	0	0	1	0	1	//	dark phoenix helm
+8	17	0	0	0	1	0	1	//	dark phoenix armor
+9	17	0	0	0	1	0	1	//	dark phoenix pants
+10	17	0	0	0	1	0	1	//	dark phoenix gloves
+11	17	0	0	0	1	0	1	//	dark phoenix boots
+
+//VIOLENT WIND SUMM
+7	39	0	0	0	1	0	1	//	violent wind helm
+8	39	0	0	0	1	0	1	//	violent wind armor
+9	39	0	0	0	1	0	1	//	violent wind pants
+10	39	0	0	0	1	0	1	// violent wind gloves
+11	39	0	0	0	1	0	1	//	violent wind boots
+
+// RED WING SUMM
+7	40	0	0	0	1	0	1	// red wing helm
+8	40	0	0	0	1	0	1	//	red wing armor
+9	40	0	0	0	1	0	1	//	red wing pants
+10	40	0	0	0	1	0	1	//	red wing gloves
+11	40	0	0	0	1	0	1	//	red wing boots
+
+//DARK STEEL
+7	27	0	0	0	1	0	1
+8	27	0	0	0	1	0	1
+9	27	0	0	0	1	0	1
+10	27	0	0	0	1	0	1
+11	27	0	0	0	1	0	1
+
+//DIVINE
+7	19	0	0	0	1	0	1
+8	19	0	0	0	1	0	1
+9	19	0	0	0	1	0	1
+10	19	0	0	0	1	0	1
+11	19	0	0	0	1	0	1
+
+//THUNDER
+8	20	0	0	0	1	0	1
+9	20	0	0	0	1	0	1
+10	20	0	0	0	1	0	1
+11	20	0	0	0	1	0	1
+
+
+//ANCIENT
+7           41     0          0          0       1      0        1	//	 HELM
+8           41     0          0          0       1      0        1	//	ARMOR
+9           41     0          0          0       1      0        1	//	PANTS
+10          41     0          0          0       1      0        1	//	GLOVES
+11          41     0          0          0       1      0        1	//	BOOTS
+
+//DEMONIC
+7           42     0          0          0       1      0        1
+8           42     0          0          0       1      0        1
+9           42     0          0          0       1      0        1
+10          42     0          0          0       1      0        1
+11          42     0          0          0       1      0        1
+
+
+//SET SOLO OPCIONES
+
+// LIGHT PLATE DL
+7	25	0	0	0	0	1	1	//	MASK
+8	25	0	0	0	0	1	1	//	ARMOR
+9	25	0	0	0	0	1	1	//	PANTS
+10	25	0	0	0	0	1	1	//	GLOVES
+11	25	0	0	0	0	1	1	//	BOOTS
+
+//ADAMANTINE DL
+7	26	0	0	0	0	1	1	//	adamantine mask
+8	26	0	0	0	0	1	1	//	adamantine armor
+9	26	0	0	0	0	1	1	//	adamantine pants
+10	26	0	0	0	0	1	1	//	adamantine gloves
+11	26	0	0	0	0	1	1	//	adamantine boots
+
+//GRAND SOUL SM
+7	18	0	0	0	0	1	1	//	helm
+8	18	0	0	0	0	1	1	//	armor
+9	18	0	0	0	0	1	1	//	pants
+10	18	0	0	0	0	1	1	//	gloves
+11	18	0	0	0	0	1	1	//	boots
+
+//HOLLY STORM
+0	33	0	0	0	0	1	1	//	HOLLY STORM CLAWS
+7	60	0	0	0	0	1	1	//	HELM
+8	60	0	0	0	0	1	1	//	ARMOR
+9	60	0	0	0	0	1	1	//	PANTS
+11	60	0	0	0	0	1	1	//	BOOTS
+
+//DARK SOUL SM
+7	22	0	0	0	0	1	1	//	HELM
+8	22	0	0	0	0	1	1	//	ARMOR
+9	22	0	0	0	0	1	1	//	PANTS
+10	22	0	0	0	0	1	1	//	GLOVES
+11	22	0	0	0	0	1	1	//	BOOTS
+
+//SPIRIT EE
+7	13	0	0	0	0	1	1	//	spirit helm
+8	13	0	0	0	0	1	1	//	spirit armor
+9	13	0	0	0	0	1	1	//	spirit pants
+10	13	0	0	0	0	1	1	//	spirit gloves
+11	13	0	0	0	0	1	1	//	spirit boots
+
+
+
+//BLACK DRAGON DK
+7	16	0	0	0	0	1	1	//	HELM
+8	16	0	0	0	0	1	1	//	ARMOR
+9	16	0	0	0	0	1	1	//	PANTS
+10	16	0	0	0	0	1	1	//	GLOVES
+11	16	0	0	0	0	1	1	//	BOOTS
+
+//DARK PHOENIX BK
+7	17	0	0	0	0	1	1	//	dark phoenix helm
+8	17	0	0	0	0	1	1	//	dark phoenix armor
+9	17	0	0	0	0	1	1	//	dark phoenix pants
+10	17	0	0	0	0	1	1	//	dark phoenix gloves
+11	17	0	0	0	0	1	1	//	dark phoenix boots
+
+//VIOLENT WIND SUMM
+7	39	0	0	0	0	1	1	//	violent wind helm
+8	39	0	0	0	0	1	1	//	violent wind armor
+9	39	0	0	0	0	1	1	//	violent wind pants
+10	39	0	0	0	0	1	1	// violent wind gloves
+11	39	0	0	0	0	1	1	//	violent wind boots
+
+// RED WING SUMM
+7	40	0	0	0	0	1	1	// red wing helm
+8	40	0	0	0	0	1	1	//	red wing armor
+9	40	0	0	0	0	1	1	//	red wing pants
+10	40	0	0	0	0	1	1	//	red wing gloves
+11	40	0	0	0	0	1	1	//	red wing boots
+
+//DARK STEEL
+7	27	0	0	0	0	1	1
+8	27	0	0	0	0	1	1
+9	27	0	0	0	0	1	1
+10	27	0	0	0	0	1	1
+11	27	0	0	0	0	1	1
+
+//DIVINE
+7	19	0	0	0	0	1	1
+8	19	0	0	0	0	1	1
+9	19	0	0	0	0	1	1
+10	19	0	0	0	0	1	1
+11	19	0	0	0	0	1	1
+
+//THUNDER
+8	20	0	0	0	0	1	1
+9	20	0	0	0	0	1	1
+10	20	0	0	0	0	1	1
+11	20	0	0	0	0	1	1
+
+
+//ANCIENT
+7           41     0          0          0       0      1        1	//	 HELM
+8           41     0          0          0       0      1        1	//	ARMOR
+9           41     0          0          0       0      1        1	//	PANTS
+10          41     0          0          0       0      1        1	//	GLOVES
+11          41     0          0          0       0      1        1	//	BOOTS
+
+//DEMONIC
+7           42     0          0          0       0      1        1
+8           42     0          0          0       0      1        1
+9           42     0          0          0       0      1        1
+10          42     0          0          0       0      1        1
+11          42     0          0          0       0      1        1
+
+//ARMAS SKILL LUCK OPCION
+0   16  0   0   1	1	1	1	//	SWORD OF DESTRUCTION
+0	17	0	0	1	1	1	1	//	DARK BREAKER
+0	31	0	0	1	1	1	1	//RUNE BLADE
+0	34	0	0	1	1	1	1	//	PIERCING GLOVE
+
+2	5	0	0	1	1	1	1	//	CRYSTAL SWORD
+2	15	0	0	1	1	1	1	//SHINING SCEPTER
+
+3	9	0	0	1	1	1	1	//	BILL OF BALROG
+
+4	16	0	0	1	1	1	1	//SAINT CROSSBOW
+4	17	0	0	1	1	1	1	//CELESTIAL BOW
+5	9	0	0	1	1	1	1	//DRAGON STAFF
+
+//ARMAS SKILL Y LUCK
+0   16  0   0   1	1	0	1	//	SWORD OF DESTRUCTION
+0	17	0	0	1	1	0	1	//	DARK BREAKER
+0	31	0	0	1	1	0	1	//RUNE BLADE
+0	34	0	0	1	1	0	1	//	PIERCING GLOVE
+
+2	5	0	0	1	1	0	1	//	CRYSTAL SWORD
+2	15	0	0	1	1	0	1	//SHINING SCEPTER
+
+3	9	0	0	1	1	0	1	//	BILL OF BALROG
+
+4	16	0	0	1	1	0	1	//SAINT CROSSBOW
+4	17	0	0	1	1	0	1	//CELESTIAL BOW
+5	9	0	0	1	1	0	1	//DRAGON STAFF
+
+//ARMAS SKILL Y OPCION
+0   16  0   0   1	0	1	1	//	SWORD OF DESTRUCTION
+0	17	0	0	1	0	1	1	//	DARK BREAKER
+0	31	0	0	1	0	1	1	//RUNE BLADE
+0	34	0	0	1	0	1	1	//	PIERCING GLOVE
+
+2	5	0	0	1	0	1	1	//	CRYSTAL SWORD
+2	15	0	0	1	0	1	1	//SHINING SCEPTER
+
+3	9	0	0	1	0	1	1	//	BILL OF BALROG
+
+4	16	0	0	1	0	1	1	//SAINT CROSSBOW
+4	17	0	0	1	0	1	1	//CELESTIAL BOW
+5	9	0	0	1	0	1	1	//DRAGON STAFF
+
+//ARMAS SOLO SKILL
+0   16  0   0   1	0	0	1	//	SWORD OF DESTRUCTION
+0	17	0	0	1	0	0	1	//	DARK BREAKER
+0	31	0	0	1	0	0	1	//RUNE BLADE
+0	34	0	0	1	0	0	1	//	PIERCING GLOVE
+
+2	5	0	0	1	0	0	1	//	CRYSTAL SWORD
+2	15	0	0	1	0	0	1	//SHINING SCEPTER
+
+3	9	0	0	1	0	0	1	//	BILL OF BALROG
+
+4	16	0	0	1	0	0	1	//SAINT CROSSBOW
+4	17	0	0	1	0	0	1	//CELESTIAL BOW
+5	9	0	0	1	0	0	1	//DRAGON STAFF
+
+//ARMAS SOLO OPCION
+0   16  0   0   0	0	1	1	//	SWORD OF DESTRUCTION
+0	17	0	0	0	0	1	1	//	DARK BREAKER
+0	31	0	0	0	0	1	1	//RUNE BLADE
+0	34	0	0	0	0	1	1	//	PIERCING GLOVE
+
+2	5	0	0	0	0	1	1	//	CRYSTAL SWORD
+2	15	0	0	0	0	1	1	//SHINING SCEPTER
+
+3	9	0	0	0	0	1	1	//	BILL OF BALROG
+
+4	16	0	0	0	0	1	1	//SAINT CROSSBOW
+4	17	0	0	0	0	1	1	//CELESTIAL BOW
+5	9	0	0	0	0	1	1	//DRAGON STAFF
+
+end

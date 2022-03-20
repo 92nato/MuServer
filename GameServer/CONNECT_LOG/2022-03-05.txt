@@ -1,0 +1,3 @@
+20:53:06 [SocketManager] WSASend() failed with error: 10038
+21:03:31 [SocketManager] WSASend() failed with error: 10038
+21:18:38 [SocketManager] Protocol size error (Index: 11001, Header: c1, Size: 0, Head: 0)

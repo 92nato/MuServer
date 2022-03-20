@@ -1,0 +1,196 @@
+00:58:53 [Obj][11011] LogOutCharacter (Jack)
+00:58:53 [Obj][11011] DelAccount (xXManiacXx)
+00:58:53 [Obj][11011] DelClient (181.191.143.8)
+01:00:40 [Obj][11004] AddClient (167.249.55.98)
+01:01:11 [Obj][11004] DelClient (167.249.55.98)
+01:01:11 Response error after connection causes conclusion [11004][][][167.249.55.98]
+01:01:20 [Obj][11010] AddClient (181.191.143.8)
+01:01:30 [Obj][11010] AddAccount (xXManiacXx)
+01:01:31 [Obj][11010] LogInCharacter (Jack)
+01:10:23 [Obj][11010] LogOutCharacter (Jack)
+01:10:23 [Obj][11010] DelAccount (xXManiacXx)
+01:10:23 [Obj][11010] DelClient (181.191.143.8)
+01:12:19 [Obj][11003] AddClient (181.191.143.8)
+01:12:29 [Obj][11003] AddAccount (xXManiacXx)
+01:12:30 [Obj][11003] LogInCharacter (Jack)
+01:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 60 Y: 193)
+01:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 66 Y: 237)
+01:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 65 Y: 97)
+01:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 155 Y: 224)
+01:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 105 Y: 214)
+01:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 206 Y: 65)
+03:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 233 Y: 133)
+03:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 163 Y: 106)
+03:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 146 Y: 89)
+03:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 177 Y: 118)
+03:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 50 Y: 231)
+03:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 172 Y: 101)
+03:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 217 Y: 117)
+03:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 193 Y: 111)
+03:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 218 Y: 165)
+03:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 181 Y: 76)
+05:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 209 Y: 44)
+05:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 33 Y: 238)
+05:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 234 Y: 99)
+05:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 178 Y: 152)
+05:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 65 Y: 18)
+05:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 206 Y: 65)
+07:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 23 Y: 112)
+07:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 166 Y: 114)
+07:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 110 Y: 179)
+07:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 93 Y: 162)
+07:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 239 Y: 119)
+07:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 112 Y: 37)
+07:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 170 Y: 114)
+07:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 47 Y: 203)
+07:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 160 Y: 19)
+07:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 85 Y: 180)
+07:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 110 Y: 121)
+09:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 222 Y: 70)
+09:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 31 Y: 162)
+09:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 136 Y: 54)
+09:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 121 Y: 146)
+09:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 99 Y: 197)
+09:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 206 Y: 65)
+11:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 58 Y: 75)
+11:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 165 Y: 232)
+11:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 225 Y: 167)
+11:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 62 Y: 140)
+11:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 68 Y: 179)
+11:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 115 Y: 50)
+11:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 51 Y: 24)
+11:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 80 Y: 167)
+11:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 31 Y: 100)
+11:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 133 Y: 158)
+12:56:14 [Obj][11003] LogOutCharacter (Jack)
+12:56:17 [Obj][11003] LogInCharacter (Maniac)
+12:56:32 [Obj][11003] LogOutCharacter (Maniac)
+12:56:36 [Obj][11003] LogInCharacter (Jack)
+13:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 195 Y: 77)
+13:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 216 Y: 53)
+13:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 118 Y: 181)
+13:16:02 [Obj][11003] LogOutCharacter (Jack)
+13:16:02 [Obj][11003] DelAccount (xXManiacXx)
+13:16:02 [Obj][11003] DelClient (181.191.143.8)
+13:18:04 [CastleSiege] [0x80][0x18] GS_DGAnsCastleTributeMoney() - Money Tribute OK (180000)
+13:18:23 [Obj][11000] AddClient (181.191.143.8)
+13:18:28 [Obj][11000] AddAccount (xXManiacXx)
+13:18:31 [Obj][11000] LogInCharacter (Jack)
+13:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 192 Y: 215)
+13:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 167 Y: 116)
+13:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 147 Y: 84)
+13:29:05 [Obj][11000] LogOutCharacter (Jack)
+13:29:07 [Obj][11000] LogInCharacter (Maniac)
+13:35:31 [Obj][11000] LogOutCharacter (Maniac)
+13:35:35 [Obj][11000] LogInCharacter (Jack)
+13:36:13 [Obj][11000] LogOutCharacter (Jack)
+13:36:13 [Obj][11000] DelAccount (xXManiacXx)
+13:36:13 [Obj][11000] DelClient (181.191.143.8)
+13:37:34 [Obj][11002] AddClient (181.191.143.8)
+13:37:38 [Obj][11002] AddAccount (xXManiacXx)
+13:37:42 [Obj][11002] LogInCharacter (Jack)
+13:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 115 Y: 188)
+15:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 18 Y: 53)
+15:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 164 Y: 117)
+15:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 108 Y: 204)
+15:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 190 Y: 106)
+15:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 133 Y: 155)
+15:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 207 Y: 206)
+15:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 227 Y: 201)
+15:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 20 Y: 102)
+15:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 109 Y: 24)
+15:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 230 Y: 80)
+15:20:49 [Obj][11002] LogOutCharacter (Jack)
+15:20:49 [Obj][11002] DelAccount (xXManiacXx)
+15:20:49 [Obj][11002] DelClient (181.191.143.8)
+15:21:00 [Obj][11006] AddClient (181.191.143.8)
+15:21:10 [Obj][11006] AddAccount (xXManiacXx)
+15:21:10 [Obj][11006] LogInCharacter (Jack)
+17:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 182 Y: 107)
+17:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 233 Y: 147)
+17:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 90 Y: 36)
+17:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 74 Y: 135)
+17:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 29 Y: 206)
+17:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 85 Y: 127)
+18:21:08 [ServerInfo] CashShop loaded successfully
+18:21:08 [ServerInfo] ChaosMix loaded successfully
+18:21:08 [ServerInfo] Character loaded successfully
+18:21:09 [ServerInfo] Command loaded successfully
+18:21:09 [ServerInfo] Common loaded successfully
+18:21:09 [ServerInfo] Custom loaded successfully
+18:21:09 [ServerInfo] Event loaded successfully
+18:21:11 [ServerInfo] EventItemBag loaded successfully
+18:21:11 [ServerInfo] Hack loaded successfully
+18:21:12 [ServerInfo] Monster loaded successfully
+18:21:12 [ServerInfo] Move loaded successfully
+18:21:12 [ServerInfo] Quest loaded successfully
+18:21:12 [ServerInfo] Shop loaded successfully
+18:21:12 [ServerInfo] Skill loaded successfully
+18:21:12 [ServerInfo] Util loaded successfully
+18:21:12 [ReadBotInfo] BotSystem loaded successfully
+18:21:16 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+18:22:05 [ServerInfo] CashShop loaded successfully
+18:22:05 [ServerInfo] ChaosMix loaded successfully
+18:22:06 [ServerInfo] Character loaded successfully
+18:22:06 [ServerInfo] Custom loaded successfully
+18:22:06 [ServerInfo] Command loaded successfully
+18:22:06 [ServerInfo] Common loaded successfully
+18:22:06 [ServerInfo] Event loaded successfully
+18:22:06 [ServerInfo] EventItemBag loaded successfully
+18:22:06 [ServerInfo] Hack loaded successfully
+18:22:06 [ServerInfo] Item loaded successfully
+18:22:07 [ServerInfo] Monster loaded successfully
+18:22:07 [ServerInfo] Move loaded successfully
+18:22:07 [ServerInfo] Quest loaded successfully
+18:22:07 [ServerInfo] Shop loaded successfully
+18:22:07 [ServerInfo] Skill loaded successfully
+18:22:07 [ServerInfo] Util loaded successfully
+18:22:07 [ReadBotInfo] BotSystem loaded successfully
+18:22:12 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+18:22:29 [Obj][11000] AddClient (181.46.166.152)
+18:22:29 [Obj][11001] AddClient (181.46.166.152)
+18:22:29 [Obj][11002] AddClient (181.46.166.152)
+18:22:29 [Obj][11003] AddClient (181.46.166.152)
+18:22:29 [Obj][11004] AddClient (181.46.166.152)
+18:22:31 [Obj][11005] AddClient (181.191.143.8)
+18:22:39 [Obj][11000] AddAccount (carolina)
+18:22:39 [Obj][11001] AddAccount (javier)
+18:22:39 [Obj][11003] AddAccount (salchipapa)
+18:22:39 [Obj][11002] AddAccount (javier89)
+18:22:39 [Obj][11004] AddAccount (yashiro)
+18:22:39 [Obj][11000] LogInCharacter (Meylin)
+18:22:39 [Obj][11001] LogInCharacter (ASRock)
+18:22:39 [Obj][11003] LogInCharacter (yashiroBK)
+18:22:39 [Obj][11002] LogInCharacter (Meilin)
+18:22:39 [Obj][11004] LogInCharacter (Yura)
+18:22:41 [Obj][11005] AddAccount (xXManiacXx)
+18:22:42 [Obj][11005] LogInCharacter (Jack)
+19:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 160 Y: 223)
+19:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 14 Y: 232)
+19:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 56 Y: 144)
+19:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 122 Y: 37)
+19:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 162 Y: 143)
+19:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 131 Y: 114)
+19:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 236 Y: 81)
+19:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 57 Y: 220)
+19:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 210 Y: 114)
+19:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 117 Y: 193)
+21:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 199 Y: 76)
+21:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 233 Y: 152)
+21:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 111 Y: 79)
+21:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 30 Y: 195)
+21:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 147 Y: 116)
+21:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 191 Y: 202)
+21:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 206 Y: 65)
+23:05:00 [KING OF MU] Start
+23:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 119 Y: 103)
+23:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 122 Y: 105)
+23:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 209 Y: 182)
+23:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 223 Y: 203)
+23:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 220 Y: 164)
+23:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 60 Y: 61)
+23:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 96 Y: 140)
+23:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 59 Y: 158)
+23:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 128 Y: 229)
+23:15:00 [Invasion Manager] Index(5) Boss Position (Map: 2 X: 232 Y: 81)
+23:35:00 [KING OF MU] Finish - No Winner

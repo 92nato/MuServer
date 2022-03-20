@@ -1,0 +1,33 @@
+//**************************
+//
+// *************************
+// ----------------------------------------------------------------------------------
+//    NPCIdMap    Map    X        Y        Name
+// ----------------------------------------------------------------------------------
+      380         0      130      125      "TvT Event"
+      380         0      130      129      "Survival Guild Event"
+      380         0      130      127      "Battle Royale Event"
+      382         0      114      134      "[Q] The Muren Spirit"
+      601         0      143      140      "[Q] Reward Reset"
+      600         02     220      077      "[Q] Davias"             //QUEST DAVIAS
+      600         01     106      243      "[Q] Dungeon"            //QUEST DUNGEON
+      600         07     023      025      "[Q] Atlans"             //QUEST ATLANS
+      600         04     211      082      "[Q] Losttower"          //QUEST LOSTTOWER
+      600         08     195      056      "[Q] Tarkan"             //QUEST TARKAN
+      600         33     091      012      "[Q] Aida"               //QUEST AIDA
+      600         10     010      017      "[Q] Icarus"             //QUEST ICARUS
+      600         37     041      219      "[Q] kanturu"            //QUEST KANTURU 1
+      600         38     089      107      "[Q] kanturu 2"          //QUEST KANTURU REMAIN 2
+      600         57     211      209      "[Q] Raklion"            //QUEST RAKLION
+      600         80     119      122      "[Q] Karutan"            //QUEST KARUTAN
+      600         89     055      197      "[Q] Acheron"            //QUEST ACHERON
+      600         37     069      175      "[Q] Kanturu 3"          //QUEST KANTURU 3
+      600         56     140      113      "[Q] Swamp Peace"        //QUEST SWAMP PEACE
+      600         84     042      124      "[Q] Nixies Lake"        //QUEST NIXIES LAKE
+      600         85     193      137      "[Q] Ferea"              //QUEST FEREA
+      600         83     135      117      "[Q] Swamp Darkness"     //QUEST SWAMP OF DARKNESS   
+      600         86     209      194      "[Q] Nars"               //QUEST NARS
+      600         88     022      091      "[Q] Uruk Mountain"      //QUEST URUK MONTAIN
+      600         87     202      067      "[Q] Kubera Mine"        //QUEST KUBERA MINE
+      600         91     123      126      "[Q] Deep Dungeon"       //QUEST DEEP DUNGEON
+end
