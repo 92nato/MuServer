@@ -1,6 +1,21 @@
-Mu Shop Editor.rar
-Eliminar Logs.bat
-SSU_v1.0.4.164 - Shortcut.Ink
-XTools
-StartUp
-Mu Shop Editor
+Mu_Shop_Editor.rar
+Eliminar_Logs.bat
+SSU_v1.0.4.164_-_Shortcut.Ink
+XTools/
+StartUp/
+Mu_Shop_Editor/
+MHPServer/log/
+Joinserver/Log/
+joinServer/LOG_ACCOUNT/
+GameServerCS/LOG/
+GameServerCS/LOG/
+GameServer/CASH_SHOP_LOG/
+GameServer/CHAOS_MIX_LOG/
+GameServer/CHAT_LOG/
+GameServer/COMMAND_LOG/
+GameServer/CONNECT_LOG/
+GameServer/HACK_LOG/
+GameServer/LOG/
+GameServer/TRAEDE_LOG/
+DataServer/LOG/
+ConnectServer/LOG/
