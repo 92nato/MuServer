@@ -678,4 +678,6 @@
 917       "¡%s jugador derrotó al conejo blanco!"
 918        "¡Apareció Fire Flame Ghost, derrótalo!"
 919    "¡%s jugador derrotó al Fire Flame Ghost!"
+920        "¡Apareció Pouch of Blessing, derrótalo!"
+921    "¡%s jugador derrotó un Pouch of Blessing!"
 end

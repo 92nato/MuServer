@@ -1,0 +1,2 @@
+16:47:51 [JewelOfHarmonyItemSmeltMix][Success][braian90][test10] - (ChaosSuccessRate: 100, ChaosMoney: 0)
+16:48:04 [JewelOfHarmonyItemSmeltMix][Success][braian90][test10] - (ChaosSuccessRate: 100, ChaosMoney: 0)

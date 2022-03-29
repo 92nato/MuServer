@@ -1,0 +1,3 @@
+09:45:52 [SocketManager] WSASend() failed with error: 10038
+18:43:37 [SocketManager] WSASend() failed with error: 10038
+18:46:48 [SocketManager] WSASend() failed with error: 10038

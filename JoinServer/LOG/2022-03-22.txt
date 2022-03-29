@@ -1,0 +1,23 @@
+03:34:05 [ServerManager][0] DelServer (127.0.0.1)
+03:38:46 [SocketManager] Server started at port [55970]
+03:38:55 [ServerManager][0] AddServer (127.0.0.1)
+03:38:55 [ServerManager][0] ServerInfo (MuEMU_CS) (55919) (19)
+03:41:07 [SocketManager] Server started at port [55970]
+03:41:11 [ServerManager][0] AddServer (127.0.0.1)
+03:41:11 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+03:41:13 [ServerManager][1] AddServer (127.0.0.1)
+03:41:13 [ServerManager][1] ServerInfo (MuEMU_CS) (55919) (19)
+03:46:47 [ServerManager][0] DelServer (127.0.0.1)
+03:46:54 [SocketManager] Server started at port [55970]
+03:46:58 [ServerManager][0] AddServer (127.0.0.1)
+03:46:58 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+03:47:00 [ServerManager][1] AddServer (127.0.0.1)
+03:47:00 [ServerManager][1] ServerInfo (MuEMU_CS) (55919) (19)
+03:53:49 [ServerManager][0] DelServer (127.0.0.1)
+03:55:34 [SocketManager] Server started at port [55970]
+03:56:45 [SocketManager] Server started at port [55970]
+03:58:34 [SocketManager] Server started at port [55970]
+03:58:38 [ServerManager][0] AddServer (127.0.0.1)
+03:58:38 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+03:58:41 [ServerManager][1] AddServer (127.0.0.1)
+03:58:41 [ServerManager][1] ServerInfo (MuEMU_CS) (55919) (19)

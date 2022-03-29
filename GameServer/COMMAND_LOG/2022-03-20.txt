@@ -3,3 +3,7 @@
 11:50:21 [CommandAddPoint][franqitoo][Bminvictus] - (Type: 1, Amount: 500)
 11:50:29 [CommandAddPoint][franqitoo][Bminvictus] - (Type: 2, Amount: 370)
 13:09:06 [CommandAddPoint][xXManiacXx][Jack] - (Type: 0, Amount: 56)
+14:09:22 [CommandReset][eliansito][BmKrAtOS] - (Reset: 11)
+14:09:50 [CommandAddPoint][eliansito][BmKrAtOS] - (Type: 0, Amount: 3500)
+14:10:04 [CommandAddPoint][eliansito][BmKrAtOS] - (Type: 1, Amount: 1500)
+14:10:11 [CommandAddPoint][eliansito][BmKrAtOS] - (Type: 3, Amount: 500)

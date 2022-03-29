@@ -146,3 +146,4 @@
 13:42:31 [ClientManager][3] DelClient (186.22.19.90)
 13:43:04 [ClientManager][2] AddClient (186.22.19.90)
 13:43:04 [ClientManager][2] ClientInfo (HardwareId: 3CD5B64A-9BFDCE82-AC5CBF4C-DB47DBE0)
+14:54:17 [ClientManager][2] DelClient (186.22.19.90)

@@ -178,13 +178,13 @@ MoneyValue_AL3 = 0
 ;==================================================
 ; Item Durability Settings
 ;==================================================
-WeaponDurabilityRate = 100
-ArmorDurabilityRate = 100
-WingDurabilityRate = 100
-GuardianDurabilityRate = 100
-PendantDurabilityRate = 100
-RingDurabilityRate = 100
-PetDurabilityRate = 100
+WeaponDurabilityRate = 255
+ArmorDurabilityRate = 255
+WingDurabilityRate = 255
+GuardianDurabilityRate = 255
+PendantDurabilityRate = 255
+RingDurabilityRate = 255
+PetDurabilityRate = 255
 
 ;==================================================
 ; Trade Item Block Settings

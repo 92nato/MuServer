@@ -32,3 +32,6 @@
 13:41:08 [AccountInfo] Account disconnected (Account: franqito, IpAddress: 186.22.19.90, GameServerCode: 0)
 13:41:09 [AccountInfo] Account disconnected (Account: franqitoo, IpAddress: 186.22.19.90, GameServerCode: 0)
 13:45:17 [AccountInfo] Account connected (Account: eliansito, IpAddress: 186.22.19.90, GameServerCode: 0)
+14:54:15 [AccountInfo] Account disconnected (Account: eliansito, IpAddress: 186.22.19.90, GameServerCode: 0)
+16:03:35 [AccountInfo] Account disconnected (Account: xXManiacXx, IpAddress: 181.191.143.8, GameServerCode: 0)
+16:04:28 [AccountInfo] Account connected (Account: xXManiacXx, IpAddress: 181.191.143.8, GameServerCode: 0)

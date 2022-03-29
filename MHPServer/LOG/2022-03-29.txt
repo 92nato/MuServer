@@ -1,0 +1,6 @@
+11:04:42 [ClientManager][1] AddClient (186.143.163.205)
+11:04:42 [ClientManager][1] ClientInfo (HardwareId: 4BA2D521-B4DDE6A5-D47B9F6C-B91588D1)
+11:35:15 [ClientManager][2] AddClient (200.5.101.170)
+11:35:15 [ClientManager][2] ClientInfo (HardwareId: 4BA2D521-B4DDE6A5-D47B9F6C-B91588D1)
+11:35:25 [ClientManager][1] DelClient (186.143.163.205)
+12:04:24 [ClientManager][2] DelClient (200.5.101.170)

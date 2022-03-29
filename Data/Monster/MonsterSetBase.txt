@@ -2171,7 +2171,7 @@ end
 3
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
 043            00             30         010            020            240          240          -1             05            0          //Golden Budge Dragon
-079            00             30         010            010            240          240          -1             03            0          //Golden Derkon
+079            00             30         010            010            240          240          -1             05            0          //Golden Derkon
 
 
 053            02             30         010            010            240          240          -1             03            0          //Golden Titan
@@ -2195,9 +2195,9 @@ end
 
 495            33             30         010            010            240          240          -1             05            0          //Golden Stone Golem
 
-496            10             30         010            010            240          240          -1             03            0          //Golden Crust
+496            10             30         010            010            240          240          -1             05            0          //Golden Crust
 
-497            37             30         010            010            240          240          -1             03            0          //Golden Satyros
+497            37             30         010            010            240          240          -1             05            0          //Golden Satyros
 
 498            38             30         010            010            240          240          -1             03            0          //Golden Twin Tail
 
@@ -2205,11 +2205,12 @@ end
 
 500            56             39         010            010            240          240          -1             03            0          //Golden Napin
 
-501            37             80         010            010            240          240          -1             03            0          //Great Golden Dragon
+501            37             80         010            010            240          240          -1             05            0          //Great Golden Dragon
 
-501            57             30         010            010            240          240          -1             03            0          //Great Golden Dragon
+501            57             30         010            010            240          240          -1             05            0          //Great Golden Dragon
 
 502            51             30         010            010            240          240          -1             05            0          //Golden Rabbit
+76             51             30         010            010            240          240          -1             05            0          //Golden Rabbit
 end
 
 3
@@ -2228,19 +2229,19 @@ end
 
 3
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
-365            04             30         010            010            240          240          -1             10            0          //Pouch of Blessing
+365            4             30         010            010            240          240          -1             15            0          //Pouch of Blessing
 
 end
 
 3
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
-413            02             30         010            010            240          240          -1             10            0          //Lunar Rabbit
+413            02             30         010            010            240          240          -1             15            0          //Lunar Rabbit
 
 end
 
 3
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
-463            08             30         010            010            240          240          -1             10            0          //Fire Flame Ghost
+463            08             30         010            010            240          240          -1             15            0          //Fire Flame Ghost
 
 end
 
@@ -2254,13 +2255,13 @@ end
 
 3
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Value      Comment
-560            33             30         038            051            038          051          -1             10            0          //Sapi Queen
 
 561            33             30         037            40            037          40          -1             01            0          //Medusa
 
 
-
 end
+
+
 
 
 

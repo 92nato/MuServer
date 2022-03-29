@@ -5,7 +5,7 @@ end
 
 1
 //Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
-12            15      *           *          *      *       *         0      //chaos
+
 14            16     *           *          *      *       *         0      //life
 14           22      *          *          *      *       *         0      //creation
 14           13      *           *          *      *       *         0      //bless

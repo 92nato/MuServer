@@ -9,3 +9,7 @@
 13:09:06 [General][xXManiacXx][Jack] - (Message: /f 56)
 13:52:01 [General][eliansito][BmKrAtOS] - (Message: hola)
 13:52:51 [General][eliansito][BmKrAtOS] - (Message: meayudas)
+14:09:22 [General][eliansito][BmKrAtOS] - (Message: /reset)
+14:09:50 [General][eliansito][BmKrAtOS] - (Message: /f 3500)
+14:10:04 [General][eliansito][BmKrAtOS] - (Message: /a 1500)
+14:10:11 [General][eliansito][BmKrAtOS] - (Message: /e 500)

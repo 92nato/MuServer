@@ -3,11 +3,55 @@
 //| Credit: Zyth3/louis                          [skype:tec-facil] |
 //|================================================================|
 //CategoryID	PackageID	ItemGroup	ItemIndex	PurchaseType	Price	UseType	Gift	NumbeOfProductID	ProductID	Comment
-31	100	0	2	0	3	1	0	1	1000	// Rapier
+31	106	14	53	0	100	1	0	1	1060	// Talisman of Luck
 end
-31	102	0	2	1	4	1	0	1	1020	// Rapier
+31	107	14	96	0	100	1	0	1	1070	// Talisman of Chaos Assembly
 end
-31	103	0	2	2	5	1	0	1	1030	// Rapier
+31	122	13	46	0	100	1	0	1	1220	// Devil Square Ticket
 end
-41	101	14	98	1	10	0	0	2	10000|10001|	// Scroll of Strength
+31	123	13	47	0	100	1	0	1	1230	// Blood Castle Ticket
+end
+31	124	13	48	0	100	1	0	1	1240	// Kalima Ticket
+end
+31	125	13	49	0	100	1	0	1	1250	// Old Scroll
+end
+32	108	14	97	0	100	1	0	1	1080	// Scroll of Battle
+end
+32	109	14	72	0	100	1	0	1	1090	// Scroll of Quickness
+end
+32	110	14	73	0	100	1	0	1	1100	// Scroll of Defense
+end
+32	111	14	74	0	100	1	0	1	1110	// Scroll of Wrath
+end
+32	112	14	75	0	100	1	0	1	1120	// Scroll of Wizardry
+end
+32	113	14	76	0	100	1	0	1	1130	// Scroll of Health
+end
+32	114	14	77	0	100	1	0	1	1140	// Scroll of Mana
+end
+32	120	14	98	0	100	1	0	1	1200	// Scroll of Strength
+end
+32	121	14	140	0	100	1	0	1	1210	// Scroll of Healing
+end
+34	115	14	78	0	100	1	0	1	1150	// Elixir of Strength
+end
+34	116	14	79	0	100	1	0	1	1160	// Elixir of Agility
+end
+34	117	14	80	0	100	1	0	1	1170	// Elixir of Health
+end
+34	118	14	81	0	100	1	0	1	1180	// Elixir of Energy
+end
+34	119	14	82	0	100	1	0	1	1190	// Elixir of Control
+end
+35	100	13	76	0	100	1	0	1	1000	// Panda Ring
+end
+35	101	13	80	0	100	1	0	1	1010	// Pet Panda
+end
+35	102	13	106	0	100	1	0	1	1020	// Pet Unicorn
+end
+35	103	13	123	0	100	1	0	1	1030	// Pet Skeleton
+end
+35	104	13	37	0	100	1	0	1	1040	// Horn of Fenrir
+end
+35	105	13	39	0	100	1	0	1	1050	// Eilte Transfer Skeleton Ring
 end

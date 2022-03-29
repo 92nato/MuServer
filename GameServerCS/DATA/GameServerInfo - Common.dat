@@ -60,7 +60,7 @@ SetItemAcceptHarmonySwitch = 0
 ;==================================================
 ; Monster Settings
 ;==================================================
-MonsterLifeRate = 5
+MonsterLifeRate = 150
 MonsterHealthBarSwitch = 1
 
 ;==================================================

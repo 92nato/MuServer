@@ -165,9 +165,9 @@ GuildWarehouseStatus = 0
 ; Types:
 ; 0: Disabled
 ; 1: Only for coins
-; 0: All purchases
+; 2: All purchases
 ;==================================================
-CustomShopMessageBox = 2
+CustomShopMessageBox = 1
 
 ;==================================================
 ; Custom Quest Settings (CustomNpcQuest.txt)
