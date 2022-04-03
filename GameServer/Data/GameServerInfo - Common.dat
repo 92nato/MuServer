@@ -74,7 +74,7 @@ SpeedHackSkillDebug = 0
 ; Common Settings
 ;==================================================
 MaxItemOption = 7
-MaxIpConnection = 10
+MaxIpConnection = 5
 PersonalCodeCheck = 0
 SetItemAcceptHarmonySwitch = 0
 
@@ -134,7 +134,7 @@ GuildOwnerDestroyLimit = 1
 ;==================================================
 ; Elf Buffer Settings
 ;==================================================
-ElfBufferMaxLevel_AL0 = 150
+ElfBufferMaxLevel_AL0 = 300
 ElfBufferMaxLevel_AL1 = 200
 ElfBufferMaxLevel_AL2 = 250
 ElfBufferMaxLevel_AL3 = 400
@@ -150,7 +150,7 @@ ElfBufferDefenseConstB = 40
 ;==================================================
 ; Experience Settings
 ;==================================================
-AddExperienceRate_AL0 = 50
+AddExperienceRate_AL0 = 250
 AddExperienceRate_AL1 = 55
 AddExperienceRate_AL2 = 60
 AddExperienceRate_AL3 = 65
@@ -183,19 +183,19 @@ AutoResetExperienceRate_AL3 = 0
 ; Item Drop Settings
 ;==================================================
 ItemDropTime = 30
-ItemDropRate_AL0 = 30
-ItemDropRate_AL1 = 35
-ItemDropRate_AL2 = 40
-ItemDropRate_AL3 = 45
+ItemDropRate_AL0 = 40
+ItemDropRate_AL1 = 45
+ItemDropRate_AL2 = 45
+ItemDropRate_AL3 = 50
 
 ;==================================================
 ; Money Drop Settings
 ;==================================================
 MoneyDropTime = 25
-MoneyAmountDropRate_AL0 = 30
-MoneyAmountDropRate_AL1 = 35
-MoneyAmountDropRate_AL2 = 40
-MoneyAmountDropRate_AL3 = 45
+MoneyAmountDropRate_AL0 = 4
+MoneyAmountDropRate_AL1 = 45
+MoneyAmountDropRate_AL2 = 45
+MoneyAmountDropRate_AL3 = 50
 
 ;==================================================
 ; Advanced Money Drop Settings
@@ -341,7 +341,7 @@ GensSystemFinalRewardDay = 7
 ; Helper Settings
 ;==================================================
 HelperSwitch = 1
-HelperActiveLevel = 80
+HelperActiveLevel = 50
 HelperActiveDelay = 5
 HelperActiveMoney1 = 10
 HelperActiveMoney2 = 30
@@ -352,7 +352,7 @@ HelperActiveMoney5 = 120
 ;==================================================
 ; Cash Shop Settings
 ;==================================================
-CashShopSwitch = 1
+CashShopSwitch = 0
 CashShopScriptVersion1 = 512
 CashShopScriptVersion2 = 2011
 CashShopScriptVersion3 = 6

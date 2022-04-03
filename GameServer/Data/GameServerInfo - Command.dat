@@ -209,7 +209,7 @@ CommandMasterResetRemoveReset_AL3 = 0
 ;==================================================
 ; Marry Command Settings
 ;==================================================
-CommandMarryLevel = 150
+CommandMarryLevel =50
 CommandMarryCost = 350
 CommandMarryNoticeDelay = 60
 CommandMarryMinTime = 604800

@@ -86,7 +86,7 @@ InvasionManagerSwitch = 1
 ;==================================================
 ; Kanturu Event Settings
 ;==================================================
-KanturuEvent = 1
+KanturuEvent = 0
 
 ;==================================================
 ; Moss Merchant Event Settings

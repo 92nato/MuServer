@@ -49,7 +49,7 @@
 	24       "/soccer"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//soccer <guild>		- Challenge another guild to battle soccer
 	25       "/re"				1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//re |on| |off| |auto|		- Resquest system
 	26       "/hide"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//hidden			- hidden gm
-	27       "/rei"				1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//rei				- Seize throne in king of mu event
+	27       "/rey"				1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//rey				- Seize throne in king of mu event
 	28	 "/clearinv"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//limparinv			- Clear inventory
 	29       "/setvip"			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//setvip <account> <type> <days>- Add vip to a account
 	30 	 "/marry"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//marry to <player>		- Marry to a player
@@ -58,31 +58,31 @@
 	33 	 "/premiar"			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//reward <name> <type> <value>  - Reward a player	
 	34 	 "/premiarall"			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0 	//rewardall <type> <value>	- Reward all players
 	35 	 "/reload"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//reload <type>			- Reload config
-	36 	 "/banchar"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//banchar <player> <days>	- Ban character
-	37 	 "/banacc"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//banacc <player> <days>	- Ban account
-	38 	 "/mudarnome"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		10	0	0	//mudarnome			- Change character name
+	36 	 "/banchar"			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//banchar <player> <days>	- Ban character
+	37 	 "/banacc"			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//banacc <player> <days>	- Ban account
+	38 	 "/mudarnome"			0	0	0       0         		0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		10	0	0	//mudarnome			- Change character name
 	39 	 "/veloz"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//veloz				- Start Quickly event
 	40 	 "/info"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0 	//info <player>			- Character status 
 	41	 "/abrirevento"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//abrirevento			- Open event
 	42	 "/participar"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//participar			- Join in event
 	43	 "/pegapega"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//pegapega			- Start Run and Catch event
 	44	 "/queroir"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//queroir			- Go to Run and Catch event
-	45	 "/escesc"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//escesc			- Start Hide and Seek event
-	46       "/makeset"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//makeset <item> <level> <skill> <luck> <option> <exe> <set> <socket>
-	47       "/drop"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//drop <Group> <item> <level> <skill> <luck> <option> <exe> <set> <socket>
+	45	 "/escesc"			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//escesc			- Start Hide and Seek event
+	46       "/makeset"			0	0       0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//makeset <item> <level> <skill> <luck> <option> <exe> <set> <socket>
+	47       "/drop"			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//drop <Group> <item> <level> <skill> <luck> <option> <exe> <set> <socket>
 	48       "/quest"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//quest				- Quest Command
-	49	 "/presente"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//presente			- Gift command
+	49	 "/presente"			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//presente			- Gift command
 	50	 "/roletarussa"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//roletarussa			- Start Russian Roullete event
 	51	 "/top"				0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//top <type>			- Show top player 
-	52	 "/readd"			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//readd				- ReAdd stats
+	52	 "/readd"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//readd				- ReAdd stats
 	53	 "/resp"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//resp	<msg>			- Quiz event 
 	54       "/pick"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//pick <type>			- Auto get itens
-	55       "/ajuda"			1	1	1	1			0	0	0	0			0	0	0	0			200	200	200	200			0	0	0	0			0	0	0	0		0	0		0	0	0	//ajuda				- Summon help
+	55       "/ayuda"			1	1	1	1			0	0	0	0			0	0	0	0			200	200	200	200			0	0	0	0			0	0	0	0		0	0		0	0	0	//ajuda				- Summon help
 	56       "/remaster"			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//remaster			- ReAdd Master Skill Tree
-	57       "/startbc"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//startbc			- Start Blood Castle event
-	58       "/startds"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//startds			- Start Devil Square event
-	59       "/startcc"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//startcc			- Start Chaos Castle event
-	60       "/startit"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//startit			- Start Illus.Temple event
+	57       "/startbc"			0	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//startbc			- Start Blood Castle event
+	58       "/startds"			0	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//startds			- Start Devil Square event
+	59       "/startcc"			0	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//startcc			- Start Chaos Castle event
+	60       "/startit"			0	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//startit			- Start Illus.Temple event
 	61       "/offpvp"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//offpvp			- Disable Pvp
 	62       "/lock"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//lock <password>		- Block Itens Move
 	63       "/unlock"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//unlock <password>		- Desbloc Itens Move
@@ -95,14 +95,14 @@
 	70	 "/pvp"				1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//pvp				- Start PvP Event
 	71	 "/matamata"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//killall			- Start Kill All Event
 	72	 "/starttvt"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//starttvt			- Start Team vs Team Event
-	73	 "/spot"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//spot <monster> <qtd>		- Summon monsters
-	74	 "/setcoin"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//setcoin <Char> <Coin> <Value>	- Command for add or remove coins
+	73	 "/spot"			0	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//spot <monster> <qtd>		- Summon monsters
+	74	 "/setcoin"			0	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	2		0	0	0	//setcoin <Char> <Coin> <Value>	- Command for add or remove coins
 	75	 "/pack"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//pack <Type> <Qtd>		- Command for pack jewels
 	76	 "/unpack"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//unpack <Type> <Qtd>		- Command for unpack jewels
 	77	 "/startquiz"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startquiz			- Start Quiz Event
-	78	 "/startdrop"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startdrop			- Start Drop Event
-	79	 "/startking"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startking			- Start King of MU Event
-	80	 "/startinvasion"		1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startinvasion	<index>		- Start Invasion
+	78	 "/startdrop"			0	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startdrop			- Start Drop Event
+	79	 "/king"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startking			- Start King of MU Event
+	80	 "/startinvasion"		0	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startinvasion	<index>		- Start Invasion
 	81	 "/startarena"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startarena <index>		- Start Custom Arena
 	82	 "/startgvg"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	1		0	0	0	//startgvg			- Start Guild vs Guild Event
 	83	 "/setparty"			1	1	1	1			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0			0	0	0	0		0	0		0	0	0	//setparty <password>		- Create a new password party

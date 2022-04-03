@@ -75,7 +75,7 @@ IllusionTempleRewardFenrirRate = 5
 ;==================================================
 ; Imperial Guardian Event Settings
 ;==================================================
-ImperialGuardianEvent = 0
+ImperialGuardianEvent = 1
 ImperialGuardianDifficultRate = 100
 
 ;==================================================
@@ -86,7 +86,7 @@ InvasionManagerSwitch = 1
 ;==================================================
 ; Kanturu Event Settings
 ;==================================================
-KanturuEvent = 0
+KanturuEvent = 1
 
 ;==================================================
 ; Moss Merchant Event Settings
@@ -198,7 +198,7 @@ EventTvtMaxUsers = 20
 ;==================================================
 ; Event Guild vs Guild
 ;==================================================
-EventGvGSwitch = 0
+EventGvGSwitch = 1
 EventGvGNpc = 380
 EventGvGNpcMap = 0
 EventGvGNpcX = 130

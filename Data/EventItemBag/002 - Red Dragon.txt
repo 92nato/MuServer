@@ -1,6 +1,6 @@
 0
 //EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks
-"Red Dragon"		 1000	   100		  1		  0		    0		   1
+"Red Dragon"		 1000	   100		  2		  0		    0		   1
 end
 
 1

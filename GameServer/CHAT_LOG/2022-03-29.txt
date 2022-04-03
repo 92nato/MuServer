@@ -16,3 +16,5 @@
 11:16:15 [General][92nato][BinOsAma] - (Message: /e 32000)
 11:16:21 [General][92nato][BinOsAma] - (Message: /v 2966)
 12:35:22 [General][xXManiacXx][Jack] - (Message: /a 469)
+15:58:18 [General][xXManiacXx][Jack] - (Message: /a 147)
+20:17:31 [General][xXManiacXx][Jack] - (Message: /a 56)

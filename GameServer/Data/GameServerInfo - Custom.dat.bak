@@ -2,7 +2,7 @@
 ;==================================================
 ; Announce Chaos Mix Settings
 ;==================================================
-AnnounceChaosMix = 0
+AnnounceChaosMix = 1
 AnnounceChaosMixText = %s put the item %s +15
 
 ;==================================================
@@ -167,7 +167,7 @@ GuildWarehouseStatus = 0
 ; 1: Only for coins
 ; 2: All purchases
 ;==================================================
-CustomShopMessageBox = 1
+CustomShopMessageBox = 0
 
 ;==================================================
 ; Custom Quest Settings (CustomNpcQuest.txt)

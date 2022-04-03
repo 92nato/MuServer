@@ -4,3 +4,6 @@
 11:35:15 [ClientManager][2] ClientInfo (HardwareId: 4BA2D521-B4DDE6A5-D47B9F6C-B91588D1)
 11:35:25 [ClientManager][1] DelClient (186.143.163.205)
 12:04:24 [ClientManager][2] DelClient (200.5.101.170)
+16:49:39 [ClientManager][0] DelClient (181.191.143.33)
+19:20:01 [ClientManager][1] AddClient (181.191.143.33)
+19:20:01 [ClientManager][1] ClientInfo (HardwareId: 0AE1F919-ACCDFEB5-CD6A8D75-8941EADE)

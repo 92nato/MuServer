@@ -2,13 +2,13 @@
 ;==================================================
 ; Announce Chaos Mix Settings
 ;==================================================
-AnnounceChaosMix = 0
+AnnounceChaosMix = 1
 AnnounceChaosMixText = %s put the item %s +15
 
 ;==================================================
 ; Custom Arena Settings
 ;==================================================
-CustomArenaSwitch = 0
+CustomArenaSwitch = 1
 CustomArenaVictimScoreDecrease = 10
 CustomArenaKillerScoreIncrease = 100
 CustomArenaText1 = [%s] will close in %d minute(s)

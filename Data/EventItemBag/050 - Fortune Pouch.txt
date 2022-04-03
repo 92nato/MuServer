@@ -1,6 +1,6 @@
 0
 //EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
-"Fortune Pouch"	         1000	   100		  1		  0		    0		   1
+"Fortune Pouch"	         1000	   100		  2		  0		    0		   1
 end
 
 1
@@ -12,10 +12,10 @@ end
 14           14      *           *          *      *       *         0      //soul
 13            8      2           5          0      *       1         0      //ring of ice
 13            9      2           5          0      *       1         0      //ring of poison
-13           10      2          5          0      *       1         0      //ring of transformation
+
 13           12      2           5          0      *       1         0      //pendant of lighting
 13           13      2           5          0      *       1         0      //pendant of fire
-13           20      2           5          0      *       1         0      //wizard ring
+
 13           21      2           5          0      *       1         0      //ring of fire
 13           22      2           5          0      *       1         0      //ring of earth
 13           23      2           5          0      *       1         0      //ring of wind

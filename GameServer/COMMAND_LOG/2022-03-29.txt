@@ -12,3 +12,5 @@
 11:16:15 [CommandAddPoint][92nato][BinOsAma] - (Type: 3, Amount: 32000)
 11:16:21 [CommandAddPoint][92nato][BinOsAma] - (Type: 2, Amount: 2966)
 12:35:22 [CommandAddPoint][xXManiacXx][Jack] - (Type: 1, Amount: 469)
+15:58:18 [CommandAddPoint][xXManiacXx][Jack] - (Type: 1, Amount: 147)
+20:17:31 [CommandAddPoint][xXManiacXx][Jack] - (Type: 1, Amount: 56)
